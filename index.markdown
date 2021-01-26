@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong**, DPhil Candidate <br /> <br /> Systems Biology, MPLS Doctoral Training Center <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120)	[LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong**, DPhil Candidate <br /> <br /> Systems Biology, MPLS Doctoral Training Center <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> Hertford College <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120)	[LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
 
 
 ## **Education** 
@@ -17,8 +17,8 @@ title: Home
 
 ## **Current Research Topics**
 - Towards a unified dynamical theory of oncogenic alterations in human cancers. 
-- Inherited genetic variants by somatic driver mutations interactions during tumorigenesis. 
-- Evaluating the role of inherited genetic variants on cancer risk, anti-tumor immune response and prognosis.
+- Interactions between inherited genome and somatic driver events in tumorigenesis. 
+- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis of colorectal cancer.
 - Network and dynamical modeling of mammalian transcriptome. 
 
 
