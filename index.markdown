@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong**, DPhil Candidate <br /> Systems Biology, MPLS Doctoral Training Center <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) <br /> [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong**, DPhil Candidate <br /> <br /> Systems Biology, MPLS Doctoral Training Center <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) <br /> [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
 
 
 ## **Education** 
