@@ -17,7 +17,7 @@ title: Home
 
 ## **Current Research Topics**
 - Towards a unified dynamical theory of oncogenic alterations in human cancers. 
-- Interactions between inherited genome and somatic driver events in tumorigenesis. 
+- Influence of the inherited genome on somatic driver events during tumorigenesis. 
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis of colorectal cancer.
 - Network and dynamical modeling of mammalian transcriptome. 
 
