@@ -19,7 +19,7 @@ title: Home
 - Towards a unified dynamical theory of oncogenic alterations in human cancers. 
 - Influence of the inherited genome on somatic driver events during tumorigenesis. 
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis of colorectal cancer.
-- Network and dynamical modeling of mammalian transcriptome. 
+- Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
 
 
 
