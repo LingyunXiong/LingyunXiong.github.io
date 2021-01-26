@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-Date: 2021-01-26
+Date: Jan 26, 2021
 
 Welcome to the personal website of Lingyun (Ivy) Xiong! 
 
