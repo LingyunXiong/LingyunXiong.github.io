@@ -10,13 +10,17 @@ title: Home
 
 ## **Research Statement in Brief**
 
-What are the fundamental principles of cancer biology? To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that drive oncogenesis. By integrating existing knowlege in molecular biology, genomics and mathematics, my research aims to establish theoretical framework and analytic workflow that would shed light into the essence of cancer biology. Currently, I am training in mathematical oncology, with a focus on nonlinear dynamics and dynamical systems theory.
+*Q: What are the fundamental principles of cancer biology?* 
+
+To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that drive oncogenesis. By integrating existing knowlege in molecular biology, genomics and mathematics, my research aims to establish theoretical framework and analytic workflow that would shed light into the essence of cancer biology. 
+
+Currently, I am training in mathematical oncology, with a focus on nonlinear dynamics.
 
 
 ## **Active Research Topics**
-- Towards a unified theory of oncogenic alterations in the p53 tumor suppressor pathway in human cancers. 
+- Towards a unified dynamical theory of oncogenic alterations in the p53 tumor suppressor pathway in human cancers. 
 - Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
-- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis of colorectal cancer.
+- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
 
 
