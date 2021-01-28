@@ -4,14 +4,6 @@ title: News
 permalink: /News/
 ---
 
-# My upcoming talk at UCLA QCBio
-Post date: Jan 28, 2021
-
-Hello everyone! I am going to give a talk at UCLA QCBio Research Seminar on Feb 5, 2021 at 11 am (PST). I will present my latest work titled 'Oncogenic alterations in the p53 pathway abolish oscillatory competence'. It will be my great pleasure to have you there! 
-
-For more details and joining instructions, please click [here](https://qcb.ucla.edu/event/qcbio-research-seminar-lingyun-ivy-xiong-garfinkel/). See you soon!
-
-
 # Debutting my personal website
 Post date: Jan 26, 2021
 
