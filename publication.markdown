@@ -5,9 +5,9 @@ permalink: /Publications/
 ---
 
 - Oncogenic alterations in the p53 pathway abolish oscillatory competence. \
-**Lingyun Xiong**, Alan Garfinkel. *(Submitted)* \
-Abstract: The tumor suppressor p53 displays concentration oscillations in response to
-DNA damage, a behavior that has been suggested to be essential to its anti-cancer function. Many genetic alterations in the p53 pathway have been shown to be oncogenic, whether by experiment or by clinical associations with various cancers. These oncogenic alterations include somatic mutations, copy number variations and inherited genetic polymorphisms. Using a differential equation model of p53-Mdm2 dynamics, we employ Hopf bifurcation analysis to show that all of the oncogenic perturbations have a common effect, to abolish the oscillatory competence of p53, thereby impairing its tumor suppressor function. In this analysis, these diverse genetic alterations, widely observed in human cancers, have a unified mechanistic explanation.
+**Lingyun Xiong**, Alan Garfinkel. \
+bioRxiv; https://doi.org/10.1101/2021.02.09.430245 [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
+
 
 - Macroscale network feedback structure of transcriptome during cell fate transition. \
 **Lingyun Xiong**, William A. Schoenberg, Jeremy D. Swartz. \
