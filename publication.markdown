@@ -15,7 +15,7 @@ bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.or
 
 - Inherited and somatic genetic variants in the p53 pathway interact to affect cancer risk and progression. \
 Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Katherine Brown, Philipp Richter, Marsha Wallace, Elisabeth Bond, Natasha Sahgal, Samantha Moore, Svanhild Nornes, Sarah De Val, Mirvat Surakhy, David Sims, Xuting Wang, Douglas A Bell, Jorge Zeron-Medina, Yanyan Jiang, Anderson Ryan, Joanna Selfe, Janet Shipley, Siddhartha Kar, Paul Pharoah, Chey Loveday, Rick Jansen, Lukasz F. Grochola, Claire Palles, Andrew Protheroe, Val Millar, Daniel Ebner, Meghana Pagadala, Sarah P Blagden, Tim Maughan, Enric Domingo, Ian Tomlinson, Clare Turnbull, Hannah Carter, Gareth Bond. \
-**Cancer Res.**, 2021 Feb 8;canres.0177.2020.  doi: 10.1158/0008-5472.CAN-20-0177. Online ahead of print.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33558336/)
+**Cancer Res.** 2021 Feb 8;canres.0177.2020. Online ahead of print.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33558336/)
 
 - Heritable genetic variants in key cancer genes link cancer risk with anthropometric traits. \
 Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Natasha Sahgal, Giovanni Stracquadanio, Marsha Wallace, Sarah Blagden, Simon Lord, David A. Harris, Adrian Harris, Francesca M. Buffa, Gareth Bond. \
