@@ -23,7 +23,7 @@ Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith,
 
 - SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway. \
 Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
-**Oncogene**, 36(46):6472–6479.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/28759035/)
+**Oncogene**, 2017;36(46):6472–6479.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/28759035/)
 
 
 

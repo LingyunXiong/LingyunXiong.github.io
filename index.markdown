@@ -17,7 +17,7 @@ Currently, I am training in mathematical oncology, with a focus on nonlinear dyn
 
 
 ## **A glance at my research topics**
-- Towards a unified dynamical theory of oncogenic alterations in the p53 tumor suppressor pathway in human cancers. 
+- Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
 - Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
