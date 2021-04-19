@@ -16,7 +16,7 @@ To address this question, I am taking a trans-disciplinary approach to mechanist
 Currently, I am training in mathematical oncology, with a focus on nonlinear dynamics.
 
 
-## **Current research topics**
+## **Ongoing research topics**
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
 - Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
 - Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
