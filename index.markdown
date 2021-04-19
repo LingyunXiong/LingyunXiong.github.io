@@ -17,14 +17,14 @@ Currently, I am training in mathematical oncology, with a focus on nonlinear dyn
 
 
 ## **A glance at my research topics**
-- Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
-- Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
+- Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
+- Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
 
 
 ## **Qualifications** 
-* DPhil in Systems Biology, University of Oxford (Expected 2021)
+* DPhil in Systems Biology, University of Oxford (2021)
 * B.Sc in Biochemistry, University of Hong Kong (2016) 
 * Study abroad in Biology, University of California San Diego (2015)
 
