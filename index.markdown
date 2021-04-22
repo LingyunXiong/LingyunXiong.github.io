@@ -21,6 +21,7 @@ Currently, I am training in mathematical oncology, with a focus on nonlinear dyn
 - Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
 - Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
+- Coordination of biological oscillators in mammalian systems.
 
 
 ## **Qualifications** 
