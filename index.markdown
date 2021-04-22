@@ -11,7 +11,7 @@ layout: home
 
 *Q: What are the fundamental principles of cancer biology?* 
 
-To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that drive oncogenesis. By integrating existing knowlege in Molecular Biology, Genomics and Biomathematics, my research aims to establish theoretical and analytic frameworks that would shed light into the essence of cancer biology. 
+To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that cause cancer. By integrating existing knowlege in Molecular Biology, Genomics and Biomathematics, my research aims to establish theoretical and analytic frameworks that would shed light into the essence of oncogenesis and/or tumor progression. 
 
 Currently, I am training in mathematical oncology, with a focus on nonlinear dynamics.
 
