@@ -26,7 +26,7 @@ Currently, I am training in mathematical oncology, with a focus on nonlinear dyn
 
 ## **Qualifications** 
 * DPhil in Systems Biology, University of Oxford (2021)
-* B.Sc in Biochemistry, University of Hong Kong (2016) 
+* BSc in Biochemistry, University of Hong Kong (2016) 
 * Study abroad in Biology, University of California San Diego (2015)
 
 
