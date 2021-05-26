@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, DPhil (Oxon)** <br /><br /> Systems Biology (EPSRC CDT) - NDM <br /> MPLS Doctoral Training Center <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> Nuffield Department of Clinical Medicine <br /> Hertford College <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, DPhil (Oxon)** <br /><br /> Systems Biology (EPSRC CDT) - NDM <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> Nuffield Department of Clinical Medicine <br /> Hertford College <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
 
 ## **My research in brief**
 
@@ -13,7 +13,7 @@ layout: home
 
 To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that cause cancer. By integrating existing knowlege in Molecular Biology, Genomics and Biomathematics, my research aims to establish theoretical and analytic frameworks that would shed light into the essence of oncogenesis and/or tumor progression. 
 
-Currently, I am training in mathematical oncology, with a focus on nonlinear dynamics.
+Currently, I am training in mathematical oncology, with a special interest in nonlinear dynamics.
 
 
 ## **Ongoing research topics**
