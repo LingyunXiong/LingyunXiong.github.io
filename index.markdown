@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Systems Biology (EPSRC CDT) - NDM <br /> Ludwig Institute for Cancer Research <br /> Wellcome Centre for Human Genetics <br /> Nuffield Department of Clinical Medicine <br /> Hertford College <br /> University of Oxford <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Postdoctoral Research Scholar <br /> Department of Quantitative and Computational Biology <br /> Eli and Edythe Broad CIRM Center (Stem Cell) <br /> University of Southern California <br /> <br /> [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
 
 ## **My research in brief**
 
