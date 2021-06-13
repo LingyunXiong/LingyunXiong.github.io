@@ -8,6 +8,6 @@ This site presents the latest research updates from Lingyun (Ivy) Xiong.
 
 For further inquiries, please don't hesitate to contact me!
 
-Email: [lingyun.xiong@dtc.ox.ac.uk](mailto:lingyun.xiong@dtc.ox.ac.uk)
+Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)
 
 &copy; 2021. All rights reserved.

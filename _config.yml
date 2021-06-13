@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lingyun Xiong
-email: lingyun.xiong@dtc.ox.ac.uk
+email: lingyunx@usc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Research Profile
 baseurl: "" # the subpath of your site, e.g. /blog
