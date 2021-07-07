@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Postdoctoral Research Scholar <br /> Department of Quantitative and Computational Biology <br /> Eli and Edythe Broad CIRM Center (Stem Cell) <br /> University of Southern California <br /> <br /> [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-ivy-xiong-48975b97/) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Postdoctoral Research Scholar <br /> Department of Stem Cell Biology and Regenerative Medicine <br /> Department of Quantitative and Computational Biology <br /> University of Southern California <br /> <br /> [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
 
 ## **My research in brief**
 
