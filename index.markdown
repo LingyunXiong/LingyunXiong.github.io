@@ -9,19 +9,14 @@ layout: home
 
 ## **My research in brief**
 
-*Q: What are the fundamental principles of cancer biology?* 
-
-To address this question, I am taking a trans-disciplinary approach to mechanistically explain key processes that cause cancer. By integrating existing knowlege in Molecular Biology, Genomics and Biomathematics, my research aims to establish theoretical and analytic frameworks that would shed light into the essence of oncogenesis and/or tumor progression. 
-
-Currently, I am training in mathematical oncology, with a special interest in nonlinear dynamics.
+xtensive biomedical studies have identified transcription factors that are essential for biological phenotypes in normal physiology and pathophysiology. However, how these proteins act biophysically to direct biological processes that underlie physiological phenomena is not well understood, especially in relation to other proteins as well as in the context of the intracellular signaling network. Hinged on known feedback relationships in mammalian systems, ranging from molecular to organ system level, my research utilizes techniques from nonlinear dynamics to investigate the mechanisms of state transitions in normal physiology and between normal physiology and pathophysiology. Having shown that genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer, I am currently studying sex differences of cellular energetics and tubuloglomerular feedback in the kidney. 
 
 
-## **Ongoing research topics**
+## **Research topics**
+- Sexual dimorphism of kidney diseases
+- Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
 - Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
 - Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
-- Towards a unified mechanistic explanation of genetic alterations in the p53 tumor suppressor pathway in human cancers. 
-- Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
-- Coordination of biological oscillators in mammalian systems.
 
 
 ## **Qualifications** 
