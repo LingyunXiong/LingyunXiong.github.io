@@ -9,7 +9,9 @@ layout: home
 
 ## **My research in brief**
 
-xtensive biomedical studies have identified transcription factors that are essential for biological phenotypes in normal physiology and pathophysiology. However, how these proteins act biophysically to direct biological processes that underlie physiological phenomena is not well understood, especially in relation to other proteins as well as in the context of the intracellular signaling network. Hinged on known feedback relationships in mammalian systems, ranging from molecular to organ system level, my research utilizes techniques from nonlinear dynamics to investigate the mechanisms of state transitions in normal physiology and between normal physiology and pathophysiology. Having shown that genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer, I am currently studying sex differences of cellular energetics and tubuloglomerular feedback in the kidney. 
+Extensive biomedical studies have identified transcription factors that are essential for biological phenotypes in normal physiology and pathophysiology. However, how these proteins act biophysically to direct biological processes that underlie physiological phenomena is not well understood, especially in relation to other proteins as well as in the context of the intracellular signaling network. 
+
+Hinged on known feedback relationships in mammalian systems, ranging from molecular to organ system level, my research utilizes techniques from nonlinear dynamics to investigate the mechanisms of state transitions in normal physiology and between normal physiology and pathophysiology. Having shown that genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer, I am currently studying sex differences of cellular energetics and tubuloglomerular feedback in the kidney. 
 
 
 ## **Research topics**
