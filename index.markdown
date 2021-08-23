@@ -16,9 +16,9 @@ Hinged on known feedback relationships in mammalian systems, ranging from molecu
 
 ## **Research topics**
 - Sexual dimorphism of kidney diseases
-- Network and dynamical modeling of mammalian transcriptome during cell fate transition. 
-- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer.
-- Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis. 
+- Network and dynamical modeling of mammalian transcriptome during cell fate transition 
+- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer
+- Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis
 
 
 ## **Qualifications** 
