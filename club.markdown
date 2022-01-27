@@ -14,6 +14,8 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 
 ***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([Link](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([Course Materials](https://modelinginbiology.github.io))
 
+&nbsp;
+&nbsp;
 
 # Launch Event: 1/20/2022 
 Topic: Introduction + Cell Fate Transitions ([Contents](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
@@ -28,6 +30,8 @@ Topic: Bifurcations in Cell Fate Transition and Applications
 - May: Multiscale Modeling in Biology
 - Jun: Pattern Formation
 
+&nbsp;
+&nbsp;
 
 # Logistics
 
