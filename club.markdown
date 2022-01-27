@@ -36,3 +36,4 @@ Topic: Bifurcations in Cell Fate Transition and Applications
 # Logistics
 
 Please sign up [here](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
+![DynamicsClub](/images/DynamicsClub.pdf)
