@@ -4,7 +4,7 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-# Monthly Book Club @ USC QCB (Or Special Sessions on Demand)
+# Monthly Book Club @ USC QCB (Plus Special Sessions on Demand)
 
 You are cordially invited to join the MacLean Lab in discussing everything interesting about nonlinear dynamics and its applications to tackle the most challenging biological questions. Guest speakers are welcome! 
 
