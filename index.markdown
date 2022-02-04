@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Postdoctoral Research Scholar <br /> Stem Cell Biology and Regenerative Medicine <br />Quantitative and Computational Biology <br /> University of Southern California <br /> <br /> [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, PhD (Oxon)** <br /><br /> Postdoctoral Scholar <br /> Stem Cell Biology and Regenerative Medicine <br />Quantitative and Computational Biology <br /> University of Southern California <br /> <br /> [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
 
 ## **My research in brief**
 
@@ -15,11 +15,10 @@ Hinged on known feedback relationships in mammalian systems, ranging from molecu
 
 
 ## **Research topics**
-- Sexual dimorphism of kidney diseases
+- Sex differences in the mouse kidney
+- Mathematical and physiological modeling of the nephron
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition 
-- Evaluating the role of inherited genetic variants on risk, anti-tumor immune response and prognosis in colorectal cancer
-- Influence of the inherited genome on somatic driver events in the p53 and RAS-MAPK pathways during oncogenesis
-
+- Comparative studies of mammalian physiology
 
 ## **Qualifications** 
 * DPhil in Systems Biology, University of Oxford (2021)
