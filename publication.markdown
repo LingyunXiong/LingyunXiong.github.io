@@ -13,13 +13,13 @@ Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E.
 . \
 bioRxiv; https://doi.org/10.1101/2021.11.12.468410 [**Preprint**](https://doi.org/10.1101/2021.11.12.468410)
 
-- **Genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer.** \
-**Lingyun Xiong**, Alan Garfinkel. \
-**PBMB** (*In Press*); [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
-
 - **Macroscale network feedback structure of transcriptome during cell fate transition.** \
 **Lingyun Xiong**, William A. Schoenberg, Jeremy D. Swartz. \
 bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.org/10.1101/2020.06.24.169490)
+
+- **Genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer.** \
+**Lingyun Xiong**, Alan Garfinkel. \
+**PBMB** (*In Press*); [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
 
 - **Germline and somatic genetic variants in the p53 pathway interact to affect cancer risk, progression, and drug response.** \
 Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Katherine Brown, Philipp Richter, Marsha Wallace, Elisabeth Bond, Natasha Sahgal, Samantha Moore, Svanhild Nornes, Sarah De Val, Mirvat Surakhy, David Sims, Xuting Wang, Douglas A Bell, Jorge Zeron-Medina, Yanyan Jiang, Anderson Ryan, Joanna Selfe, Janet Shipley, Siddhartha Kar, Paul Pharoah, Chey Loveday, Rick Jansen, Lukasz F. Grochola, Claire Palles, Andrew Protheroe, Val Millar, Daniel Ebner, Meghana Pagadala, Sarah P Blagden, Tim Maughan, Enric Domingo, Ian Tomlinson, Clare Turnbull, Hannah Carter, Gareth Bond. \
