@@ -16,7 +16,7 @@ Hinged on known feedback relationships in mammalian systems, ranging from molecu
 
 ## **Research topics**
 - Sex differences in the mouse kidney
-- Mathematical and physiological modeling of the nephron
+- Mathematical modeling of the nephron physiology
 - Network and dynamical modeling of mammalian transcriptome during cell fate transition 
 - Comparative studies of mammalian physiology
 
