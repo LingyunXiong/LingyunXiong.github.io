@@ -4,10 +4,18 @@ title: Publications
 permalink: /Publications/
 ---
 
-- Oncogenic alterations in the p53 pathway abolish oscillatory competence. \
-**Lingyun Xiong**, Alan Garfinkel. \
-bioRxiv; https://doi.org/10.1101/2021.02.09.430245 [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
+- On feedback relationships in cell fate transition. \
+**Lingyun Xiong**. \
+Book Chapter (*In Preparation*)
 
+- Genomic hallmarks of cellular dormancy in cancer and therapeutic implications. \
+Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier
+. \
+bioRxiv; https://doi.org/10.1101/2021.11.12.468410 [**Preprint**](https://doi.org/10.1101/2021.11.12.468410)
+
+- Genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer. \
+**Lingyun Xiong**, Alan Garfinkel. \
+PBMB (*In Press*); [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
 
 - Macroscale network feedback structure of transcriptome during cell fate transition. \
 **Lingyun Xiong**, William A. Schoenberg, Jeremy D. Swartz. \
