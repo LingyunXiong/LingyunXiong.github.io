@@ -17,15 +17,15 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 &nbsp;
 
-# Launch Event: 1/20/2022 
+# Launch Event on Jan 20, 2022 
 Topic: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 
-# Upcoming Event: 2/17/2022
+# Upcoming Event on Feb 17, 2022
 Topic: Bifurcations in Cell Fate Transition and Applications
 
 # Planned Topics
 
-- Mar: Cell Fate Transitions: From Cells to Tissues
+- Mar: Cell Fate Transitions: From Cells to Tissues (Mar 24, 2022)
 - Apr: Oscillations in Biological Systems
 - May: Multiscale Modeling in Biology
 - Jun: Pattern Formation
@@ -36,4 +36,4 @@ Topic: Bifurcations in Cell Fate Transition and Applications
 # Logistics
 
 Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub.pdf)
+![DynamicsClub](/images/DynamicsClub_Feb2022.pdf)
