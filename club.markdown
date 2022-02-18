@@ -8,6 +8,9 @@ permalink: /DynamicsClub/
 
 You are cordially invited to join the MacLean Lab in discussing everything interesting about nonlinear dynamics and its applications to tackle the most challenging biological questions. Guest speakers are welcome! 
 
+&nbsp;
+&nbsp;
+
 # Key References (PDFs are available online): 
 
 ***Nonlinear Dynamics and Chaos*** by Steven Strogatz ([Link](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering))
@@ -38,4 +41,4 @@ Cell Fate Transitions: From Cells to Tissues
 # Logistics
 
 Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub_Feb2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2022.pdf)
