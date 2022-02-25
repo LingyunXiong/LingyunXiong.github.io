@@ -20,8 +20,10 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 &nbsp;
 
-# Upcoming Event on Mar 24, 2022
-Cell Fate Transitions: From Cells to Tissues
+# Upcoming Event on Mar 31, 2022 at 11AM (PST)
+Topic: Cell Fate Transitions -- From Cells to Tissues
+Featured Speaker: [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)
+Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 
 # Past Events
 - Introduction + Cell Fate Transitions (Jan 20, 2022)([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
