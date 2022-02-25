@@ -45,4 +45,4 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 # Logistics
 
 Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub_Mar2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2022re.pdf)
