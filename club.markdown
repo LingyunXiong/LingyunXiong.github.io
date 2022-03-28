@@ -33,11 +33,13 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 
 # Overview of Topics
 
-- Apr: Oscillations in Biological Systems
-- May: Multiscale Modeling in Biology
-- Jun: Pattern Formation
-- Jul: TBA
+- Apr: Multiscale Modeling in Biology
+- May: Oscillations in Biological Systems
+- Jun: NF-kB oscillations in immune response
+- Jul: Pattern Formation
 - Aug: Mathematical Oncology
+- Sept: Enhancer-promoter regulation on gene expression
+- Oct: Multi-scale dynamics in plant tissue patterning
 
 &nbsp;
 &nbsp;
