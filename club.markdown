@@ -17,6 +17,12 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 
 ***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([Link](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([Course Materials](https://modelinginbiology.github.io))
 
+# Additional References:
+
+***Self-Organization in Biological Systems*** by Scott Camazine, Jean-Louis Deneubourg, Nigel Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau
+
+***Biochemical Oscillations and Cellular Rhythms*** by Albert Goldbeter
+
 &nbsp;
 &nbsp;
 
