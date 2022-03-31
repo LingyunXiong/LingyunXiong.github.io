@@ -30,7 +30,7 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 # Upcoming Event on Apr 21, 2022 at 11AM (PST)
 Topic: Multiscale Modeling in Biology
 
-Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
+Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
 # Past Events
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
@@ -53,4 +53,4 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 # Logistics
 
 Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub_Mar2022re.pdf)
+![DynamicsClub](/images/DynamicsClub_Apr2022.pdf)
