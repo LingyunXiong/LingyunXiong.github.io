@@ -17,6 +17,7 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 
 ***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([Link](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([Course Materials](https://modelinginbiology.github.io))
 
+
 # Additional References:
 
 ***Self-Organization in Biological Systems*** by Scott Camazine, Jean-Louis Deneubourg, Nigel Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau
@@ -26,20 +27,19 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 &nbsp;
 
-# Upcoming Event on Mar 31, 2022 at 11AM (PST)
-Topic: Cell Fate Transitions -- From Cells to Tissues
-
-Featured Speaker: [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/))
+# Upcoming Event on Apr 21, 2022 at 11AM (PST)
+Topic: Multiscale Modeling in Biology
 
 Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 
 # Past Events
 - Introduction + Cell Fate Transitions (Jan 20, 2022)([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Bifurcations in Cell Fate Transition and Applications (Feb 17, 2022)([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
+- Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
+
 
 # Overview of Topics
 
-- Apr: Multiscale Modeling in Biology
 - May: Oscillations in Biological Systems
 - Jun: NF-kB oscillations in immune response
 - Jul: Pattern Formation
