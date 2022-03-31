@@ -35,7 +35,7 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 993 7089 4006; Passcode: 570688)
 # Past Events
 - Introduction + Cell Fate Transitions (Jan 20, 2022)([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Bifurcations in Cell Fate Transition and Applications (Feb 17, 2022)([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
-- Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
+- Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) (Mar 31, 2022)([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 
 
 # Overview of Topics
