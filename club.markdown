@@ -28,7 +28,10 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 
 # Upcoming Event on Apr 21, 2022 at 11AM (PST)
+
 Topic: Multiscale Modeling in Biology
+
+Featured Speaker: Vardges Tserunyan (Finley Lab, USC)
 
 Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
@@ -41,8 +44,8 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 # Overview of Topics
 
 - May: Oscillations in Biological Systems
-- Jun: NF-kB oscillations in immune response
-- Jul: Pattern Formation
+- Jun: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
+- Jul: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical Oncology
 - Sept: Enhancer-promoter regulation on gene expression
 - Oct: Multi-scale dynamics in plant tissue patterning
