@@ -31,7 +31,7 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 
 Topic: Modeling NF-kB signaling in CAR cell design
 
-Featured Speaker: Vardges Tserunyan (Finley Lab, USC)
+Featured Speaker: [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC)
 
 Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
@@ -57,4 +57,4 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 # Logistics
 
 Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub_Apr2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Apr2022re.pdf)
