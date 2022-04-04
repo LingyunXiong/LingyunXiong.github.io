@@ -50,6 +50,7 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 - Sept: Enhancer-promoter regulation on gene expression
 - Oct: Pattern Formation 
 - Nov: Multi-scale dynamics in plant tissue patterning
+- Dec: Circadian and ultradian rhythms
 
 &nbsp;
 &nbsp;
