@@ -49,10 +49,10 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 - May 5: Oscillations in Biological Systems
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
-- Aug: Mathematical Oncology
-- Sept: Enhancer-promoter regulation on gene expression
+- Aug: Mathematical Oncology (Colin Cess - Finley lab, USC)
+- Sept: Enhancer-promoter regulation on gene expression 
 - Oct: Pattern Formation 
-- Nov: Multi-scale dynamics in plant tissue patterning
+- Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
 - Dec: Circadian and ultradian rhythms
 
 &nbsp;
