@@ -44,7 +44,7 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 
 
-# Planned Sessions
+# Main Sessions
 
 - May 5: Oscillations in Biological Systems
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
