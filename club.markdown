@@ -44,16 +44,23 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 
 
-# Planned Topics
+# Planned Sessions
 
 - May 5: Oscillations in Biological Systems
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
-- Aug: Mathematical Oncology (Colin Cess - Finley lab, USC)
+- Aug: Mathematical Oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sept: Enhancer-promoter regulation on gene expression 
 - Oct: Pattern Formation 
 - Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
 - Dec: Circadian and ultradian rhythms
+
+# Special Sessions
+
+- A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
+- Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
+- Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
+- Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 &nbsp;
 &nbsp;
