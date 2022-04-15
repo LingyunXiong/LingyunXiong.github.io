@@ -38,13 +38,7 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 &nbsp;
 &nbsp;
 
-# Past Events
-- Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
-- Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
-- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
-
-
-# Main Sessions
+# Planned Sessions
 
 - May 5: Oscillations in Biological Systems
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
@@ -61,6 +55,12 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 - Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
 - Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
+
+# Past Events
+
+- Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
+- Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
+- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 
 &nbsp;
 &nbsp;
