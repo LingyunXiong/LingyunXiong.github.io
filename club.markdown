@@ -40,7 +40,7 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
 # Planned Sessions
 
-- May 5: Oscillations in Biological Systems
+- May 5: Creative functions of biological oscillations
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical Oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
@@ -52,8 +52,8 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 # Special Sessions
 
 - A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
+- Jun 16: Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
 - Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
-- Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 # Past Events
