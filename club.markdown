@@ -27,20 +27,17 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 &nbsp;
 
-# Upcoming Event on Apr 21, 2022 at 11AM (PST)
+# Upcoming Event on May 5, 2022 at 11AM (PT)
 
-Topic: Modeling NF-kB signaling in CAR cell design
+Topic: Creative functions of biological oscillations
 
-Featured Speaker: [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC)
-
-Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
+Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
 &nbsp;
 &nbsp;
 
 # Planned Sessions
 
-- May 5: Creative functions of biological oscillations
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
@@ -60,12 +57,13 @@ Hybrid Event: RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
 
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
-- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
+- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
+- Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC)
 
 &nbsp;
 &nbsp;
 
 # Logistics
 
-Please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for event updates.
-![DynamicsClub](/images/DynamicsClub_Apr2022re.pdf)
+Currently, our mailing list has **89** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+![DynamicsClub](/images/DynamicsClub_May2022.pdf)
