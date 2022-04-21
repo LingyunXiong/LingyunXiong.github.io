@@ -29,9 +29,9 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 
 # Upcoming Event on May 5, 2022 at 11AM (PT)
 
-Topic: Creative functions of biological oscillations
+Topic: **Creative functions of biological oscillations**
 
-Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 963 3017 3003; Passcode: 205294)
+Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 
 &nbsp;
 &nbsp;
