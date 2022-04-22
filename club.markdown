@@ -58,7 +58,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
-- Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC)
+- Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Abstract**](https://drive.google.com/file/d/184ldDn_I3pY1c77jlermjocfNuT-QWbK/view?usp=sharing))
 
 &nbsp;
 &nbsp;
