@@ -4,9 +4,9 @@ title: Publications
 permalink: /Publications/
 ---
 
-- **On feedback relationships in cell fate transition.** \
+- **Cell fate transition as a bifurcation event.** \
 **Lingyun Xiong**. \
-Book Chapter (*In Preparation*)
+Book Chapter (*In Press*)
 
 - **Genomic hallmarks of cellular dormancy in cancer and therapeutic implications.** \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier
