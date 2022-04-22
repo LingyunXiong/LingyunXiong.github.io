@@ -48,9 +48,9 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 
 # Special Sessions
 
-- A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
+- May 26: Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
 - Jun 16: Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
-- Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
+- Jul 7: A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 # Past Events
