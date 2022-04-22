@@ -36,7 +36,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 &nbsp;
 &nbsp;
 
-# Planned Sessions
+# Main Sessions
 
 - Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
@@ -65,5 +65,5 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 
 # Logistics
 
-Currently, our mailing list has **89** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+Currently, our mailing list has **92** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
 ![DynamicsClub](/images/DynamicsClub_May2022.pdf)
