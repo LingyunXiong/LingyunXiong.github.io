@@ -35,7 +35,7 @@ Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLe
 
 References: ([**Article 1**](https://proceedings.mlr.press/v144/wang21a.html)) ([**Article 2**](https://www.nature.com/articles/s41467-021-26434-1))
 
-Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
+Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 
 &nbsp;
 &nbsp;
