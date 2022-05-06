@@ -27,9 +27,13 @@ You are cordially invited to join the MacLean Lab in discussing everything inter
 &nbsp;
 &nbsp;
 
-# Upcoming Event on May 5, 2022 at 11AM (PT)
+# Upcoming Event on May 26 (Thur), 2022 at 11AM (PT)
 
-Topic: **Creative functions of biological oscillations**
+Topic: **Physics-informed learning for dynamical systems**
+
+Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) 
+
+References: ([**Article 1**](https://proceedings.mlr.press/v144/wang21a.html)) ([**Article 2**](https://www.nature.com/articles/s41467-021-26434-1))
 
 Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 
@@ -48,7 +52,6 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 
 # Special Sessions
 
-- May 26: Physics-informed learning for dynamical systems (Xiaojun Wu - MacLean Lab, USC)
 - Jun 16: Erk wave in whole-body regeneration (Yuhang Fan - Wang Lab, Stanford)
 - Jul 7: A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
@@ -59,11 +62,12 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 951 8493 5673; Passcode: 828584)
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 - Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Abstract**](https://drive.google.com/file/d/184ldDn_I3pY1c77jlermjocfNuT-QWbK/view?usp=sharing))
+- May 5, 2022: Creative functions of biological oscillations
 
 &nbsp;
 &nbsp;
 
 # Logistics
 
-Currently, our mailing list has **92** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
-![DynamicsClub](/images/DynamicsClub_May2022.pdf)
+Currently, our mailing list has **94** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+![DynamicsClub](/images/DynamicsClub_MaySpecial2022.pdf)
