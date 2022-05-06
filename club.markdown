@@ -33,7 +33,7 @@ Topic: **Physics-informed learning for dynamical systems**
 
 Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) 
 
-References: ([**Article 1**](https://proceedings.mlr.press/v144/wang21a.html)) ([**Article 2**](https://www.nature.com/articles/s41467-021-26434-1))
+References: [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1)
 
 Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 
