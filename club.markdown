@@ -6,16 +6,16 @@ permalink: /DynamicsClub/
 
 # Monthly Book Club @ USC QCB (Plus Special Sessions on Demand)
 
-You are cordially invited to join the MacLean Lab in discussing everything interesting about nonlinear dynamics and its applications to tackle the most challenging biological questions. Guest speakers are welcome! 
+Dynamics Club is a unique platform for junior scientists to discuss how to apply nonlinear dynamics to tackle the most challenging biological questions. You are cordially invited to join the discussion. Guest speakers are welcome! 
 
 &nbsp;
 &nbsp;
 
 # Key References (PDFs are available online): 
 
-***Nonlinear Dynamics and Chaos*** by Steven Strogatz ([Link](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering))
+***Nonlinear Dynamics and Chaos*** by Steven Strogatz ([**Link**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering))
 
-***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([Link](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([Course Materials](https://modelinginbiology.github.io))
+***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([**Link**](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([**Course Materials**](https://modelinginbiology.github.io))
 
 
 # Additional References:
@@ -60,7 +60,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
-- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-franke2/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
+- Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 - Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Abstract**](https://drive.google.com/file/d/184ldDn_I3pY1c77jlermjocfNuT-QWbK/view?usp=sharing))
 - May 5, 2022: Creative functions of biological oscillations
 
