@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 # Monthly Book Club @ USC QCB (Plus Special Sessions on Demand)
 
-Dynamics Club is a unique platform for junior scientists to discuss how to apply nonlinear dynamics to tackle the most challenging biological questions. You are cordially invited to join the discussion. Guest speakers are welcome! 
+Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear dynamics to tackle the most challenging biological questions. You are cordially invited to join the discussion. Guest speakers are welcome! 
 
 &nbsp;
 &nbsp;
