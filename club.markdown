@@ -69,5 +69,5 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 
 # Logistics
 
-Currently, our mailing list has **94** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+Currently, our mailing list has **96** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
 ![DynamicsClub](/images/DynamicsClub_MaySpecial2022.pdf)
