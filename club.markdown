@@ -31,7 +31,7 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 
 Topic: **Physics-informed learning for dynamical systems**
 
-Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) 
+Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1))
 
 References: [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1)
 
@@ -61,7 +61,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
-- Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Abstract**](https://drive.google.com/file/d/184ldDn_I3pY1c77jlermjocfNuT-QWbK/view?usp=sharing))
+- Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1))
 - May 5, 2022: Creative functions of biological oscillations
 
 &nbsp;
