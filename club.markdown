@@ -29,14 +29,18 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 
 # Upcoming Events in June 2022:
 
-### **NF-kB oscillations in immune response** -- Jun 9 (Thur) at 11AM (PT) -- 
+## **NF-kB oscillations in immune response** 
+
+Jun 9 (Thur) at 11AM (PT)
 
 Speaker: [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) ([**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/))
 
 Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 950 6145 4715; Passcode: 211776)
 
 
-### **Erk wave in whole-body regeneration** -- Jun 16 (Thur) at 11AM (PT) -- 
+## **Erk wave in whole-body regeneration** 
+
+Jun 16 (Thur) at 11AM (PT)
 
 Speaker: [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
 
