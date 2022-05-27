@@ -27,22 +27,19 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming Event on May 26 (Thur), 2022 at 11AM (PT)
+# Upcoming Event on Jun 9 (Thur), 2022 at 11AM (PT)
 
-Topic: **Physics-informed learning for dynamical systems**
+Topic: **NF-kB oscillations in immune response**
 
-Speaker: [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1))
+Speaker: [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) ([**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/))
 
-References: [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1)
-
-Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
+Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 950 6145 4715; Passcode: 211776)
 
 &nbsp;
 &nbsp;
 
 # Main Sessions
 
-- Jun 9: NF-kB oscillations in immune response (Dr. Katherine Sheu, UCLA)
 - Jul: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
@@ -56,13 +53,19 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 960 2075 7586; Passcode: 881269)
 - Jul 7: A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
+&nbsp;
+&nbsp;
+
 # Past Events
 
 - Jan 20, 2022: Introduction + Cell Fate Transitions ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
 - Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 - Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1))
-- May 5, 2022: Creative functions of biological oscillations
+- May 5, 2022: Creative Functions of Biological Oscillations
+- May 26, 2022: Physics-informed Learning for Dynamical Systems by [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)) 
+	- Discussing [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) and [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) (**Contents:** [**Part 1**](https://drive.google.com/file/d/1FOuLsaXqO-URepKBGy4Xt8PdbpD24GCH/view?usp=sharing) [**Part 2**](https://drive.google.com/file/d/1Cd4RqStjasddJx_xJM3zgFDjxYP5AuwO/view?usp=sharing))
+
 
 &nbsp;
 &nbsp;
