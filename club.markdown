@@ -35,8 +35,6 @@ Speaker: [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/ka
 
 Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 950 6145 4715; Passcode: 211776)
 
-&nbsp;
-&nbsp;
 
 # Main Sessions
 
@@ -63,8 +61,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 950 6145 4715; Passcode: 211776)
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 - Apr 21, 2022: Modeling NF-kB signaling in CAR cell design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1))
 - May 5, 2022: Creative Functions of Biological Oscillations
-- May 26, 2022: Physics-informed Learning for Dynamical Systems by [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)) 
-	- Discussing [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) and [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) (**Contents:** [**Part 1**](https://drive.google.com/file/d/1FOuLsaXqO-URepKBGy4Xt8PdbpD24GCH/view?usp=sharing) [**Part 2**](https://drive.google.com/file/d/1Cd4RqStjasddJx_xJM3zgFDjxYP5AuwO/view?usp=sharing))
+- May 26, 2022: Physics-informed Learning for Dynamical Systems led by [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)) -- discussing [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) and [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) (Contents: [**Part 1**](https://drive.google.com/file/d/1FOuLsaXqO-URepKBGy4Xt8PdbpD24GCH/view?usp=sharing), [**Part 2**](https://drive.google.com/file/d/1Cd4RqStjasddJx_xJM3zgFDjxYP5AuwO/view?usp=sharing))
 
 
 &nbsp;
@@ -73,4 +70,4 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 950 6145 4715; Passcode: 211776)
 # Logistics
 
 Currently, our mailing list has **96** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
-![DynamicsClub](/images/DynamicsClub_MaySpecial2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Jun2022.pdf)
