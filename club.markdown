@@ -51,7 +51,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 968 9318 2107; Passcode: 412410)
 
 # Main Sessions
 
-- Jul: TBA (Dr. Madhav Mani, Northwestern University)
+- Jul 28: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
 - Oct: Pattern formation 
