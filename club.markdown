@@ -27,20 +27,25 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming Event on June 16, 2022 at 11AM (PT):
+# Upcoming Event in July 2022:
 
-## **Erk wave in whole-body regeneration** 
+## July 7 (11am PT): **A lack of distinct cellular identities in single cell data** 
 
-Speaker: [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
+Speaker: [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA)
 
-Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 968 9318 2107; Passcode: 412410)
+Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 915 9507 5583; Passcode: 310849)
+
+## July 28: Physical biology of organisms
+
+Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
+
+Virtual Event: Zoom
 
 &nbsp;
 &nbsp;
 
 # Main Sessions
 
-- Jul 28: TBA (Dr. Madhav Mani, Northwestern University)
 - Aug: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
 - Oct: Pattern formation 
@@ -49,7 +54,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 968 9318 2107; Passcode: 412410)
 
 # Special Sessions
 
-- Jul 7: A lack of distinct cellular identities in single cell data (Dr. Breanne Sparta, UCLA)
+- Sep: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 &nbsp;
@@ -64,6 +69,7 @@ Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 968 9318 2107; Passcode: 412410)
 - May 5, 2022: Creative Functions of Biological Oscillations
 - May 26, 2022: Physics-informed Learning for Dynamical Systems led by [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)) -- discussing [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) and [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) (Contents: [**Part 1**](https://drive.google.com/file/d/1FOuLsaXqO-URepKBGy4Xt8PdbpD24GCH/view?usp=sharing), [**Part 2**](https://drive.google.com/file/d/1Cd4RqStjasddJx_xJM3zgFDjxYP5AuwO/view?usp=sharing))
 - Jun 9, 2022: NF-kB Oscillations in Immune Response by [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) ([**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/))
+- Jun 16, 2022: Erk Wave in Whole-Body Regeneration by [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
 
 &nbsp;
 &nbsp;
