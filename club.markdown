@@ -29,13 +29,17 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 
 # Upcoming Event in July 2022:
 
-## July 7 (11am PT): **A lack of distinct cellular identities in single cell data** 
+## **A lack of distinct cellular identities in single cell data** 
+
+-- July 7 at 11AM (PT): 
 
 Speaker: [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA)
 
 Hybrid Event: USC RRI 421 & Zoom (Meeting ID: 915 9507 5583; Passcode: 310849)
 
-## July 28: Physical biology of organisms
+## **Physical biology of organisms**
+
+-- July 28 
 
 Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
 
