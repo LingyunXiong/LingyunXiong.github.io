@@ -50,7 +50,7 @@ Virtual Event: Zoom
 
 # Main Sessions
 
-- Aug: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
+- Aug 11: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
 - Oct: Pattern formation 
 - Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
@@ -58,7 +58,8 @@ Virtual Event: Zoom
 
 # Special Sessions
 
-- Sep: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
+- Aug: Simulating blood flow in capillaries (Dr. Ying Zhang, Brandeis University)
+- Sep 26: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 &nbsp;
@@ -80,5 +81,5 @@ Virtual Event: Zoom
 
 # Logistics
 
-Currently, our mailing list has **96** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+Currently, our mailing list has **100** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
 ![DynamicsClub](/images/DynamicsClub_Summer2022.pdf)
