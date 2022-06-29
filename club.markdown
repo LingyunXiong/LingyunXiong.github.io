@@ -81,5 +81,5 @@ Virtual Event: Zoom
 
 # Logistics
 
-Currently, our mailing list has **100** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
+Currently, our mailing list has **106** subscribers! In case you haven't subscribed yet, please sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) for the latest event updates.
 ![DynamicsClub](/images/DynamicsClub_Summer2022.pdf)
