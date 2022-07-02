@@ -4,32 +4,31 @@ title: Publications
 permalink: /Publications/
 ---
 
-- **Cell fate transition as a bifurcation event.** \
+- **Cell fate transition as a bifurcation event** \
 **Lingyun Xiong**. \
 Book Chapter (*In Press*)
 
-- **Genomic hallmarks of cellular dormancy in cancer and therapeutic implications.** \
-Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier
-. \
+- **Genomic hallmarks of cellular dormancy in cancer and therapeutic implications** \
+Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
 bioRxiv; https://doi.org/10.1101/2021.11.12.468410 [**Preprint**](https://doi.org/10.1101/2021.11.12.468410)
 
-- **Macroscale network feedback structure of transcriptome during cell fate transition.** \
+- **Macroscale network feedback structure of transcriptome during cell fate transition** \
 **Lingyun Xiong**, William A. Schoenberg, Jeremy D. Swartz. \
 bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.org/10.1101/2020.06.24.169490)
 
-- **Genetic alterations in the p53 pathway abolish oscillatory competence to promote cancer.** \
+- **A common pathway to cancer: Oncogenic mutations abolish p53 oscillations** \
 **Lingyun Xiong**, Alan Garfinkel. \
-**PBMB** (*Accepted*); [**Preprint**](https://doi.org/10.1101/2021.02.09.430245)
+**PBMB** (*Accepted*); [**Pre-proof**](https://www.sciencedirect.com/science/article/pii/S0079610722000633?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=258280874&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM272149&utm_source=AC_)
 
-- **Germline and somatic genetic variants in the p53 pathway interact to affect cancer risk, progression, and drug response.** \
+- **Germline and somatic genetic variants in the p53 pathway interact to affect cancer risk, progression, and drug response** \
 Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Katherine Brown, Philipp Richter, Marsha Wallace, Elisabeth Bond, Natasha Sahgal, Samantha Moore, Svanhild Nornes, Sarah De Val, Mirvat Surakhy, David Sims, Xuting Wang, Douglas A Bell, Jorge Zeron-Medina, Yanyan Jiang, Anderson Ryan, Joanna Selfe, Janet Shipley, Siddhartha Kar, Paul Pharoah, Chey Loveday, Rick Jansen, Lukasz F. Grochola, Claire Palles, Andrew Protheroe, Val Millar, Daniel Ebner, Meghana Pagadala, Sarah P Blagden, Tim Maughan, Enric Domingo, Ian Tomlinson, Clare Turnbull, Hannah Carter, Gareth Bond. \
 **Cancer Res.** 2021;81:1667–80	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33558336/)
 
-- **Heritable genetic variants in key cancer genes link cancer risk with anthropometric traits.** \
+- **Heritable genetic variants in key cancer genes link cancer risk with anthropometric traits** \
 Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Natasha Sahgal, Giovanni Stracquadanio, Marsha Wallace, Sarah Blagden, Simon Lord, David A. Harris, Adrian Harris, Francesca M. Buffa, Gareth Bond. \
 **J Med Genet**, 2020;0:1–8.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/32591342/) 
 
-- **SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway.** \
+- **SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway** \
 Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
 **Oncogene**, 2017;36(46):6472–6479.	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/28759035/)
 
