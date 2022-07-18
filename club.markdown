@@ -27,13 +27,13 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming Event on July 28, 2022:
+# Upcoming guest lecture on July 28, 2022:
 
-## **Guest Lecture: Towards a Transcriptomic Physics**
+## **Towards a Transcriptomic Physics**
 
 Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
 
-Virtual Event: Zoom
+Virtual event on Zoom (Meeting ID: 910 8283 6703; Passcode: 402295)
 
 &nbsp;
 &nbsp;
