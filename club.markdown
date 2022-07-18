@@ -29,7 +29,7 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 
 # Upcoming Event on July 28, 2022:
 
-## **Physical biology of organisms**
+## **Guest Lecture: Towards a Transcriptomic Physics**
 
 Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
 
@@ -42,9 +42,9 @@ Virtual Event: Zoom
 
 - Aug 11: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
-- Oct: Pattern formation 
+- Oct: Guest lecture on pattern formation (Dr. Dagmar Iber, ETH Zürich BSSE)
 - Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
-- Dec: Circadian and ultradian rhythms
+- Dec: Guest lecture on circadian and ultradian rhythms
 
 # Special Sessions
 
