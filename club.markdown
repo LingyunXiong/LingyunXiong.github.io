@@ -27,7 +27,7 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming guest lecture on July 28, 2022:
+# Upcoming guest lecture on July 28 (11am PT):
 
 ## **Towards a Transcriptomic Physics**
 
@@ -57,11 +57,11 @@ Virtual event on Zoom (Meeting ID: 910 8283 6703; Passcode: 402295)
 
 # Past Events
 
-- Jan 20, 2022: Introduction + Cell Fate Transitions by [**Ivy Xiong**](https://lingyunxiong.github.io) (MacLean Lab, USC) ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
-- Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications by [**Ivy Xiong**](https://lingyunxiong.github.io) (MacLean Lab, USC) ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
+- Jan 20, 2022: Introduction + Cell Fate Transitions by [**Ivy Xiong**](https://lingyunxiong.github.io) ([**Contents**](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing))
+- Feb 17, 2022: Bifurcations in Cell Fate Transition and Applications by [**Ivy Xiong**](https://lingyunxiong.github.io) ([**Contents**](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ))
 - Mar 31, 2022: Cell Fate Transitions -- From Cells to Tissues by [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) ([**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/)) ([**Contents**](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing))
 - Apr 21, 2022: Modeling NF-kB Signaling in CAR Cell Design by [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1))
-- May 5, 2022: Creative Functions of Biological Oscillations by [**Ivy Xiong**](https://lingyunxiong.github.io) (MacLean Lab, USC) 
+- May 5, 2022: Creative Functions of Biological Oscillations by [**Ivy Xiong**](https://lingyunxiong.github.io)
 - May 26, 2022: Physics-informed Learning for Dynamical Systems led by [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)) -- discussing [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) and [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) (Contents: [**Part 1**](https://drive.google.com/file/d/1FOuLsaXqO-URepKBGy4Xt8PdbpD24GCH/view?usp=sharing), [**Part 2**](https://drive.google.com/file/d/1Cd4RqStjasddJx_xJM3zgFDjxYP5AuwO/view?usp=sharing))
 - Jun 9, 2022: NF-kB Oscillations in Immune Response by [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) ([**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/))
 - Jun 16, 2022: Erk Wave in Whole-Body Regeneration by [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
