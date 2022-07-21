@@ -42,7 +42,7 @@ Virtual event on Zoom (Meeting ID: 910 8283 6703; Passcode: 402295)
 
 - Aug 11: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
 - Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
-- Oct: Guest lecture on pattern formation (Dr. Dagmar Iber, ETH Zürich BSSE)
+- Oct 20: Guest lecture on pattern formation (Dr. Dagmar Iber, ETH Zürich BSSE & Dr. Denis Menshykau, Bayer)
 - Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
 - Dec: Guest lecture on circadian and ultradian rhythms
 
