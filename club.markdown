@@ -50,6 +50,7 @@ Virtual event on Zoom (Meeting ID: 910 8283 6703; Passcode: 402295)
 
 - Aug/Sep: Simulating blood flow in capillaries (Dr. Ying Zhang, Brandeis University)
 - Sep 26: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
+- Nonperiodic dynamics in circadian rhythms (Dr. Ruby Kim, University of Michigan)
 - Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
 
 &nbsp;
