@@ -32,7 +32,7 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 - Colin Cess (Finley Lab, USC): **Comparing Complex Model Outputs with Siamese Neural Networks**
 - Dr. Jesse Kreger (MacLean Lab, USC): **Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche** ([**Preprint**](https://doi.org/10.1101/2022.06.15.496246))
 
-Hyrbid event: RRI 421 & Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
+Hybrid event: RRI 421 & Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 &nbsp;
 &nbsp;
