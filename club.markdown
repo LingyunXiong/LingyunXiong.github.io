@@ -27,30 +27,25 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming guest lecture on July 28 (11am PT):
+# Upcoming event on August 11 (11am PT):
 
-## **Towards a Transcriptomic Physics [Cancelled]**
+- Colin Cess (Finley Lab, USC): **Comparing Complex Model Outputs with Siamese Neural Networks**
+- Dr. Jesse Kreger (MacLean Lab, USC): **Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche** ([**Preprint**](https://doi.org/10.1101/2022.06.15.496246))
 
-Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
-
+Hyrbid event: RRI 421 & Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 &nbsp;
 &nbsp;
 
-# Main Sessions
+# Scheduled Sessions
 
-- Aug 11: Mathematical oncology (Colin Cess - Finley Lab & Dr. Jesse Kreger, USC)
-- Sep: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
+- Sep 26: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
+- Sep/Oct: Simulating blood flow in capillaries (Dr. Ying Zhang, Brandeis University)
+- Oct: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
 - Oct 20: Guest lecture on pattern formation (Dr. Dagmar Iber, ETH Zürich BSSE & Dr. Denis Menshykau, Bayer)
 - Nov: Multi-scale dynamics in plant tissue patterning (Dr. Renee Dale, Danforth Center St Louis)
 - Dec: Guest lecture on circadian and ultradian rhythms
-
-# Special Sessions
-
-- Aug/Sep: Simulating blood flow in capillaries (Dr. Ying Zhang, Brandeis University)
-- Sep 26: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
-- Nonperiodic dynamics in circadian rhythms (Dr. Ruby Kim, University of Michigan)
-- Dynamic mode decomposition in time-series gene expression (Aqib Hasnain - Yeung Lab, UCSB)
+- Dec: Nonperiodic dynamics in circadian rhythms (Dr. Ruby Kim, University of Michigan)
 
 &nbsp;
 &nbsp;
@@ -66,6 +61,7 @@ Speaker: [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern Univers
 - Jun 9, 2022: NF-kB Oscillations in Immune Response by [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) ([**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/))
 - Jun 16, 2022: Erk Wave in Whole-Body Regeneration by [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
 - July 7, 2022: A Lack of Distinct Cellular Identities in Single Cell Data by [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1))
+- July 28, 2022: Towards a Transcriptomic Physics [to be rescheduled] by [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
 
 &nbsp;
 &nbsp;
