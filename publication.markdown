@@ -4,6 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+- **Are physiological oscillations *physiological*?** \
+**Lingyun Xiong**, Alan Garfinkel. \
+Opinion/Review Article (*In Preparation*)
+
 - **Cell fate transition as a bifurcation event** \
 **Lingyun Xiong** \
 Book Chapter (*In Press*)
