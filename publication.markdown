@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 - **Cell fate transition as a bifurcation event** \
-**Lingyun Xiong**. \
+**Lingyun Xiong** \
 Book Chapter (*In Press*)
 
 - **Genomic hallmarks of cellular dormancy in cancer and therapeutic implications** \
@@ -18,11 +18,15 @@ bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.or
 
 - **A common pathway to cancer: Oncogenic mutations abolish p53 oscillations** \
 **Lingyun Xiong**, Alan Garfinkel. \
-**Prog Biophys Mol Biol** 2022 Jun 22;S0079-6107(22)00063-3 [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/35752348/)
+**Prog Biophys Mol Biol**, 2022 Jun 22;S0079-6107(22)00063-3 [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/35752348/)
+
+- **Influence of inherited genetic variants on risk, biology and prognosis of common cancers** \
+**Lingyun Xiong**\
+PhD thesis, University of Oxford, 2021 [**Oxford Research Archive**](https://ora.ox.ac.uk/objects/uuid:feb0efe8-d01c-4758-976a-fb3ac031f061)
 
 - **Germline and somatic genetic variants in the p53 pathway interact to affect cancer risk, progression, and drug response** \
 Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Katherine Brown, Philipp Richter, Marsha Wallace, Elisabeth Bond, Natasha Sahgal, Samantha Moore, Svanhild Nornes, Sarah De Val, Mirvat Surakhy, David Sims, Xuting Wang, Douglas A Bell, Jorge Zeron-Medina, Yanyan Jiang, Anderson Ryan, Joanna Selfe, Janet Shipley, Siddhartha Kar, Paul Pharoah, Chey Loveday, Rick Jansen, Lukasz F. Grochola, Claire Palles, Andrew Protheroe, Val Millar, Daniel Ebner, Meghana Pagadala, Sarah P Blagden, Tim Maughan, Enric Domingo, Ian Tomlinson, Clare Turnbull, Hannah Carter, Gareth Bond. \
-**Cancer Res.** 2021;81:1667–80	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33558336/)
+**Cancer Res**, 2021;81:1667–80	[**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33558336/)
 
 - **Heritable genetic variants in key cancer genes link cancer risk with anthropometric traits** \
 Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Natasha Sahgal, Giovanni Stracquadanio, Marsha Wallace, Sarah Blagden, Simon Lord, David A. Harris, Adrian Harris, Francesca M. Buffa, Gareth Bond. \
