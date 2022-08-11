@@ -54,9 +54,9 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # Past Events
 
 | **Date** | **Topic** | **Speaker(s)** | **Notes** |
-| 01/20/2022 | Introduction + Cell Fate Transitions | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing) |
-| 02/17/2022 | Bifurcations in Cell Fate Transition and Applications | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ) |
-| 03/31/2022 | Cell Fate Transitions -- From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
+| 01/20/2022 | Introduction + Cell Fate Transition | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing) |
+| 02/17/2022 | Bifurcations in Cell Fate Transition | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ) |
+| 03/31/2022 | Cell Fate Transitions: From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
 | 04/21/2022 | Modeling NF-kB Signaling in CAR Cell Design | [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1) |
 | 05/05/2022 | Creative Functions of Biological Oscillations | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | |
 | 05/26/2022 | Physics-informed Learning for Dynamical Systems | [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) <br /> (MacLean Lab, USC) | [Article 1](https://proceedings.mlr.press/v144/wang21a.html) <br /> [Article 2](https://www.nature.com/articles/s41467-021-26434-1) <br /> [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)|
@@ -64,7 +64,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) <br /> (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) <br /> (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
 | 07/28/2022 | Towards a Transcriptomic Physics [Rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) |
-| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /> Myeloid-derived suppressor cell dynamics in metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) <br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
+| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /> Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
 &nbsp;
