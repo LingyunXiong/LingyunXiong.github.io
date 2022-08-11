@@ -54,17 +54,17 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 | **Date** | **Topic** | **Speaker(s)** | **Notes** |
 | 01/20/2022 | Introduction + Cell Fate Transitions | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing) |
-| Feb 17, 2022 | Bifurcations in Cell Fate Transition and Applications | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ) |
-| Mar 31, 2022 | Cell Fate Transitions -- From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
-| Apr 21, 2022 | Modeling NF-kB Signaling in CAR Cell Design | [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1) |
-| May 5, 2022 | Creative Functions of Biological Oscillations | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | |
-| May 26, 2022 | Physics-informed Learning for Dynamical Systems | [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) | [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) <br /> [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) <br /> [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)|
-| Jun 9, 2022 | NF-kB Oscillations in Immune Response | [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) | [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/) |
-| Jun 16, 2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford) | |
-| July 7, 2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
-| July 28, 2022 | Towards a Transcriptomic Physics <br /> [to be rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University) |
-| Aug 11, 2022 | Comparing Complex Model Outputs with Siamese Neural Networks | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | |
-| | Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche | [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
+| 02/17/2022 | Bifurcations in Cell Fate Transition and Applications | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ) |
+| 03/31/2022 | Cell Fate Transitions -- From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
+| 04/21/2022 | Modeling NF-kB Signaling in CAR Cell Design | [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1) |
+| 05/05/2022 | Creative Functions of Biological Oscillations | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | |
+| 05/26/2022 | Physics-informed Learning for Dynamical Systems | [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) | [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) <br /> [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) <br /> [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)|
+| 06/09/2022 | NF-kB Oscillations in Immune Response | [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) | [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/) |
+| 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford) | |
+| 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
+| 07/28/2022 | Towards a Transcriptomic Physics <br /> [to be rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University) |
+| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | |
+| - | Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche | [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
 &nbsp;
