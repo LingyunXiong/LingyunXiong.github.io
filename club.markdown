@@ -64,6 +64,8 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 - July 28, 2022: Towards a Transcriptomic Physics [to be rescheduled] by [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
 - Aug 11, 2022: Comparing Complex Model Outputs with Siamese Neural Networks by [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) and Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche by [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) ([**Preprint**](https://doi.org/10.1101/2022.06.15.496246))
 
+| Date | Topic | Speaker(s) |
+
 &nbsp;
 &nbsp;
 
