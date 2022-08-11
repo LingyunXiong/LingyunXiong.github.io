@@ -70,4 +70,4 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # Logistics
 
 Currently, we have **112** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
-![DynamicsClub](/images/DynamicsClub_Summer2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
