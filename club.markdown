@@ -64,7 +64,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) <br /> (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) <br /> (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
 | 07/28/2022 | Guest Lecture: Towards a Transcriptomic Physics | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) | Reschedule |
-| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | <br /> [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
+| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | <br /><br /> [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
 &nbsp;
