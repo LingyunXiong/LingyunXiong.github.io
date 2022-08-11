@@ -45,7 +45,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | Oct | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | Oct 20 | Guest lecture on pattern formation | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer) |
 | Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
-| Dec | Guest lecture on circadian and ultradian rhythms | TBA |
+| Dec | Guest lecture on biological rhythms | TBA |
 | Dec | Nonperiodic dynamics in circadian rhythms | Dr. Ruby Kim (UMich) |
 
 &nbsp;
