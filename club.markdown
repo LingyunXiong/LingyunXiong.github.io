@@ -27,19 +27,19 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 &nbsp;
 &nbsp;
 
-# Upcoming event on August 11 (11am PT):
+# Upcoming event on Sept 26 (9am PST):
 
-- Colin Cess (Finley Lab, USC): **Comparing Complex Model Outputs with Siamese Neural Networks**
-- Dr. Jesse Kreger (MacLean Lab, USC): **Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche** ([**Preprint**](https://doi.org/10.1101/2022.06.15.496246))
+## Introducing CellRank 2
 
-Hybrid event: RRI 421 & Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
+Speaker: Philipp Weiler (Theis Lab, Helmholtz Munich)
+
+Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 &nbsp;
 &nbsp;
 
 # Scheduled Sessions
 
-- Sep 26: Introducing CellRank 2 (Philipp Weiler - Theis Lab, Helmholtz Munich)
 - Sep/Oct: Simulating blood flow in capillaries (Dr. Ying Zhang, Brandeis University)
 - Oct: Enhancer-promoter interactions (Dr. Joseph Nasser, Harvard Medical School)
 - Oct 20: Guest lecture on pattern formation (Dr. Dagmar Iber, ETH Zürich BSSE & Dr. Denis Menshykau, Bayer)
@@ -62,6 +62,7 @@ Hybrid event: RRI 421 & Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 - Jun 16, 2022: Erk Wave in Whole-Body Regeneration by [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford)
 - July 7, 2022: A Lack of Distinct Cellular Identities in Single Cell Data by [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA) ([**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1))
 - July 28, 2022: Towards a Transcriptomic Physics [to be rescheduled] by [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern University)
+- Aug 11, 2022: Comparing Complex Model Outputs with Siamese Neural Networks by [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) and Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche by [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) ([**Preprint**](https://doi.org/10.1101/2022.06.15.496246))
 
 &nbsp;
 &nbsp;
