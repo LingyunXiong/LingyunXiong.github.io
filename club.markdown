@@ -53,7 +53,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 # Past Events
 
-| **Date** | **Topic** | **Speaker(s)** | **Notes** |
+| **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | 01/20/2022 | Introduction + Cell Fate Transition | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/18OcjJginmYzX9KQ-J0J64o9GeMG6ya-I/view?usp=sharing) |
 | 02/17/2022 | Bifurcations in Cell Fate Transition | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | [Contents](https://drive.google.com/file/d/1W0TRbrKwryFQ2U7IN9CR-ufOTZHycH88/view?usp=sharing ) |
 | 03/31/2022 | Cell Fate Transitions: From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
@@ -63,7 +63,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 06/09/2022 | NF-kB Oscillations in Immune Response | [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) <br /> (Hoffmann Lab, UCLA) | [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/) |
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) <br /> (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) <br /> (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
-| 07/28/2022 | Towards a Transcriptomic Physics [Rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) |
+| 07/28/2022 | Guest Lecture: Towards a Transcriptomic Physics | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) | Reschedule |
 | 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | <br /> [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
