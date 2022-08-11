@@ -45,7 +45,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | Oct | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | Oct 20 | Guest lecture on pattern formation | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer) |
 | Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
-| Dec | Guest lecture on biological rhythms | TBA |
+| Dec | Guest lecture on ultradian rhythms | TBA |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (UMich) |
 
 &nbsp;
@@ -64,7 +64,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) <br /> (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) <br /> (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
 | 07/28/2022 | Towards a Transcriptomic Physics [Rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) |
-| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /> Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
+| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | <br /> [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
 &nbsp;
