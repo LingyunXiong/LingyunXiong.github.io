@@ -29,9 +29,9 @@ Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear
 
 # Upcoming event on Sept 26 (9am PST):
 
-## Introducing CellRank 2
+## **Introducing CellRank 2**
 
-Speaker: Philipp Weiler (Theis Lab, Helmholtz Munich)
+Speaker: [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) (Theis Lab, Helmholtz Munich)
 
 Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
