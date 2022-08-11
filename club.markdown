@@ -41,10 +41,10 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # Scheduled Sessions
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep/Oct | Simulating blood flow in capillaries | Dr. Ying Zhang (Brandeis) |
-| Oct | Enhancer-promoter interactions | Dr. Joseph Nasser (Harvard Medical School) |
-| Oct 20 | Guest lecture on pattern formation | Dr. Dagmar Iber (ETH Zürich BSSE) <br /> Dr. Denis Menshykau (Bayer) |
-| Nov | Multi-scale dynamics in plant tissue patterning | Dr. Renee Dale (Danforth Center St Louis) |
+| Sep/Oct | Simulating blood flow in capillaries | [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis) |
+| Oct | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) (Harvard Medical School) |
+| Oct 20 | Guest lecture on pattern formation | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) (ETH Zürich BSSE) <br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer) |
+| Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) (Danforth Center, St Louis) |
 | Dec | Guest lecture on circadian and ultradian rhythms | TBA |
 | Dec | Nonperiodic dynamics in circadian rhythms | Dr. Ruby Kim (UMich) |
 
@@ -59,13 +59,13 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 03/31/2022 | Cell Fate Transitions -- From Cells to Tissues | [**Megan Rommelfanger**](https://macleanlab.usc.edu/people/megan-rommelfanger/) (MacLean Lab, USC) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/34935903/) <br /> [Contents](https://drive.google.com/file/d/1LzuqVaFz5hKXT37KzmXHevop3o0gxp7n/view?usp=sharing) |
 | 04/21/2022 | Modeling NF-kB Signaling in CAR Cell Design | [**Vardges Tserunyan**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.04.27.489659v1) |
 | 05/05/2022 | Creative Functions of Biological Oscillations | [**Ivy Xiong**](https://lingyunxiong.github.io) (Host) | |
-| 05/26/2022 | Physics-informed Learning for Dynamical Systems | [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) | [**Article 1**](https://proceedings.mlr.press/v144/wang21a.html) <br /> [**Article 2**](https://www.nature.com/articles/s41467-021-26434-1) <br /> [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)|
+| 05/26/2022 | Physics-informed Learning for Dynamical Systems | [**Xiaojun Wu**](https://macleanlab.usc.edu/people/xiaojun-wu2/) (MacLean Lab, USC) | [Article 1](https://proceedings.mlr.press/v144/wang21a.html) <br /> [Article 2](https://www.nature.com/articles/s41467-021-26434-1) <br /> [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.05.18.492557v1)|
 | 06/09/2022 | NF-kB Oscillations in Immune Response | [**Dr. Katherine Sheu**](https://mstp.healthsciences.ucla.edu/people/katherine-sheu/) (Hoffmann Lab, UCLA) | [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34140389/) |
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) (Deeds Lab, UCLA) | [**Preprint**](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
 | 07/28/2022 | Towards a Transcriptomic Physics <br /> [to be rescheduled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) (Northwestern) |
 | 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) (Finley Lab, USC) | |
-| - | Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche | [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
+| | Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche | [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [**Preprint**](https://doi.org/10.1101/2022.06.15.496246) |
 
 &nbsp;
 &nbsp;
