@@ -4,7 +4,9 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Dynamics Club is a forum for junior scientists to discuss how to apply nonlinear dynamics to tackle the most challenging biological questions. You are cordially invited to join the discussion. Guest speakers are welcome! 
+Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. You are cordially invited to join the discussion. All are welcome! 
+
+We're recruiting speakers on a rolling basis throughout the year. To refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
 
 &nbsp;
 &nbsp;
@@ -60,7 +62,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 &nbsp;
 &nbsp;
 
-# Join the Club:
+# How to Join the Club?
 
 Currently, we have **112** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 ![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
