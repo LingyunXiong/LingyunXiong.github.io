@@ -8,10 +8,12 @@ Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in 
 
 We're recruiting speakers throughout the year. To refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
 
+&nbsp;
+&nbsp;
 
 # Key References (PDFs are available online): 
 
-[**Nonlinear Dynamics and Chaos**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) by Steven Strogatz 
+[**Nonlinear Dynamics and Chaos**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) by Steven Strogatz \
 [**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([**Course Materials**](https://modelinginbiology.github.io))
 
 &nbsp;
