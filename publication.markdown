@@ -35,9 +35,9 @@ Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Kath
 Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Natasha Sahgal, Giovanni Stracquadanio, Marsha Wallace, Sarah Blagden, Simon Lord, David A. Harris, Adrian Harris, Francesca M. Buffa, Gareth Bond. \
 **J Med Genet**, 2020;0:1–8 [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/32591342/) 
 
-- **SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway** \
+- [SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway](https://www.nature.com/articles/onc2017265) \
 Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
-**Oncogene**, 2017;36(46):6472–6479 [**LINK**](https://www.nature.com/articles/onc2017265)
+**Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265
 
 
 
