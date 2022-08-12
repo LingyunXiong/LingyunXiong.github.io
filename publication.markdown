@@ -10,14 +10,14 @@ permalink: /Publications/
 - **Cell fate transition as a bifurcation event** \
 **Lingyun Xiong** (*In Revision*)
 
+- **Macroscale network feedback structure of transcriptome during cell fate transition** \
+**Lingyun Xiong** \#, William A. Schoenberg, Jeremy D. Swartz. \
+bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.org/10.1101/2020.06.24.169490) \
+\# Corresponding Author
+
 - **Genomic hallmarks of cellular dormancy in cancer and therapeutic implications** \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
 bioRxiv; https://doi.org/10.1101/2021.11.12.468410 [**Preprint**](https://doi.org/10.1101/2021.11.12.468410)
-
-- **Macroscale network feedback structure of transcriptome during cell fate transition** \
-**Lingyun Xiong** \#, William A. Schoenberg, Jeremy D. Swartz. \
-bioRxiv; https://doi.org/10.1101/2020.06.24.169490 [**Preprint**](https://doi.org/10.1101/2020.06.24.169490)
-\# Corresponding Author
 
 - **A common pathway to cancer: Oncogenic mutations abolish p53 oscillations** \
 **Lingyun Xiong**, Alan Garfinkel. \
