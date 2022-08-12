@@ -8,23 +8,20 @@ Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in 
 
 We're recruiting speakers throughout the year. To refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
 
-&nbsp;
-&nbsp;
 
 # Key References (PDFs are available online): 
 
-***Nonlinear Dynamics and Chaos*** by Steven Strogatz ([**Link**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering))
-
-***Modeling Life*** by Alan Garfinkel, Jane Shetsov and Yina Guo ([**Link**](https://link.springer.com/book/10.1007/978-3-319-59731-7)) ([**Course Materials**](https://modelinginbiology.github.io))
+[**Nonlinear Dynamics and Chaos**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) by Steven Strogatz 
+[**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([**Course Materials**](https://modelinginbiology.github.io))
 
 &nbsp;
 &nbsp;
 
-# Upcoming event on Sept 26 (9am PST):
+# Upcoming event on Sept 26 (9am PST/6pm CET):
 
-## **Introducing CellRank 2**
+## **Introducing [CellRank](https://www.nature.com/articles/s41592-021-01346-6) 2**
 
-Speaker: [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) (Theis Lab, Helmholtz Munich)
+Speaker: [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) (Theis Lab, Helmholtz Munich) 
 
 Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
