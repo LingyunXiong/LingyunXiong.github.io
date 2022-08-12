@@ -12,15 +12,15 @@ permalink: /Publications/
 
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
 **Lingyun Xiong** \#, William A. Schoenberg, Jeremy D. Swartz. \
-bioRxiv; DOI: 10.1101/2020.06.24.169490 
+bioRxiv DOI: 10.1101/2020.06.24.169490 
 
 - [Genomic hallmarks of cellular dormancy in cancer and therapeutic implications](https://doi.org/10.1101/2021.11.12.468410) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
-bioRxiv; DOI: 10.1101/2021.11.12.468410 
+bioRxiv DOI: 10.1101/2021.11.12.468410 
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun Xiong**, Alan Garfinkel. \
-**Prog Biophys Mol Biol**, 2022 Jun 22;S0079-6107(22)00063-3 DOI: 10.1016/j.pbiomolbio.2022.06.002
+**Prog Biophys Mol Biol** DOI: 10.1016/j.pbiomolbio.2022.06.002
 
 - [Influence of inherited genetic variants on risk, biology and prognosis of common cancers](https://ora.ox.ac.uk/objects/uuid:feb0efe8-d01c-4758-976a-fb3ac031f061) \
 **Lingyun Xiong**\
