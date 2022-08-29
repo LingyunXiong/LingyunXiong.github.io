@@ -20,11 +20,21 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming event on Sept 26 (9am PST/6pm CET):
+# Upcoming events: 
+
+## **Simulating blood flow in capillaries**
+
+Speaker: [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis University)
+
+Date and Time: Sept 22 (11am PST/2pm EST)
+
+Hybrid event: USC RRI421 and on Zoom (Meeting ID: 956 4691 7276, Passcode: 314626)
 
 ## **Introducing [CellRank](https://www.nature.com/articles/s41592-021-01346-6) 2**
 
 Speaker: [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) (Theis Lab, Helmholtz Munich) 
+
+Date and Time: Sept 26 (9am PST/6pm CET)
 
 Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
@@ -34,7 +44,6 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep/Oct | Simulating blood flow in capillaries | [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis) |
 | Oct | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | Oct 20 | Guest lecture on pattern formation | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer) |
 | Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
@@ -64,5 +73,5 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 
 # How to Join the Club?
 
-Currently, we have **116** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **125** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 ![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
