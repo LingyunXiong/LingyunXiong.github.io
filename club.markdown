@@ -28,7 +28,7 @@ Speaker: [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.
 
 Date and Time: Sept 22 (11am PST/2pm EST)
 
-Hybrid event: USC RRI421 and on Zoom (Meeting ID: 956 4691 7276, Passcode: 314626)
+Hybrid event: UPC RRI421 and on Zoom (Meeting ID: 956 4691 7276, Passcode: 314626)
 
 ## **Introducing [CellRank](https://www.nature.com/articles/s41592-021-01346-6) 2**
 
