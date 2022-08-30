@@ -22,9 +22,9 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming events: 
 
-## **The influence of the endothelial surface layer on the motion of red blood cells**
+## [**The influence of the endothelial surface layer on the motion of red blood cells**](https://arxiv.org/abs/2203.12113)
 
-Speaker: [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.html) (Postdoctoral Fellow, Brandeis University)
+Speaker: [**Dr. Ying Zhang**](https://sites.google.com/brandeis.edu/yzhang) (Postdoctoral Fellow, Brandeis University)
 
 Date and Time: Sept 22 (11am PST/2pm EST)
 
