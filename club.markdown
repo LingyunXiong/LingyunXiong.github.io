@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming events: 
 
-## **Simulating blood flow in capillaries**
+## **The influence of the endothelial surface layer on the motion of red blood cells**
 
 Speaker: [**Dr. Ying Zhang**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis University)
 
@@ -74,4 +74,5 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # How to Join the Club?
 
 Currently, we have **125** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+![DynamicsClubs](/images/DynamicsClub_Sept2022_Zhang.pdf)
 ![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
