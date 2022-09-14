@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 - Are physiological oscillations *physiological*? \
-**Lingyun Xiong** \#, Alan Garfinkel. (*In Preparation*)
+**Lingyun Xiong** \#, Alan Garfinkel. (*In Preparation*) \
 \# Corresponding Author
 
 - Cell fate transition as a bifurcation event \
@@ -22,7 +22,7 @@ bioRxiv DOI: 10.1101/2021.11.12.468410
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun Xiong**, Alan Garfinkel. \
-**Prog Biophys Mol Biol** 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002
+**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002
 
 - [Influence of inherited genetic variants on risk, biology and prognosis of common cancers](https://ora.ox.ac.uk/objects/uuid:feb0efe8-d01c-4758-976a-fb3ac031f061) \
 **Lingyun Xiong**\
