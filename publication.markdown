@@ -5,14 +5,14 @@ permalink: /Publications/
 ---
 
 - Are physiological oscillations *physiological*? \
-**Lingyun Xiong** \#, Alan Garfinkel. (*In Preparation*) \
+**Lingyun Xiong**\#, Alan Garfinkel. (*In Preparation*) \
 \# Corresponding Author
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong** (*In Revision*)
 
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
-**Lingyun Xiong** \#, William A. Schoenberg, Jeremy D. Swartz. \
+**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
 bioRxiv DOI: 10.1101/2020.06.24.169490 \
 \# Corresponding Author
 
