@@ -49,6 +49,7 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (UMich) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
+| 2023 | Potassium signaling in bacterial biofilms | [**Obadiah Mulder**](https://edgepopgen.github.io/edgelab/team/) <br /> (Edge Lab, USC) |
 
 &nbsp;
 &nbsp;
