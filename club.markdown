@@ -69,5 +69,4 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # How to Join the Club?
 
 Currently, we have **133** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
-![DynamicsClubs](/images/DynamicsClub_Sept2022_Zhang.pdf)
 ![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
