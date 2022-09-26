@@ -22,13 +22,13 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming events: 
 
-### **Introducing [CellRank](https://www.nature.com/articles/s41592-021-01346-6) 2**
+### **Guest lecture on pattern formation**
 
-Speaker: [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) (Theis Lab, Helmholtz Munich) 
+Speaker: [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) (ETH Zürich BSSE) and [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer)
 
-Date and Time: Sept 26 (9am PST/6pm CET)
+Date and Time: Oct 20 (8:30-10am PST/11:30am-1pm EST/5:30-7pm CET)
 
-Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
+Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
 
 &nbsp;
 &nbsp;
@@ -36,7 +36,6 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct 20 | Guest lecture on pattern formation | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (Bayer) |
 | Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
 | Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
@@ -62,11 +61,12 @@ Virtual event on Zoom (Meeting ID: 973 4826 1090, Passcode: 348794)
 | 07/28/2022 | Guest Lecture: Towards a Transcriptomic Physics [Cancelled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) | |
 | 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [Preprint](https://arxiv.org/abs/2208.06530) <br /><br /> [Preprint](https://doi.org/10.1101/2022.06.15.496246) |
 | 09/22/2022 | The influence of the endothelial surface layer on the motion of red blood cells | [**Dr. Ying Zhang**](https://sites.google.com/brandeis.edu/yzhang) <br /> (Brandeis University) | [Preprint](https://arxiv.org/abs/2203.12113) |
+| 09/26/2022 | Introducing CellRank 2 | [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) <br /> (Theis Lab, Helmholtz Munich) | [Preprint](https://doi.org/10.1101/2022.08.12.503709) |
 
 &nbsp;
 &nbsp;
 
 # How to Join the Club?
 
-Currently, we have **135** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **140** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 ![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
