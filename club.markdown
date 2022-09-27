@@ -36,7 +36,7 @@ Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
+| Nov 10 | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
 | Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
 | 2023 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
