@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My upcoming talk at Harvard Systems Biology"
-date:   2022-10-01 
+date:   2022-09-30 
 ---
 
 ![Harvard_Talk](/images/Harvard_Talk.pdf)
