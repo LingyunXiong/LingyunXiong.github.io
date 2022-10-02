@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, DPhil** <br /><br /> Postdoctoral Scholar <br /> Stem Cell Biology and Regenerative Medicine <br />Quantitative and Computational Biology <br /> University of Southern California <br /><br /> Founder and Host of USC [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> <br /> [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
+| ![profile](/images/profile_ivy.png) | **Lingyun (Ivy) Xiong, DPhil** <br /><br /> Postdoctoral Scholar <br /> Stem Cell Biology and Regenerative Medicine <br />Quantitative and Computational Biology <br /> University of Southern California <br /><br /> Founder and Host of USC [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> <br /> [CV](https://drive.google.com/file/d/1zOBjmKlzsq1wnQeEepXZeocNx7c6YW-5/view?usp=sharing) \| [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [ORCID](https://orcid.org/0000-0003-4594-4120) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)|
 
 ## **My research in brief**
 
