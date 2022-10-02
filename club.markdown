@@ -20,7 +20,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming events: 
+# Upcoming event with [The Martlets Society](https://www.martlets-society.com): 
 
 ### **Guest lecture on pattern formation**
 
@@ -69,4 +69,4 @@ Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
 # How to Join the Club?
 
 Currently, we have **140** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
-![DynamicsClub](/images/DynamicsClub_Sept2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2022.pdf)
