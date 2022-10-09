@@ -31,7 +31,9 @@ Date and Time: Oct 20 (8:30-10am PST/11:30am-1pm EST/5:30-7pm CET)
 Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
 
 Abstract:
+
 **Control of Epithelial Morphogenesis**
+
 Developmental outcomes are remarkably constant despite environmental, inter-individual, and evolutionary changes. My group focuses on the mechanisms that enable stereotypic lung and kidney branching morphogenesis, and the precise development of the central nervous system. All three structures form via patterning, growth, and deformation of a single-layered pseudostratified epithelium. I will discuss the mechano-chemical mechanisms and geometric effects that guide epithelial morphogenesis in the lung, kidney and the neural tube, and coordinate it with other developmental processes.
 
 &nbsp;
