@@ -24,7 +24,8 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 ### **Guest lecture on pattern formation**
 
-Speaker: [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) (ETH Zürich BSSE) and [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) [Industry Insight]
+Speaker: [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) (ETH Zürich BSSE) and \
+[**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) [Industry Insight]
 
 Date and Time: Oct 20 (8:30-10am PST/11:30am-1pm EST/5:30-7pm CET)
 
