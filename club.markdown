@@ -77,6 +77,6 @@ Drug discovery and development is a research-intensive process to identify a new
 
 # How to Join the Club?
 
-Currently, we have **148** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **152** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Oct2022.pdf)
