@@ -21,7 +21,7 @@ Hinged on known feedback relationships in mammalian systems, ranging from molecu
 - Network and dynamical modeling of transcriptome during cell fate transition 
 
 ## **Qualifications** 
-* DPhil in Systems Biology, University of Oxford (2021)
+* DPhil in Systems Biology, University of Oxford (2021) - Hertford College 
 * BSc in Biochemistry, University of Hong Kong (2016) 
 * Study abroad in Biology, University of California San Diego (2015)
 
