@@ -36,6 +36,9 @@ Abstract:
 **Control of Epithelial Morphogenesis** (Dr. Dagmar Iber) \
 Developmental outcomes are remarkably constant despite environmental, inter-individual, and evolutionary changes. My group focuses on the mechanisms that enable stereotypic lung and kidney branching morphogenesis, and the precise development of the central nervous system. All three structures form via patterning, growth, and deformation of a single-layered pseudostratified epithelium. I will discuss the mechano-chemical mechanisms and geometric effects that guide epithelial morphogenesis in the lung, kidney and the neural tube, and coordinate it with other developmental processes.
 
+**Model Informed Drug Discovery and Development** (Dr. Denis Menshykau) \
+Drug discovery and development is a research-intensive process to identify a new chemical or biological entity and transform it into a product approved for use by patients. Typically, it takes over 10 years and well over $1 billion to complete. Model informed drug discovery and development (MID3) has evolved as a framework to increase the confidence in decision making, reduce costs, and accelerate learning cycle. I will show how empirical, semimechanistic, systems pharmacology models are built and applied for discovery and development of new medicines.
+
 &nbsp;
 &nbsp;
 
