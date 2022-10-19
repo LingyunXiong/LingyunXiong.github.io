@@ -48,7 +48,7 @@ Drug discovery and development is a research-intensive process to identify a new
 | Nov 9 | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
 | Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
-| 2023 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
+| Jan 26 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Potassium signaling in bacterial biofilms | [**Obadiah Mulder**](https://edgepopgen.github.io/edgelab/team/) <br /> (Edge Lab, USC) |
 
@@ -77,6 +77,6 @@ Drug discovery and development is a research-intensive process to identify a new
 
 # How to Join the Club?
 
-Currently, we have **152** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **153** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Oct2022.pdf)
