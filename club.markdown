@@ -28,7 +28,7 @@ Speaker: [**Dr. Renee Dale**](https://rdale1.github.io/about/) (NSF Postdoctoral
 
 Date and Time: Nov 9 (9am PT / 11am CT / 12pm ET)
 
-Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
+Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 &nbsp;
 &nbsp;
