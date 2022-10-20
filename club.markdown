@@ -20,24 +20,15 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming event with [The Martlets Society](https://www.martlets-society.com): 
+# Upcoming event in Nov: 
 
-### **Guest lecture on pattern formation**
+### **Dynamics in plant tissue patterning**
 
-Speaker: [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) (ETH Zürich BSSE) and \
-[**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) [Industry Insight]
+Speaker: [**Dr. Renee Dale**](https://rdale1.github.io/about/) (NSF Postdoctoral Fellow; Danforth Center, St Louis) 
 
-Date and Time: Oct 20 (8:30-10am PST/11:30am-1pm EST/5:30-7pm CET)
+Date and Time: Nov 9 (9am PT / 11am CT / 12pm ET)
 
 Virtual event on Zoom (Meeting ID: 931 9584 8878, Passcode: 665965)
-
-Abstract:
-
-**Control of Epithelial Morphogenesis** (Dr. Dagmar Iber) \
-Developmental outcomes are remarkably constant despite environmental, inter-individual, and evolutionary changes. My group focuses on the mechanisms that enable stereotypic lung and kidney branching morphogenesis, and the precise development of the central nervous system. All three structures form via patterning, growth, and deformation of a single-layered pseudostratified epithelium. I will discuss the mechano-chemical mechanisms and geometric effects that guide epithelial morphogenesis in the lung, kidney and the neural tube, and coordinate it with other developmental processes.
-
-**Model Informed Drug Discovery and Development** (Dr. Denis Menshykau) \
-Drug discovery and development is a research-intensive process to identify a new chemical or biological entity and transform it into a product approved for use by patients. Typically, it takes over 10 years and well over $1 billion to complete. Model informed drug discovery and development (MID3) has evolved as a framework to increase the confidence in decision making, reduce costs, and accelerate learning cycle. I will show how empirical, semimechanistic, systems pharmacology models are built and applied for discovery and development of new medicines.
 
 &nbsp;
 &nbsp;
@@ -45,7 +36,6 @@ Drug discovery and development is a research-intensive process to identify a new
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov 9 | Multi-scale dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/) <br /> (Danforth Center, St Louis) |
 | Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
 | Jan 26 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
@@ -68,15 +58,16 @@ Drug discovery and development is a research-intensive process to identify a new
 | 06/16/2022 | Erk Wave in Whole-Body Regeneration | [**Yuhang Fan**](https://profiles.stanford.edu/yuhang-fan) <br /> (Wang Lab, Stanford) | |
 | 07/07/2022 | A Lack of Distinct Cellular Identities in Single Cell Data | [**Dr. Breanne Sparta**](https://www.linkedin.com/in/breanne-sparta-1a80903a/) <br /> (Deeds Lab, UCLA) | [Preprint](https://www.biorxiv.org/content/10.1101/2022.06.03.494765v1) |
 | 07/28/2022 | Guest Lecture: Towards a Transcriptomic Physics [Cancelled] | [**Dr. Madhav Mani**](https://www.madhavmani.com) <br /> (Northwestern) | |
-| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br />Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [Preprint](https://arxiv.org/abs/2208.06530) <br /><br /> [Preprint](https://doi.org/10.1101/2022.06.15.496246) |
+| 08/11/2022 | Comparing Complex Model Outputs with Siamese Neural Networks <br /><br /> Myeloid-derived Suppressor Cell Dynamics in Metastasis | [**Colin Cess**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley Lab, USC) <br /><br /> [**Dr. Jesse Kreger**](https://macleanlab.usc.edu/people/jesse-kreger/) (MacLean Lab, USC) | [Preprint](https://arxiv.org/abs/2208.06530) <br /><br /> [Preprint](https://doi.org/10.1101/2022.06.15.496246) |
 | 09/22/2022 | The influence of the endothelial surface layer on the motion of red blood cells | [**Dr. Ying Zhang**](https://sites.google.com/brandeis.edu/yzhang) <br /> (Brandeis University) | [Preprint](https://arxiv.org/abs/2203.12113) |
 | 09/26/2022 | Introducing CellRank 2 | [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) <br /> (Theis Lab, Helmholtz Munich) | [Preprint](https://doi.org/10.1101/2022.08.12.503709) |
+| 10/20/2022 | Control of Epithelial Morphogenesis <br /><br /> Model Informed Drug Discovery and Development | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /><br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) | [Preprint](https://doi.org/10.1101/2022.08.30.505859) <br /><br /> [Post-Doc Position](https://www.jobs.ethz.ch/job/view/JOPG_ethz_iU0C4kQJU5gfL69FCh) |
 
 &nbsp;
 &nbsp;
 
 # How to Join the Club?
 
-Currently, we have **153** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **154** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Oct2022.pdf)
