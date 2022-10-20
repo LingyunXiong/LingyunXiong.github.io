@@ -70,4 +70,4 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 Currently, we have **154** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
-![DynamicsClub](/images/DynamicsClub_Oct2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Nov2022.pdf)
