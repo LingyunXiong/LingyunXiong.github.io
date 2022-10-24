@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming event in Nov: 
 
-### **Dynamics in plant tissue patterning**
+### [**Dynamics in plant tissue patterning**](https://doi.org/10.1101/2022.10.09.510391)
 
 Speaker: [**Dr. Renee Dale**](https://rdale1.github.io/about/) (NSF Postdoctoral Fellow; Danforth Center, St Louis) 
 
@@ -68,6 +68,6 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 # How to Join the Club?
 
-Currently, we have **154** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **155** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Nov2022.pdf)
