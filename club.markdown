@@ -41,7 +41,7 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
-| 2023 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
+| Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Potassium signaling in bacterial biofilms | [**Obadiah Mulder**](https://edgepopgen.github.io/edgelab/team/) <br /> (Edge Lab, USC) |
 
