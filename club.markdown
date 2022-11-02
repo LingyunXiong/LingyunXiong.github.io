@@ -37,7 +37,7 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
-| Jan | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
+| Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
@@ -72,6 +72,6 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 # How to Join the Club?
 
-Currently, we have **164** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **166** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Nov2022.pdf)
