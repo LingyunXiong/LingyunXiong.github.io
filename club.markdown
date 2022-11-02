@@ -36,8 +36,8 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Dec | Guest lecture on circadian rhythms | [**Dr. Steve Kay**](https://kaylab.usc.edu) (USC) |
 | Dec | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
+| Jan | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
