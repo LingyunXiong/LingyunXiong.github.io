@@ -36,7 +36,7 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Dec | TBA | -- |
+| Dec | Guest lecture on biological clocks | [**Dr. Steven Hasse**](https://sites.duke.edu/haaselab/) <br /> (Duke University) |
 | Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
@@ -75,6 +75,6 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 # How to Join the Club?
 
-Currently, we have **168** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
+Currently, we have **170** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
 ![DynamicsClub](/images/DynamicsClub_Nov2022.pdf)
