@@ -47,6 +47,7 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 | 2023 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Potassium signaling in bacterial biofilms | [**Obadiah Mulder**](https://edgepopgen.github.io/edgelab/team/) <br /> (Edge Lab, USC) |
+| 2023 | Hormonal dynamics in health | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
 | 2023 | Nonperiodic dynamics in circadian rhythms | [**Dr. Ruby Kim**](https://lsa.umich.edu/math/people/postdoc-faculty/rshkim.html) (UMich) |
 
 &nbsp;
