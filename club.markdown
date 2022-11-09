@@ -33,6 +33,8 @@ Virtual event on Zoom (Meeting ID: 939 3172 2166, Passcode: 972585)
 Abstract: \
 The circadian clock exerts broad effects on organism physiology by controlling phase-specific expression of genes over a 24hr period.  Across animals and plants, thousands of genes (up to 80% of the genome) are under circadian clock control. Similarly, a distinct set of genes is expressed in a phase-specific manner during the eukaryotic cell-division cycle. The underlying clock/oscillator mechanisms driving these large transcriptional programs are thought to be moderately-sized (~20-50 nodes) gene regulatory networks that have qualitative and quantitative similarities. To understand the dynamical function of these networks, we employ genetic, genomic, and mathematical approaches to infer network topologies and the associated parameter regimes that govern the dynamic gene expression programs. In addition to our work on the budding yeast cell-cycle clock, we have applied our approaches to understanding the periodic control of the parasite developmental cycle during malaria infection. Our findings indicate that the malaria intraerythrocytic cycle is controlled by a parasite-intrinsic oscillator and that this parasite oscillator is coupled to the host circadian clock during infection. 
 
+![DynamicsClub](/images/DynamicsClub_Dec2022.pdf)
+
 &nbsp;
 &nbsp;
 
@@ -80,5 +82,3 @@ The circadian clock exerts broad effects on organism physiology by controlling p
 # How to Join the Club?
 
 Currently, we have **170** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
-
-![DynamicsClub](/images/DynamicsClub_Dec2022.pdf)
