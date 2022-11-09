@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Guest lecture in December: 
 
-### [**Controlling oscillation dynamics: From Cell Cycle to Infectious Disease**](https://www.science.org/doi/10.1126/science.aba4357)
+### [**Controlling Oscillation Dynamics: From Cell Cycle to Infectious Disease**](https://www.science.org/doi/10.1126/science.aba4357)
 
 Speaker: [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Associate Professor; Duke University)
 
