@@ -20,15 +20,15 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming event in Nov: 
+# Upcoming event in December: 
 
-### [**Dynamics in plant tissue patterning**](https://doi.org/10.1101/2022.10.09.510391)
+### [**Guest lecture -- Controlling oscillation dynamics: From Cell Cycle to Infectious Disease**](https://www.science.org/doi/10.1126/science.aba4357)
 
-Speaker: [**Dr. Renee Dale**](https://rdale1.github.io/about/) (NSF Postdoctoral Fellow; Danforth Center, St Louis) 
+Speaker: [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Associate Professor; Duke University)
 
-Date and Time: Nov 9 (9am PT / 11am CT / 12pm ET)
+Date and Time: Dec 15 (11am PST / 2pm EST)
 
-Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
+Virtual event on Zoom (Meeting ID: 939 3172 2166, Passcode: 972585)
 
 &nbsp;
 &nbsp;
@@ -36,7 +36,6 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Dec 15 | Guest lecture: Controlling oscillation dynamics | [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) <br /> (Duke University) |
 | Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
@@ -70,6 +69,7 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 | 09/22/2022 | The influence of the endothelial surface layer on the motion of red blood cells | [**Dr. Ying Zhang**](https://sites.google.com/brandeis.edu/yzhang) <br /> (Brandeis University) | [Preprint](https://arxiv.org/abs/2203.12113) |
 | 09/26/2022 | Introducing CellRank 2 | [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) <br /> (Theis Lab, Helmholtz Munich) | [Preprint](https://doi.org/10.1101/2022.08.12.503709) |
 | 10/20/2022 | Guest lecture: Control of Epithelial Morphogenesis <br /><br /> Model Informed Drug Discovery and Development | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /><br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) | [Preprint](https://doi.org/10.1101/2022.08.30.505859) <br /><br /> [Post-Doc Position](https://www.jobs.ethz.ch/job/view/JOPG_ethz_iU0C4kQJU5gfL69FCh) |
+| 10/9/2022 | Dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/)  <br /> (Danforth Center, St Louis)  | [Preprint](https://doi.org/10.1101/2022.10.09.510391) |
 
 &nbsp;
 &nbsp;
@@ -78,4 +78,4 @@ Virtual event on Zoom (Meeting ID: 992 7212 0415, Passcode: 518863)
 
 Currently, we have **170** members. If you're new, sign up [**here**](https://forms.gle/zvwmxyHC8XhYZZx77) today!
 
-![DynamicsClub](/images/DynamicsClub_Nov2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Dec2022.pdf)
