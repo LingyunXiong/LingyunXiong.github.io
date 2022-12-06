@@ -4,8 +4,11 @@ title: Publications
 permalink: /Publications/
 ---
 
+- AR-mediated signaling diverges male renal transcriptome from female in mice \
+**Lingyun Xiong**, Jing Liu, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam MacLean, Andrew P. McMahon. (*In Preparation*)
+
 - Are physiological oscillations *physiological*? \
-**Lingyun Xiong**\#, Alan Garfinkel. (*In Preparation*) \
+**Lingyun Xiong**\#, Alan Garfinkel. (*Submitted*) \
 \# Corresponding Author
 
 - Cell fate transition as a bifurcation event \
