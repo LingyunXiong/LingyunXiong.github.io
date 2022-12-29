@@ -20,20 +20,20 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Guest lecture in December: 
+# Upcoming event in January: 
 
-### [**Controlling Oscillation Dynamics: From Cell Cycle to Infectious Disease**](https://www.science.org/doi/10.1126/science.aba4357)
+### **Clock transcription factor dynamics in cancer**
 
-Speaker: [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Associate Professor; Duke University)
+Speaker: [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/) <br /> (Steve Kay Lab, USC)
 
-Date and Time: Dec 15 (11am PST / 2pm EST)
+Date and Time: Jan 12 (11am-12noon PST)
 
-Virtual event on Zoom (Meeting ID: 939 3172 2166, Passcode: 972585)
+Hybrid event: UPC MCB XXX & on Zoom (Meeting ID: 972 8604 4655, Passcode: 721137)
 
 Abstract: \
-The circadian clock exerts broad effects on organism physiology by controlling phase-specific expression of genes over a 24hr period.  Across animals and plants, thousands of genes (up to 80% of the genome) are under circadian clock control. Similarly, a distinct set of genes is expressed in a phase-specific manner during the eukaryotic cell-division cycle. The underlying clock/oscillator mechanisms driving these large transcriptional programs are thought to be moderately-sized (~20-50 nodes) gene regulatory networks that have qualitative and quantitative similarities. To understand the dynamical function of these networks, we employ genetic, genomic, and mathematical approaches to infer network topologies and the associated parameter regimes that govern the dynamic gene expression programs. In addition to our work on the budding yeast cell-cycle clock, we have applied our approaches to understanding the periodic control of the parasite developmental cycle during malaria infection. Our findings indicate that the malaria intraerythrocytic cycle is controlled by a parasite-intrinsic oscillator and that this parasite oscillator is coupled to the host circadian clock during infection. 
+Circadian rhythm is the 24-hour activity cycle that exists in most living organisms as an adaptation to the rotation of earth. In mammals, circadian rhythm is maintained through a tripartite transcriptional-translational feedback loop, featured by two transcription factors called BMAL1 and CLOCK. Disruption of the normal clock dynamics has been long noted as a risk factor of cancer, but the molecular mechanism is unknown. Recently we and others showed that BMAL1 and CLOCK are essential for multiple types of cancers, including glioblastoma, acute myeloid leukemia, hepatocellular carcinoma, and breast cancer. We revealed that BMAL1 obtains de novo binding sites in glioblastoma and rewires the metabolism of cancer stem cells. We also developed multiple sets of small molecules to target the core circadian modulators in cancer. I will talk about our current knowledge on the disrupted circadian dynamics in cancer, the use of small molecule tools to modulate the circadian rhythm in the cell, and outlook the future directions of targeting circadian rhythm in cancers.
 
-![DynamicsClub](/images/DynamicsClub_Dec2022.pdf)
+![DynamicsClub](/images/DynamicsClub_Jan2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -41,7 +41,6 @@ The circadian clock exerts broad effects on organism physiology by controlling p
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu) <br /> (Kay Lab, USC) |
 | Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
@@ -74,7 +73,8 @@ The circadian clock exerts broad effects on organism physiology by controlling p
 | 09/22/2022 | The influence of the endothelial surface layer on the motion of red blood cells | [**Dr. Ying Zhang**](https://sites.google.com/brandeis.edu/yzhang) <br /> (Brandeis University) | [Preprint](https://arxiv.org/abs/2203.12113) |
 | 09/26/2022 | Introducing CellRank 2 | [**Philipp Weiler**](https://www.helmholtz-munich.de/icb/research/groups/machine-learning/staff/staff/ma/10252/-Weiler/index.html) <br /> (Theis Lab, Helmholtz Munich) | [Preprint](https://doi.org/10.1101/2022.08.12.503709) |
 | 10/20/2022 | Guest lecture: Control of Epithelial Morphogenesis <br /><br /> Model Informed Drug Discovery and Development | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /><br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) | [Preprint](https://doi.org/10.1101/2022.08.30.505859) <br /><br /> [Post-Doc Position](https://www.jobs.ethz.ch/job/view/JOPG_ethz_iU0C4kQJU5gfL69FCh) |
-| 10/9/2022 | Dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/)  <br /> (Danforth Center, St Louis)  | [Preprint](https://doi.org/10.1101/2022.10.09.510391) |
+| 11/9/2022 | Dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/)  <br /> (Danforth Center, St Louis)  | [Preprint](https://doi.org/10.1101/2022.10.09.510391) |
+| 12/15/2022 | Guest lecture: Controlling Oscillation Dynamics | [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Duke University) | [Preprint](https://doi.org/10.1101/2022.08.02.499203) |
 
 &nbsp;
 &nbsp;
