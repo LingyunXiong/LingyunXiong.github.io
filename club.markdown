@@ -24,7 +24,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 ### **Clock transcription factor dynamics in cancer**
 
-Speaker: [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/) <br /> (Steve Kay Lab, USC)
+Speaker: [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/) (Steve Kay Lab, University of Southern California)
 
 Date and Time: Jan 12 (11am-12noon PST)
 
