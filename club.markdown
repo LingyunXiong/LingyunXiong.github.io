@@ -28,7 +28,7 @@ Speaker: [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-s
 
 Date and Time: Jan 12 (11am-12noon PST)
 
-Hybrid event: UPC MCB XXX & on Zoom (Meeting ID: 972 8604 4655, Passcode: 721137)
+Hybrid event: UPC MCB 102 & on Zoom (Meeting ID: 972 8604 4655, Passcode: 721137)
 
 Abstract: \
 Circadian rhythm is the 24-hour activity cycle that exists in most living organisms as an adaptation to the rotation of earth. In mammals, circadian rhythm is maintained through a tripartite transcriptional-translational feedback loop, featured by two transcription factors called BMAL1 and CLOCK. Disruption of the normal clock dynamics has been long noted as a risk factor of cancer, but the molecular mechanism is unknown. Recently we and others showed that BMAL1 and CLOCK are essential for multiple types of cancers, including glioblastoma, acute myeloid leukemia, hepatocellular carcinoma, and breast cancer. We revealed that BMAL1 obtains de novo binding sites in glioblastoma and rewires the metabolism of cancer stem cells. We also developed multiple sets of small molecules to target the core circadian modulators in cancer. I will talk about our current knowledge on the disrupted circadian dynamics in cancer, the use of small molecule tools to modulate the circadian rhythm in the cell, and outlook the future directions of targeting circadian rhythm in cancers.
