@@ -45,7 +45,7 @@ Circadian rhythm is the 24-hour activity cycle that exists in most living organi
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
-| Apr | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
+| Apr 20 | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
 | Apr | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2023 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
