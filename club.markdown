@@ -20,20 +20,20 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming event in January: 
+# Upcoming event in February: 
 
-### **Clock transcription factor dynamics in cancer**
+### **Tissue mechanics in regenerative wound healing**
 
-Speaker: [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/) (Steve Kay Lab, University of Southern California)
+Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor, University of Southern California)
 
-Date and Time: Jan 12 (11am-12noon PST)
+Date and Time: Feb 2 (1-2pm PT)
 
-Hybrid event: UPC MCB 102 & on Zoom (Meeting ID: 972 8604 4655, Passcode: 721137)
+Hybrid event: UPC RRI 421 & on Zoom (Meeting ID: 932 8132 8143, Passcode: 930739)
 
 Abstract: \
-Circadian rhythm is the 24-hour activity cycle that exists in most living organisms as an adaptation to the rotation of earth. In mammals, circadian rhythm is maintained through a tripartite transcriptional-translational feedback loop, featured by two transcription factors called BMAL1 and CLOCK. Disruption of the normal clock dynamics has been long noted as a risk factor of cancer, but the molecular mechanism is unknown. Recently we and others showed that BMAL1 and CLOCK are essential for multiple types of cancers, including glioblastoma, acute myeloid leukemia, hepatocellular carcinoma, and breast cancer. We revealed that BMAL1 obtains de novo binding sites in glioblastoma and rewires the metabolism of cancer stem cells. We also developed multiple sets of small molecules to target the core circadian modulators in cancer. I will talk about our current knowledge on the disrupted circadian dynamics in cancer, the use of small molecule tools to modulate the circadian rhythm in the cell, and outlook the future directions of targeting circadian rhythm in cancers.
+Symmetry breaking is a critical event that initiates tissue regeneration after injury. Both chemical and mechanical factors contribute to constitutes the optimal microenvironment, known as the morphogenetic field, for cellular reprogramming to occur and allow for regenerative wound healing. Tissue mechanics have been implicated as a common determinant of wound healing outcome across different species, as observed in African spiny mouse (regeneration), laboratory mouse (repair and partial regeneration) and human (scarring). We demonstrated that tuning the mechanical environment not only changes hair follicle regeneration number and pattern, but is also accompanied by chromatin remodeling, cellular endogenous reprogramming, dermal-epidermal signaling and dermal condensation during regenerative wound healing. Based on this, we propose a mechanical model with a 4-element loop, in which force, cell behavior, cell fate, and microenvironment co-regulate each other. We postulate that cell-cell to cell-matrix adhesion force ratio drives stochastic dermal condensation, the critical event that initiates new hair primordia formation. Thus, we have further delineated the chemo-mechanical, symmetry breaking morphogenetic events during regenerative wound healing and identified the evo-devo advantages of fostering an optimal tissue stiffness for regeneration as observed in African spiny mice.
 
-![DynamicsClub](/images/DynamicsClub_Jan2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Feb2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -75,6 +75,7 @@ Circadian rhythm is the 24-hour activity cycle that exists in most living organi
 | 10/20/2022 | Guest lecture: Control of Epithelial Morphogenesis <br /><br /> Model Informed Drug Discovery and Development | [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.MTQ5NDI0.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html) <br /> (ETH Zürich BSSE) <br /><br /> [**Dr. Denis Menshykau**](https://www.linkedin.com/in/dmenshykau/?originalSubdomain=de) (UCB, Belgium) | [Preprint](https://doi.org/10.1101/2022.08.30.505859) <br /><br /> [Post-Doc Position](https://www.jobs.ethz.ch/job/view/JOPG_ethz_iU0C4kQJU5gfL69FCh) |
 | 11/9/2022 | Dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/)  <br /> (Danforth Center, St Louis)  | [Preprint](https://doi.org/10.1101/2022.10.09.510391) |
 | 12/15/2022 | Guest lecture: Controlling Oscillation Dynamics | [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Duke University) | [Preprint](https://doi.org/10.1101/2022.08.02.499203) |
+| 1/12/2023 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
 
 &nbsp;
 &nbsp;
