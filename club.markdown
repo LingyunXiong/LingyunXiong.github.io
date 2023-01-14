@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming event in February: 
 
-### **Tissue mechanics in regenerative wound healing**
+### [**Tissue mechanics in regenerative wound healing**](https://www.nature.com/articles/s41467-021-22822-9)
 
 Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor, University of Southern California)
 
@@ -41,7 +41,6 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (USC) |
 | Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
@@ -82,4 +81,4 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 
 # How to Join the Club?
 
-Currently, we have **182** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **180** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
