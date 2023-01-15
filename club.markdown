@@ -41,7 +41,7 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb 9 | Guest lecture on biofilm dynamics | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
+| Feb 9 | Guest lecture on biofilm dynamics (QCB Seminar) | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
 | Apr 20 | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
