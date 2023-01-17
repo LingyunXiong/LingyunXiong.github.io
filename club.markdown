@@ -26,9 +26,9 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor, University of Southern California)
 
-Date and Time: Feb 2 (1-2pm PT)
+Date and Time: Feb 2 (11am-12noon PT)
 
-Hybrid event: UPC RRI 421 & on Zoom (Meeting ID: 932 8132 8143, Passcode: 930739)
+Hybrid event: UPC MCB 102 & on Zoom (Meeting ID: 932 8132 8143, Passcode: 930739)
 
 Abstract: \
 Symmetry breaking is a critical event that initiates tissue regeneration after injury. Both chemical and mechanical factors contribute to constitutes the optimal microenvironment, known as the morphogenetic field, for cellular reprogramming to occur and allow for regenerative wound healing. Tissue mechanics have been implicated as a common determinant of wound healing outcome across different species, as observed in African spiny mouse (regeneration), laboratory mouse (repair and partial regeneration) and human (scarring). We demonstrated that tuning the mechanical environment not only changes hair follicle regeneration number and pattern, but is also accompanied by chromatin remodeling, cellular endogenous reprogramming, dermal-epidermal signaling and dermal condensation during regenerative wound healing. Based on this, we propose a mechanical model with a 4-element loop, in which force, cell behavior, cell fate, and microenvironment co-regulate each other. We postulate that cell-cell to cell-matrix adhesion force ratio drives stochastic dermal condensation, the critical event that initiates new hair primordia formation. Thus, we have further delineated the chemo-mechanical, symmetry breaking morphogenetic events during regenerative wound healing and identified the evo-devo advantages of fostering an optimal tissue stiffness for regeneration as observed in African spiny mice.
