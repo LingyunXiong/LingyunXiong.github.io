@@ -12,7 +12,7 @@ permalink: /Publications/
 **Lingyun Xiong** (*In Revision*)
 
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel. (*Submitted*) \
+**Lingyun Xiong**\#, Alan Garfinkel. \
 arXiv DOI: 10.48550/arXiv.2301.08996 \
 \# Corresponding Author
 
