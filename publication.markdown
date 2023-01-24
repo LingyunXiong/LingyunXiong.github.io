@@ -8,13 +8,13 @@ permalink: /Publications/
 **Lingyun Xiong**, Jing Liu, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. \
 (*In Preparation*)
 
+- Cell fate transition as a bifurcation event \
+**Lingyun Xiong** (*In Revision*)
+
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
 **Lingyun Xiong**\#, Alan Garfinkel. (*Submitted*) \
 arXiv DOI: 10.48550/arXiv.2301.08996 \
 \# Corresponding Author
-
-- Cell fate transition as a bifurcation event \
-**Lingyun Xiong** (*In Revision*)
 
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
