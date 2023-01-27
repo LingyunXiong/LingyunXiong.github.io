@@ -35,6 +35,9 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 
 ![DynamicsClub](/images/DynamicsClub_Feb2023.pdf)
 
+&nbsp;
+&nbsp;
+
 ### [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
 
 Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California, San Diego)
