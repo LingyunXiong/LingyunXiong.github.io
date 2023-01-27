@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 
 # Upcoming events in February: 
 
-### [**Tissue mechanics in regenerative wound healing**](https://www.nature.com/articles/s41467-021-22822-9)
+### 1. [**Tissue mechanics in regenerative wound healing**](https://www.nature.com/articles/s41467-021-22822-9)
 
 Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor; University of Southern California)
 
@@ -38,7 +38,7 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 &nbsp;
 &nbsp;
 
-### [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
+### 2. [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
 
 Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California, San Diego)
 
