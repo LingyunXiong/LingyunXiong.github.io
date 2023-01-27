@@ -20,13 +20,13 @@ We're recruiting speakers throughout the year. To refer, please contact the host
 &nbsp;
 &nbsp;
 
-# Upcoming event in February: 
+# Upcoming events in February: 
 
 ### [**Tissue mechanics in regenerative wound healing**](https://www.nature.com/articles/s41467-021-22822-9)
 
-Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor, University of Southern California)
+Speaker: [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/) (Assistant Professor; University of Southern California)
 
-Date and Time: Feb 2 (11am-12noon PT)
+Date and Time: Feb 2 (Thur) at 11am-12noon PT 
 
 Hybrid event: UPC MCB 102 & on Zoom (Meeting ID: 932 8132 8143, Passcode: 930739)
 
@@ -35,13 +35,23 @@ Symmetry breaking is a critical event that initiates tissue regeneration after i
 
 ![DynamicsClub](/images/DynamicsClub_Feb2023.pdf)
 
+### [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
+
+Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California, San Diego)
+
+Date and Time: Feb 9 (Thur) at 2-3pm PT (USC QCB Colloquium)
+
+Hybrid event: UPC RRI 101 & on Zoom (Meeting ID: 922 0256 0901, Passcode: 413673)
+
+Abstract: \
+Despite their unassuming simplicity, bacteria are capable of performing highly complex functions. Following our discovery of bacterial action potentials in biofilm communities, we have shown that bacteria use electrochemical potential to orchestrate various stress responses in space and time, at both the single cell and community levels. These findings have revealed a surprising similarity between bacteria and neurons. In my talk, I will present our most recent discovery suggesting that dead-like cells can perform computations. Specifically, I will describe how dormant bacterial spores count and integrate environmental inputs over time to decide if they should return to life.
+
 &nbsp;
 &nbsp;
 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb 9 | Guest lecture on biofilm dynamics (QCB Seminar) | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD) |
 | Mar | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
 | Apr 20 | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
