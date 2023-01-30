@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 - Sexual dimorphism in the mammalian kidney is directed by androgen receptor regulation of \
-gene expression in proximal tubulue segments \
+gene expression in proximal tubule segments \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (*In Preparation*; § Co–first Authors)
 
 - Cell fate transition as a bifurcation event \
