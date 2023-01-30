@@ -14,7 +14,7 @@ Extensive studies have establsihed that transcription factors (TFs) play an esse
 Currently, I am studying sex differences in the mammalian kidney, with Drs. [**Andrew McMahon**](https://mcmahonlab.usc.edu/) and [**Adam MacLean**](https://macleanlab.usc.edu/). 
 
 
-## **Research interests**
+## **Research topics**
 - Mathematical modeling of renal physiology
 - Pattern formation during kidney development 
 - Comparative studies of mammalian physiology
