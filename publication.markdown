@@ -5,21 +5,19 @@ permalink: /Publications/
 ---
 
 - AR-mediated signaling diverges male renal transcriptome from female in mice \
-**Lingyun Xiong**, Jing Liu, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. \
-(*In Preparation*)
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. \
+(*In Preparation*; § Co–first Authors)
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong** (*In Revision*)
 
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel. \
+**Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
 arXiv DOI: 10.48550/arXiv.2301.08996 \
-\# Corresponding Author
 
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
-**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
+**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
 bioRxiv DOI: 10.1101/2020.06.24.169490 \
-\# Corresponding Author
 
 - [Genomic hallmarks of cellular dormancy in cancer and therapeutic implications](https://doi.org/10.1101/2021.11.12.468410) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
