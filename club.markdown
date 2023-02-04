@@ -74,7 +74,7 @@ Despite their unassuming simplicity, bacteria are capable of performing highly c
 | 11/9/2022 | Dynamics in plant tissue patterning | [**Dr. Renee Dale**](https://rdale1.github.io/about/)  <br /> (Danforth Center, St Louis)  | [Preprint](https://doi.org/10.1101/2022.10.09.510391) |
 | 12/15/2022 | Guest lecture: Controlling Oscillation Dynamics | [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Duke University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32409472/) <br /> [Preprint](https://doi.org/10.1101/2022.08.02.499203) |
 | 1/12/2023 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
-| 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Kec)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
+| 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
 
 &nbsp;
 &nbsp;
