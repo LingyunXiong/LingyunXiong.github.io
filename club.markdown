@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. You are cordially invited to join the discussion. All are welcome! 
 
-We're recruiting speakers throughout the year. To refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
+We're recruiting speakers throughout the year. To volunteer or refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
 
 &nbsp;
 &nbsp;
