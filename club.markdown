@@ -24,7 +24,7 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 ### [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
 
-Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California, San Diego)
+Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California San Diego)
 
 Date and Time: Feb 9 (Thur) at 2-3pm PT (USC QCB Colloquium)
 
