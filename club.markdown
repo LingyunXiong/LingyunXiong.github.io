@@ -81,4 +81,4 @@ Despite their unassuming simplicity, bacteria are capable of performing highly c
 
 # How to Join the Club?
 
-Currently, we have **191** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **192** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
