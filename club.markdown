@@ -20,20 +20,19 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 &nbsp;
 &nbsp;
 
-# Upcoming event in February: 
+# Upcoming event in March: 
 
-### [**Bacterial brains: How bacteria use electrochemical potentials to solve complex problems**](https://www.science.org/doi/10.1126/science.abl7484)
+### **Dynamics in mammalian embryonic development**
 
-Speaker: [**Dr. Gürol Süel**](https://suellab.github.io) (Professor; University of California San Diego)
+Speaker: [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Postdoctoral Fellow; Brandeis University)
 
-Date and Time: Feb 9 (Thur) at 2-3pm PT (USC QCB Colloquium)
+Date and Time: Mar 23 (Thur) at 11am-12noon PT / 2-3pm ET
 
-Hybrid event: UPC RRI 101 & on Zoom (Meeting ID: 922 0256 0901, Passcode: 413673)
+Virtual event on Zoom (Meeting ID: 986 5222 2049, Passcode: 829241)
 
-Abstract: \
-Despite their unassuming simplicity, bacteria are capable of performing highly complex functions. Following our discovery of bacterial action potentials in biofilm communities, we have shown that bacteria use electrochemical potential to orchestrate various stress responses in space and time, at both the single cell and community levels. These findings have revealed a surprising similarity between bacteria and neurons. In my talk, I will present our most recent discovery suggesting that dead-like cells can perform computations. Specifically, I will describe how dormant bacterial spores count and integrate environmental inputs over time to decide if they should return to life.
+Abstract: TBA
 
-![DynamicsClub](/images/QCB_Feb2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -41,7 +40,6 @@ Despite their unassuming simplicity, bacteria are capable of performing highly c
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 23 | Dynamics in mammalian embryonic development | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University) |
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
 | Apr | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | May | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
@@ -75,10 +73,11 @@ Despite their unassuming simplicity, bacteria are capable of performing highly c
 | 12/15/2022 | Guest lecture: Controlling Oscillation Dynamics | [**Dr. Steven Haase**](https://sites.duke.edu/haaselab/) (Duke University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32409472/) <br /> [Preprint](https://doi.org/10.1101/2022.08.02.499203) |
 | 1/12/2023 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
 | 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
+| 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io)  <br /> (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
 
 &nbsp;
 &nbsp;
 
 # How to Join the Club?
 
-Currently, we have **192** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **195** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
