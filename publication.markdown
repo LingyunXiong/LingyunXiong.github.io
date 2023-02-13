@@ -4,8 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-- Sexual dimorphism in the mammalian kidney is directed by androgen receptor regulation of \
-gene expression in proximal tubule segments \
+- Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (*In Preparation*; § Co–first Authors)
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical modeling approach \
