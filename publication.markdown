@@ -4,10 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
-- Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney \
+- Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney.
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (*In Preparation*; § Co–first Authors)
 
-- Studying the effects of oral contraceptives on coagulation using a mathematical modeling approach \
+- Studying the effects of oral contraceptives on coagulation using a mathematical modeling approach.
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang (*Submitted*)
 
 - Cell fate transition as a bifurcation event \
