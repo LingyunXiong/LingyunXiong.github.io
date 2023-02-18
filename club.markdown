@@ -22,15 +22,15 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 # Upcoming event in March: 
 
-### **Dynamics in mammalian embryonic development**
-
-Speaker: [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Postdoctoral Fellow; Brandeis University)
+### **Asymmetry buffering mechanism of the segmentation clock**
+Speaker: [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (NRSA Postdoctoral Fellow; Brandeis University)
 
 Date and Time: Mar 23 (Thur) at 11am-12noon PT / 2-3pm ET
 
 Virtual event on Zoom (Meeting ID: 986 5222 2049, Passcode: 829241)
 
-Abstract: TBA
+Abstract: \
+Left-right symmetry of the anatomy of vertebrate bodies is crucial for proper physiological function and requires active mechanisms throughout embryonic development. The somites, which give rise to the vertebrae and rib cage, appear as highly symmetric pairs of mesoderm blocks on both sides of the midline in a synchronized manner. The timing and positions of somite formation are regulated by the segmentation clock, a collection of molecular oscillators also exhibiting left-right symmetry. Retinoic acid (RA) signaling is required to maintain the symmetry of somite formation and the underlying segmentation clock. While it is reported that RA-deficient animals display asymmetric somite formation due to an asymmetric segmentation clock pattern, the dynamical mechanisms by which RA regulates the symmetry of the segmentation clock have not been studied. In my talk, I will present our experimental data on the temporal-spatial dynamics of how asymmetry appears in the segmentation clock of RA-deficient embryos, followed by a discussion on the potential mechanism of RA-mediated symmetry maintenance based on a modified Kuramoto model. Additionally, using computational fluid dynamics simulations, I will propose that asymmetric fluid flow at the whole-embryo level could cause somite asymmetry and potentially affect other organs.
 
 ![DynamicsClub](/images/DynamicsClub_Mar2023.pdf)
 
