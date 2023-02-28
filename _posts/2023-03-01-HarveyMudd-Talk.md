@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Upcoming talk at Harvey Mudd Applied Math Seminar"
-date:   2023-01-28 
+date:   2023-03-01 
 ---
 
 ![HarveyMudd_Talk](/images/Claremont_Colleges.jpeg)
