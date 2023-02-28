@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 # Upcoming event in March: 
 
-### **Asymmetry buffering mechanism of the segmentation clock**
+### [**Asymmetry buffering mechanism of the segmentation clock**](https://projects.iq.harvard.edu/pourquielab/left-right-asymmetry)
 Speaker: [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (NRSA Postdoctoral Fellow; Brandeis University)
 
 Date and Time: Mar 23 (Thur) at 11am-12noon PT / 2-3pm ET
