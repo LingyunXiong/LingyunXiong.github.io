@@ -44,7 +44,7 @@ Left-right symmetry of the anatomy of vertebrate bodies is crucial for proper ph
 | Apr 13 | Guest lecture on human segmentation clock | [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Harvard Medical School) |
 | Apr | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | May | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
-| May | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
+| May 25 | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
 | Jun | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
