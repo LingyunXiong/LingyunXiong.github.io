@@ -51,6 +51,7 @@ Left-right symmetry of the anatomy of vertebrate bodies is crucial for proper ph
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
 | 2023 | Guest lecture on stem cell and regeneration | [**Dr. Yulia Shwartz**](https://keck.usc.edu/faculty-search/yulia-shwartz/) <br /> (USC, Keck Medicine) |
 | 2023 | Electrical stimulation of biofilm growth | [**Dr. Colin J Comerci**](https://suellab.github.io/people/) (UCSD) |
+| 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**]([https://suellab.github.io/people/](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx)) <br /> (University of Birmingham) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Potassium signaling in bacterial biofilms | [**Obadiah Mulder**](https://edgepopgen.github.io/edgelab/team/) <br /> (Edge Lab, USC) |
 | 2023 | Hormonal dynamics in health and disease | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
