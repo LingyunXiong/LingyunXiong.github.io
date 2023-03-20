@@ -6,7 +6,7 @@ date:   2023-03-01
 
 ![HarveyMudd_Talk](/images/Claremont_Colleges.jpeg)
 
-On Mar 20 (Monday) at 4pm Pacific Time, I will give a talk at the **Claremont Center for the Mathematical Sciences** as part of the [**Applied Math Seminar**](https://colleges.claremont.edu/ccms/event/applied-math-seminar-ivy-xiong-usc/). This will be a hybrid event. Join us in person (Shanahan 2407, Harvey Mudd College, Claremont, CA) or on Zoom! I thank [**Dr. Heather Zinn-Brooks**](https://math.hmc.edu/hzinnbrooks/) for the invitation. 
+On April 4th (Monday) at 4pm Pacific Time, I will give a talk at the **Claremont Center for the Mathematical Sciences** as part of the [**Applied Math Seminar**](https://colleges.claremont.edu/ccms/event/applied-math-seminar-ivy-xiong-usc/). This will be a hybrid event. Join us in person (Shanahan 2407, Harvey Mudd College, Claremont, CA) or on Zoom! I thank [**Dr. Heather Zinn-Brooks**](https://www.hmc.edu/mathematics/people/faculty/heather-zinn-brooks/) for the invitation. 
 
 **Title**: A common pathway to cancer: oncogenic mutations abolish p53 oscillations
 
