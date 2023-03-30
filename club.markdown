@@ -36,7 +36,7 @@ Many key physiological processes require tens or hundreds of cells to coordinate
 ![DynamicsClub](/images/DynamicsClub_Apr2023_1.pdf)
 
 
-### Guest Lecture 2: [**Metabolic regulation of species-specific developmental rate in mouse and human cells**]()
+### Guest Lecture 2: [**Metabolic regulation of species-specific developmental rate in mouse and human cells**](https://www.nature.com/articles/s41586-022-05574-4)
 
 Speaker: [**Dr. Margarete Diaz Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) (PI; Massachusetts General Hospital)
 
