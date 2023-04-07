@@ -79,7 +79,7 @@ Animals display substantial inter-species variation in the rate of embryonic dev
 | 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
 | 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
 | 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University)  | |
-| 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
+| 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
 
 &nbsp;
 &nbsp;
