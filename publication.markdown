@@ -12,7 +12,7 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. (*Sub
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. 
-Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Revision*) \
+Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Revision*)
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong** (*In Revision*)
