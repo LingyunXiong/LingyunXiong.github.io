@@ -24,7 +24,7 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 ### [**Whole-kidney model of nephron dynamics**](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00264.2021)
 
-Speaker: [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home)(Graduate Student, Layton Lab; UWaterloo)
+Speaker: [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) (Graduate Student, Layton Lab; UWaterloo)
 
 Date and Time: May 11 (Thur) at 11am-12noon PT / 2-3pm ET
 
@@ -79,7 +79,7 @@ Abstract: TBA
 | 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
 | 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University)  | |
 | 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
-| 4/13/2023 | Guest lecture: Metabolic regulation of species-specific developmental rate | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
+| 4/13/2023 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 
 
 &nbsp;
