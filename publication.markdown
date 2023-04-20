@@ -22,7 +22,7 @@ Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Works
 arXiv DOI: 10.48550/arXiv.2301.08996
 
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
-Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \ 
+Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
 **Lingyun Xiong**, K Lenhard Rudolph, Adam L MacLean \
 bioRxiv DOI: 10.1101/2023.04.18.537360
 
