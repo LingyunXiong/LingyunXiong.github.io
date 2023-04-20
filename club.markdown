@@ -20,20 +20,19 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 &nbsp;
 &nbsp;
 
-# Upcoming Guest Lecture in April: 
+# Upcoming event in May: 
 
-### [**Metabolic regulation of species-specific developmental rate in mouse and human cells**](https://www.nature.com/articles/s41586-022-05574-4) ([Spotlight](https://doi.org/10.1016/j.molcel.2023.02.025))
+### [**Whole-kidney model of nephron dynamics**](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00264.2021)
 
-Speaker: [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) (PI; Massachusetts General Hospital)
+Speaker: [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home)(Graduate Student, Layton Lab; UWaterloo)
 
-Date and Time: Apr 13 (Thur) at 11am-12noon PT / 2-3pm ET
+Date and Time: May 11 (Thur) at 11am-12noon PT / 2-3pm ET
 
-Virtual event on Zoom (Meeting ID: 928 9339 8339, Passcode: 954246)
+Virtual event on Zoom (Meeting ID: 942 6642 3724, Passcode: 546954)
 
-Abstract: \
-Animals display substantial inter-species variation in the rate of embryonic development despite a broad conservation of the overall sequence of developmental events. Differences in biochemical reaction rates, including the rates of protein production and degradation, are thought to be responsible for species-specific rates of development. However, the cause of differential biochemical reaction rates between species remains unknown. Here, using pluripotent stem cells, we have established an in vitro system that recapitulates the twofold difference in developmental rate between mouse and human embryos. This system provides a quantitative measure of developmental speed as revealed by the period of the segmentation clock, a molecular oscillator associated with the rhythmic production of vertebral precursors. Using this system, we show that mass-specific metabolic rates scale with the developmental rate and are therefore higher in mouse cells than in human cells. Reducing these metabolic rates by inhibiting the electron transport chain slowed down the segmentation clock by impairing the cellular NAD+/NADH redox balance and, further downstream, lowering the global rate of protein synthesis. Conversely, increasing the NAD+/NADH ratio in human cells by overexpression of the *Lactobacillus brevis* NADH oxidase *Lb*NOX increased the translation rate and accelerated the segmentation clock. These findings represent a starting point for the manipulation of developmental rate, with multiple translational applications including accelerating the differentiation of human pluripotent stem cells for disease modelling and cell-based therapies.
+Abstract: TBA
 
-![DynamicsClub](/images/DynamicsClub_Apr2023_2.pdf)
+![DynamicsClub](/images/DynamicsClub_May2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -41,8 +40,6 @@ Animals display substantial inter-species variation in the rate of embryonic dev
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
-| May 25 | Whole-kidney model of nephron dynamics | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Lab, UWaterloo) |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
@@ -52,6 +49,7 @@ Animals display substantial inter-species variation in the rate of embryonic dev
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Hormonal dynamics in health and disease | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
+| 2023 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 
 &nbsp;
@@ -81,10 +79,12 @@ Animals display substantial inter-species variation in the rate of embryonic dev
 | 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
 | 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) <br /> (Brandeis University)  | |
 | 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
+| 4/13/2023 | Guest lecture: Metabolic regulation of species-specific developmental rate | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
+
 
 &nbsp;
 &nbsp;
 
 # How to Join the Club?
 
-Currently, we have **215** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **216** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
