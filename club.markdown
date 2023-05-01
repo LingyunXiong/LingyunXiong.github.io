@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 # Upcoming event in May: 
 
-### [**Whole-kidney model of nephron dynamics**](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00264.2021)
+### [**Investigating the effects of feedforward and feedback controls on potassium homeostasis using a mathematical modeling analysis**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010607)
 
 Speaker: [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) (Graduate Student, Layton Lab; UWaterloo)
 
@@ -30,7 +30,8 @@ Date and Time: May 11 (Thur) at 11am-12noon PT / 2-3pm ET
 
 Virtual event on Zoom (Meeting ID: 942 6642 3724, Passcode: 546954)
 
-Abstract: TBA
+Abstract:\
+Dysregulation of potassium levels is a common and dangerous side effect of many pathologies and medications. To maintain potassium homeostasis, the primary mechanisms are: (i) short-term regulation via the uptake of potassium into the cells through the sodium-potassium pump and (ii) long term regulation by renal regulation of urinary potassium excretion. Given the crucial role of potassium in normal cellular function and the fluctuating nature of daily potassium intake, mammals have evolved a system of regulatory mechanisms to maintain balance of potassium in the extra- and intracellular fluids. The multitude of physiological processes involved make the study of potassium homeostasis well suited for investigation using mathematical modeling. These processes are complex and are not completely understood. In this project, we developed a compartmental model of extra- and intracellular potassium regulation, including known feedforward and feedback mechanisms. To evaluate the effects of impact of individual regulatory mechanisms on potassium homeostasis, we conducted and analyzed simulations for a single meal and potassium loading or depletion over multiple days with and without different feedback and feedforward mechanisms. Additionally, we investigated a hypothesized muscle-kidney crosstalk signal through model simulations. Model simulations and analysis uncovered the necessity of a muscle-kidney crosstalk signal for physiological homeostatic recovery following a period of potassium loading or depletion. Using our mathematical model, we were able to unravel the multi-factorial mechanisms involved in potassium regulation by studying individual impacts of the control mechanisms on potassium homeostasis. This model may be further developed to predict individual patient risk for hypo- or hyperkalemia.
 
 ![DynamicsClub](/images/DynamicsClub_May2023.pdf)
 
@@ -40,6 +41,7 @@ Abstract: TBA
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
+| Jun | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
@@ -49,7 +51,6 @@ Abstract: TBA
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Hormonal dynamics in health and disease | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
-| 2023 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 
 &nbsp;
