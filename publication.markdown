@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-- [Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
+- [Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585)
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
 bioRxiv DOI: 10.1101/2023.05.06.539585
 
