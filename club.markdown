@@ -41,7 +41,7 @@ Dysregulation of potassium levels is a common and dangerous side effect of many 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
+| Jun 1 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |

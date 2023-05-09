@@ -11,12 +11,12 @@ bioRxiv DOI: 10.1101/2023.05.06.539585
 - Sex differences in renal transporters: assessment and functional consequences \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. (*Under Review*)
 
-- Cell fate transition as a bifurcation event \
-**Lingyun Xiong** (*In Revision*)
-
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. 
 Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Revision*)
+
+- Cell fate transition as a bifurcation event \
+**Lingyun Xiong** (*In Revision*)
 
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
 **Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
