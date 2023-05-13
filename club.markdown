@@ -33,7 +33,7 @@ Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 941 5314 7590, Passcode: 4752
 Abstract:\
 In the development of anti-cancer therapies, quantitative mathematical models of cellular interactions are pivotal tools for understanding treatment efficacy. Conventional efforts to validate and interpret models of cancer cell growth and death hinge on first proposing a precise mathematical model, then analyzing experimental data in the context of that chosen model.  In this talk I will present an implementation of recently developed dynamical systems methods to instead discover the most explanatory mathematical model term-by-term.  I will highlight how the use of power series expansions plays an essential role in matching this modeling framework with experimental results.  These methods are used on in vitro experimental data of T-cells genetically engineered to target and kill patient-derived brain cancer cell lines.  Our modeling predicts key aspects of the interaction dynamics of cancer cell and T-cell populations.  Importantly, we show how the different mathematical models identified can be interpreted biologically in relation to different T-cell functional responses, whether individuals or pairs of T-cells are binding to cancer cells, and various growth models for either of the T-cell or cancer cell populations (e.g. Logistic and Allee models).
 
-![DynamicsClub](/images/DynamicsClub_June2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Jun2023.pdf)
 
 &nbsp;
 &nbsp;
