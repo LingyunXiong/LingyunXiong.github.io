@@ -20,20 +20,20 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 &nbsp;
 &nbsp;
 
-# Upcoming event in May: 
+# Upcoming event in June: 
 
-### [**Investigating the effects of feedforward and feedback controls on potassium homeostasis using a mathematical modeling analysis**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010607)
+### [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.biorxiv.org/content/10.1101/2022.09.22.508748v4)
 
-Speaker: [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) (Graduate Student, Layton Lab; UWaterloo)
+Speaker: [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) (Assistant Professor, College of Charleston)
 
-Date and Time: May 11 (Thur) at 11am-12noon PT / 2-3pm ET
+Date and Time: June 1 (Thur) at 11am-12noon PT / 2-3pm ET
 
-Virtual event on Zoom (Meeting ID: 942 6642 3724, Passcode: 546954)
+Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 941 5314 7590, Passcode: 475286)
 
 Abstract:\
-Dysregulation of potassium levels is a common and dangerous side effect of many pathologies and medications. To maintain potassium homeostasis, the primary mechanisms are: (i) short-term regulation via the uptake of potassium into the cells through the sodium-potassium pump and (ii) long term regulation by renal regulation of urinary potassium excretion. Given the crucial role of potassium in normal cellular function and the fluctuating nature of daily potassium intake, mammals have evolved a system of regulatory mechanisms to maintain balance of potassium in the extra- and intracellular fluids. The multitude of physiological processes involved make the study of potassium homeostasis well suited for investigation using mathematical modeling. These processes are complex and are not completely understood. In this project, we developed a compartmental model of extra- and intracellular potassium regulation, including known feedforward and feedback mechanisms. To evaluate the effects of impact of individual regulatory mechanisms on potassium homeostasis, we conducted and analyzed simulations for a single meal and potassium loading or depletion over multiple days with and without different feedback and feedforward mechanisms. Additionally, we investigated a hypothesized muscle-kidney crosstalk signal through model simulations. Model simulations and analysis uncovered the necessity of a muscle-kidney crosstalk signal for physiological homeostatic recovery following a period of potassium loading or depletion. Using our mathematical model, we were able to unravel the multi-factorial mechanisms involved in potassium regulation by studying individual impacts of the control mechanisms on potassium homeostasis. This model may be further developed to predict individual patient risk for hypo- or hyperkalemia.
+In the development of anti-cancer therapies, quantitative mathematical models of cellular interactions are pivotal tools for understanding treatment efficacy. Conventional efforts to validate and interpret models of cancer cell growth and death hinge on first proposing a precise mathematical model, then analyzing experimental data in the context of that chosen model.  In this talk I will present an implementation of recently developed dynamical systems methods to instead discover the most explanatory mathematical model term-by-term.  I will highlight how the use of power series expansions plays an essential role in matching this modeling framework with experimental results.  These methods are used on in vitro experimental data of T-cells genetically engineered to target and kill patient-derived brain cancer cell lines.  Our modeling predicts key aspects of the interaction dynamics of cancer cell and T-cell populations.  Importantly, we show how the different mathematical models identified can be interpreted biologically in relation to different T-cell functional responses, whether individuals or pairs of T-cells are binding to cancer cells, and various growth models for either of the T-cell or cancer cell populations (e.g. Logistic and Allee models).
 
-![DynamicsClub](/images/DynamicsClub_May2023.pdf)
+![DynamicsClub](/images/DynamicsClub_June2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -41,7 +41,6 @@ Dysregulation of potassium levels is a common and dangerous side effect of many 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun 1 | Model discovery of CAR T-cell killing dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
@@ -78,14 +77,14 @@ Dysregulation of potassium levels is a common and dangerous side effect of many 
 | 1/12/2023 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
 | 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
 | 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
-| 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis)  | |
+| 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis) | |
 | 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
 | 4/13/2023 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
-
+| 5/11/2023 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 
 &nbsp;
 &nbsp;
 
 # How to Join the Club?
 
-Currently, we have **216** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **218** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
