@@ -4,11 +4,11 @@ title: News
 permalink: /News/
 ---
 
-# New paper: Hopf bifurcation keeps cancer away!
-Post date: Aug 6, 2022
+# New preprint: Regulatory mechnaism of sex differences in the kidney
+Post date: May 8, 2023
 
-![p53-Hopf](/images/p53_Hopf_Abstract.jpeg)
+![Kidney_Sex](/images/Kidney_Sex_Abstract.png)
 
-I'm so pleased to announce that my latest paper on p53 oscillations is out now! As an extension to my thesis work on *Influence of inherited genetic variants on risk, biology and prognosis of common cancers*, I investigated the intriguing interaction patterns of diverse oncogenic alterations in the p53 tumor suppressor pathway, using Hopf bifurcation analysis. These diverse genetic alterations, which were related to cancer mainly through correlation or experimental manipulation, can now be understood mechanistically: they promote cancer by abolishing the oscillatory competence of p53, a property that is essential for tumor suppression. 
+I'm happy to share that my latest study titled "Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney" is now available on [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.05.06.539585v1). This work was mentored by Drs. Andy McMahon, Adam MacLean, Junhyong Kim and Lior Pachter.
 
-By applying bifurcation theory to cancer, we can now evaluate mathematically how the inherited genome influences the somatic cancer genome, and discover what a variety of oncogenic alterations have in common. Read more: [https://doi.org/10.1016/j.pbiomolbio.2022.06.002](https://doi.org/10.1016/j.pbiomolbio.2022.06.002)
+Mammalian organs exhibit distinct physiology, disease susceptibility and injury responses between the sexes. In the mouse kidney, sexually dimorphic gene activity maps predominantly to proximal tubule (PT) segments. Bulk RNA-seq data demonstrated sex differences were established from 4 and 8 weeks after birth under gonadal control. Hormone injection studies and genetic removal of androgen and estrogen receptors demonstrated androgen receptor (AR) mediated regulation of gene activity in PT cells as the regulatory mechanism. Interestingly, caloric restriction feminizes the male kidney. Single-nuclear multiomic analysis identified putative cis-regulatory regions and cooperating factors mediating PT responses to AR activity in the mouse kidney. In the human kidney, a limited set of genes showed conserved sex-linked regulation while analysis of the mouse liver underscored organ-specific differences in the regulation of sexually dimorphic gene expression. These findings raise interesting questions on the evolution, physiological significance, and disease and metabolic linkage, of sexually dimorphic gene activity.
