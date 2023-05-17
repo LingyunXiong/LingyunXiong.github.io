@@ -22,7 +22,7 @@ We're recruiting speakers throughout the year. To volunteer or refer, please con
 
 # Upcoming event in June: 
 
-### [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.biorxiv.org/content/10.1101/2022.09.22.508748v4)
+### [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.biorxiv.org/content/10.1101/2022.09.22.508748v4](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1115536/full)
 
 Speaker: [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) (Assistant Professor, College of Charleston)
 
