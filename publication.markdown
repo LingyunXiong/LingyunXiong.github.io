@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 - [Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585)
-**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors; *Under Review*) \
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
 bioRxiv DOI: 10.1101/2023.05.06.539585
 
 - Sex differences in renal transporters: assessment and functional consequences \
@@ -31,7 +31,7 @@ bioRxiv DOI: 10.1101/2023.04.18.537360
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
 bioRxiv DOI: 10.1101/2020.06.24.169490
 
-- [Genomic hallmarks of cellular dormancy in cancer and therapeutic implications](https://doi.org/10.1101/2021.11.12.468410) \
+- [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://doi.org/10.1101/2021.11.12.468410) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
 bioRxiv DOI: 10.1101/2021.11.12.468410 
 
