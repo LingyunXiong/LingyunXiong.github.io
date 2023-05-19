@@ -55,8 +55,6 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 &nbsp;
 &nbsp; 
 
-# [List of Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
-
 # Past Events in 2023:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
@@ -67,6 +65,8 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 | Apr 6 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
 | Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
+
+# [List of Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
 &nbsp;
 &nbsp;
