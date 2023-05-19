@@ -4,7 +4,7 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. You are cordially invited to join the discussion. All are welcome! 
+Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. All are welcome! 
 
 We're recruiting speakers throughout the year. To volunteer or refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
 
@@ -53,18 +53,20 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 
 &nbsp;
-&nbsp;
+&nbsp; 
+
+# [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
 # Past Events in 2023:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
-| 1/12/2023 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
-| 2/2/2023 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
-| 2/9/2023 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
-| 3/23/2023 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis) | |
-| 4/6/2023 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
-| 4/13/2023 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
-| 5/11/2023 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
+| Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
+| Feb 2 | Tissue mechanics in regenerative wound healing | [**Dr. Hans Harn**](https://sites.usc.edu/cmchuong/about/)  <br /> (USC, Keck Medicine)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33972536/) |
+| Feb 9 | Guest lecture: How bacteria use electrochemical potentials to solve complex problems | [**Dr. Gürol Süel**](https://suellab.github.io) (UCSD)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36201591/) |
+| Mar 23 | Asymmetry buffering mechanism of the segmentation clock | [**Dr. Kana Ishimatsu**](https://www.brandeis.edu/mathematics/people/index.html) (Brandeis) | |
+| Apr 6 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
+| Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
+| May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 
 &nbsp;
 &nbsp;
