@@ -55,7 +55,7 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 &nbsp;
 &nbsp; 
 
-# [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
+# [List of Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
 # Past Events in 2023:
 
@@ -73,4 +73,4 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 
 # How to Join the Club?
 
-Currently, we have **218** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
+Currently, we have **224** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
