@@ -43,6 +43,7 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 | **Date** | **Topic** | **Speaker(s)** |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
+| Jul | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
 | 2023 | Guest lecture on stem cell and regeneration | [**Dr. Yulia Shwartz**](https://keck.usc.edu/faculty-search/yulia-shwartz/) <br /> (USC, Keck Medicine) |
