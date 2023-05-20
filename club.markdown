@@ -6,7 +6,9 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. All are welcome! 
 
-We're recruiting speakers throughout the year. To volunteer or refer, please contact the host [**Ivy Xiong**](https://lingyunxiong.github.io) (Email: [lingyunx@usc.edu](mailto:lingyunx@usc.edu)). 
+Currently, we have **225** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+
+We're recruiting speakers for 2024. To volunteer, please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A). 
 
 &nbsp;
 &nbsp;
@@ -67,11 +69,9 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 | Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 
-# [List of Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
+# [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
 &nbsp;
 &nbsp;
 
-# How to Join the Club?
 
-Currently, we have **225** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD) today! 
