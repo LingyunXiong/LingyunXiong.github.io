@@ -8,7 +8,7 @@ Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss 
 
 Currently, we have **225** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
-We're recruiting speakers for 2024. Please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
+Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
 &nbsp;
 &nbsp;
