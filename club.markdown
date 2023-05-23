@@ -8,7 +8,7 @@ Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss 
 
 Currently, we have **225** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
-We're recruiting speakers for 2024. To volunteer, please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A). 
+We're recruiting speakers for 2024. Please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
 &nbsp;
 &nbsp;
@@ -45,10 +45,10 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 | **Date** | **Topic** | **Speaker(s)** |
 | Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
-| Jul | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
+| Jul 25 | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
+| Aug | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
-| 2023 | Guest lecture on stem cell and regeneration | [**Dr. Yulia Shwartz**](https://keck.usc.edu/faculty-search/yulia-shwartz/) <br /> (USC, Keck Medicine) |
 | 2023 | Electrical stimulation of biofilm growth | [**Dr. Colin J Comerci**](https://suellab.github.io/people/) (UCSD) |
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
