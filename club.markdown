@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. All are welcome! 
 
-Currently, we have **225** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **226** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -22,7 +22,7 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming event in June: 
+# Upcoming events in June: 
 
 ### [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1115536/full)
 
@@ -37,20 +37,30 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 
 ![DynamicsClub](/images/DynamicsClub_Jun2023.pdf)
 
+### **Nonlinear Dynamics of Sound Detection in the Auditory System**
+
+Speaker: [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
+
+Date and Time: June 7 (Wed) at 11am-12noon PT
+
+Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 998 4597 0036, Passcode: 632181)
+
+Abstract:\
+Hair cells of the inner ear perform the first step in the active detection of sound, converting mechanical deflections into electric signals that are transmitted to neurons. A number of internal cellular processes serve to enhance the response of the hair bundle to the applied signal, leading to sensitivity to displacements of just a few Angstroms in amplitude, which is below the noise levels in the ear. Further, the auditory system can sustain a broad dynamic range of sounds, spanning over 6 orders of magnitude in pressure and over 3 orders of magnitude in frequency. In this in vitro study, we look at the nonlinear dynamics behind this remarkable detection. Specifically, we will discuss the nonlinearities crucial for the performance of these cells, as well as explore the bifurcations and critical points that describe the dynamics of the response. The goal is to provide insights into the physics behind the remarkable sensitivity of the auditory system.
+
 &nbsp;
 &nbsp;
 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun 7 | Sound detection in the Amphibian auditory system | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab, UCLA) |
 | Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
-| Jul 25 | Modeling single-cell dynamics with Optimal Transport | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
 | Aug | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
-| 2023 | Electrical stimulation of biofilm growth | [**Dr. Colin J Comerci**](https://suellab.github.io/people/) (UCSD) |
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
+| 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
+| 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2023 | Hormonal dynamics in health and disease | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
