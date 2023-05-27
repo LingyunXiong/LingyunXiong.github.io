@@ -24,7 +24,7 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 
 # Upcoming events in June: 
 
-### [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1115536/full)
+### 1. [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1115536/full)
 
 Speaker: [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) (Assistant Professor, College of Charleston)
 
@@ -37,7 +37,7 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 
 ![DynamicsClub](/images/DynamicsClub_Jun2023.pdf)
 
-### **Nonlinear Dynamics of Sound Detection in the Auditory System**
+### 2. **Nonlinear Dynamics of Sound Detection in the Auditory System**
 
 Speaker: [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
 
@@ -47,6 +47,8 @@ Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 998 4597 0036, Passcode: 6321
 
 Abstract:\
 Hair cells of the inner ear perform the first step in the active detection of sound, converting mechanical deflections into electric signals that are transmitted to neurons. A number of internal cellular processes serve to enhance the response of the hair bundle to the applied signal, leading to sensitivity to displacements of just a few Angstroms in amplitude, which is below the noise levels in the ear. Further, the auditory system can sustain a broad dynamic range of sounds, spanning over 6 orders of magnitude in pressure and over 3 orders of magnitude in frequency. In this in vitro study, we look at the nonlinear dynamics behind this remarkable detection. Specifically, we will discuss the nonlinearities crucial for the performance of these cells, as well as explore the bifurcations and critical points that describe the dynamics of the response. The goal is to provide insights into the physics behind the remarkable sensitivity of the auditory system.
+
+![DynamicsClub2](/images/DynamicsClub_Jun2023_2.pdf)
 
 &nbsp;
 &nbsp;
@@ -62,7 +64,6 @@ Hair cells of the inner ear perform the first step in the active detection of so
 | 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
-| 2023 | Hormonal dynamics in health and disease | [**Dr. Anna Nelson**](https://scholars.duke.edu/person/anna.nelson) <br /> (Duke University) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 
 &nbsp;
