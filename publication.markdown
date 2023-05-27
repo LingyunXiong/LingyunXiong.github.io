@@ -4,6 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+- [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
+**Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
+arXiv DOI: 10.48550/arXiv.2301.08996
+
 - [Direct androgen receptor regulation of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585)
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
 bioRxiv DOI: 10.1101/2023.05.06.539585
@@ -17,10 +21,6 @@ Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Works
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong** 
-
-- [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
-arXiv DOI: 10.48550/arXiv.2301.08996
 
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
