@@ -31,9 +31,13 @@ bioRxiv DOI: 10.1101/2023.04.18.537360
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
 bioRxiv DOI: 10.1101/2020.06.24.169490
 
-- [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://doi.org/10.1101/2021.11.12.468410) \
+- [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763)
+**Lingyun Xiong**, Adam L. MacLean, Andrew P. McMahon.
+**Physiology** 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
+
+- [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
-bioRxiv DOI: 10.1101/2021.11.12.468410 
+**Genome Biol** 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun Xiong**, Alan Garfinkel. \
