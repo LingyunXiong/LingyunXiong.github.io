@@ -6,7 +6,7 @@ date:   2023-05-30
 
 ![UCDavis_Seminar](/images/BPH_IvyXiong.pdf)
 
-I'm happy to share my upcoming Zoom talk at the **UC Davis Biophysics Seminar** titled 'Oscillations at the crossroads of health and disease: lessons from p53 biology and renal physiology', hosted by Simon Chu and Dr.[Eleonora Grandi](https://health.ucdavis.edu/pharmacology/team/21775/eleonora-grandi---cardiac-electrophysiology/). 
+I'm happy to share my upcoming Zoom talk at the **UC Davis Biophysics Seminar** titled 'Oscillations at the crossroads of health and disease: lessons from p53 biology and renal physiology', hosted by Simon Chu and Dr. [Eleonora Grandi](https://health.ucdavis.edu/pharmacology/team/21775/eleonora-grandi---cardiac-electrophysiology/). 
 
 
 **Read more**: \
