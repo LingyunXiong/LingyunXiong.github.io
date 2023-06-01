@@ -39,7 +39,7 @@ In the development of anti-cancer therapies, quantitative mathematical models of
 
 ### 2. **Nonlinear Dynamics of Sound Detection in the Auditory System**
 
-Speaker: [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
+Speaker: [**Dzmitry "Dima" Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
 
 Date and Time: June 7 (Wed) at 11am-12noon PT
 
