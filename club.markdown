@@ -22,22 +22,9 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming events in June: 
+# Upcoming event in June: 
 
-### 1. [**Data driven discovery of predator-prey models for in vitro CAR T-cell and glioblastoma interactions**](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1115536/full)
-
-Speaker: [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) (Assistant Professor, College of Charleston)
-
-Date and Time: June 1 (Thur) at 11am-12noon PT / 2-3pm ET
-
-Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 941 5314 7590, Passcode: 475286)
-
-Abstract:\
-In the development of anti-cancer therapies, quantitative mathematical models of cellular interactions are pivotal tools for understanding treatment efficacy. Conventional efforts to validate and interpret models of cancer cell growth and death hinge on first proposing a precise mathematical model, then analyzing experimental data in the context of that chosen model.  In this talk I will present an implementation of recently developed dynamical systems methods to instead discover the most explanatory mathematical model term-by-term.  I will highlight how the use of power series expansions plays an essential role in matching this modeling framework with experimental results.  These methods are used on in vitro experimental data of T-cells genetically engineered to target and kill patient-derived brain cancer cell lines.  Our modeling predicts key aspects of the interaction dynamics of cancer cell and T-cell populations.  Importantly, we show how the different mathematical models identified can be interpreted biologically in relation to different T-cell functional responses, whether individuals or pairs of T-cells are binding to cancer cells, and various growth models for either of the T-cell or cancer cell populations (e.g. Logistic and Allee models).
-
-![DynamicsClub](/images/DynamicsClub_Jun2023.pdf)
-
-### 2. **Nonlinear Dynamics of Sound Detection in the Auditory System**
+### **Nonlinear Dynamics of Sound Detection in the Auditory System**
 
 Speaker: [**Dzmitry "Dima" Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
 
@@ -79,6 +66,7 @@ Hair cells of the inner ear perform the first step in the active detection of so
 | Apr 6 | Guest lecture: Emergent features of collective cell dynamics | [**Dr. Tamal Das**](https://www.tifrh.res.in/~tamal/) <br /> (TIFR Hyderabad)  | [Preprint](https://doi.org/10.1101/2022.08.03.502740) |
 | Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
+| Jun 1 | Data driven model discovery of tumor-immune dynamics | [[**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37256133/) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
