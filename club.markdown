@@ -26,14 +26,14 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 
 ### **Molecular mechanism for sex differences in pancreatic β-cell insulin release**
 
-Speaker: [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Graduate Student, Tuluc Lab; Innsbruck)
+Speaker: [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) (Graduate Student, Tuluc Lab; Innsbruck)
 
 Date and Time: July 5 (Wed) at 9-10am PT / 6-7pm CET
 
 Virtual event on Zoom (Meeting ID: TBA, Passcode: -)
 
 Abstract:\
-In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K+ currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K+ current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
+In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K<sup>+</sup> currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K<sup>+</sup> current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
 
 ![DynamicsClub](/images/DynamicsClub_Jul2023.pdf)
 
@@ -66,7 +66,7 @@ In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males co
 | Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 | Jun 1 | Guest lecture: Data driven model discovery of tumor-immune dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37256133/) |
-| Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry "Dima" Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
+| Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
