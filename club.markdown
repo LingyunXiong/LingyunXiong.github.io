@@ -22,20 +22,20 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming event in June: 
+# Upcoming event in July: 
 
-### **Nonlinear Dynamics of Sound Detection in the Auditory System**
+### **Molecular mechanism for sex differences in pancreatic β-cell insulin release**
 
-Speaker: [**Dzmitry "Dima" Vaido**](https://bozoviclab.physics.ucla.edu/members.html) (Graduate Student, Bozovic Lab, UCLA)
+Speaker: [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Graduate Student, Tuluc Lab; Innsbruck)
 
-Date and Time: June 7 (Wed) at 11am-12noon PT
+Date and Time: July 5 (Wed) at 9-10am PT / 6-7pm CET
 
-Hybrid event: UPC RRI 101 and on Zoom (Meeting ID: 998 4597 0036, Passcode: 632181)
+Virtual event on Zoom (Meeting ID: TBA, Passcode: -)
 
 Abstract:\
-Hair cells of the inner ear perform the first step in the active detection of sound, converting mechanical deflections into electric signals that are transmitted to neurons. A number of internal cellular processes serve to enhance the response of the hair bundle to the applied signal, leading to sensitivity to displacements of just a few Angstroms in amplitude, which is below the noise levels in the ear. Further, the auditory system can sustain a broad dynamic range of sounds, spanning over 6 orders of magnitude in pressure and over 3 orders of magnitude in frequency. In this in vitro study, we look at the nonlinear dynamics behind this remarkable detection. Specifically, we will discuss the nonlinearities crucial for the performance of these cells, as well as explore the bifurcations and critical points that describe the dynamics of the response. The goal is to provide insights into the physics behind the remarkable sensitivity of the auditory system.
+In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K+ currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K+ current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
 
-![DynamicsClub2](/images/DynamicsClub_Jun2023_2.pdf)
+![DynamicsClub](/images/DynamicsClub_Jul2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -43,7 +43,6 @@ Hair cells of the inner ear perform the first step in the active detection of so
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jul 5 | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
 | Aug 23 | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
@@ -67,6 +66,7 @@ Hair cells of the inner ear perform the first step in the active detection of so
 | Apr 13 | Guest lecture: Metabolic regulation of species-specific developmental rate in mouse and human cells | [**Dr. Margarete Diaz-Cuadros**](https://molbio.massgeneral.org/labs/diaz-cuadros-lab/) <br /> (Massachusetts General Hospital) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31915384/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599986/) |
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 | Jun 1 | Guest lecture: Data driven model discovery of tumor-immune dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37256133/) |
+| Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry "Dima" Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
