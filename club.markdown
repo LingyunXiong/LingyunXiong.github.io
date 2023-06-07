@@ -43,9 +43,9 @@ Hair cells of the inner ear perform the first step in the active detection of so
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jul | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
+| Jul 5 | Sex differences in insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab, Innsbruck) |
 | Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
-| Aug | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
+| Aug 23 | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
