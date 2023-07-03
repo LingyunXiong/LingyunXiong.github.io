@@ -35,7 +35,7 @@ Virtual event on Zoom (Meeting ID: 984 0750 3252, Passcode: 016309)
 Abstract:\
 In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K<sup>+</sup> currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K<sup>+</sup> current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
 
-![DynamicsClub](/images/DynamicsClub_Jul2023.pdf)
+![DynamicsClub](/images/DynamicsClub_July2023.pdf)
 
 &nbsp;
 &nbsp;
