@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology. All are welcome! 
 
-Currently, we have **226** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **230** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -30,7 +30,7 @@ Speaker: [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) (
 
 Date and Time: July 5 (Wed) at 9-10am PT / 6-7pm CET
 
-Virtual event on Zoom (Meeting ID: TBA, Passcode: -)
+Virtual event on Zoom (Meeting ID: 984 0750 3252, Passcode: 016309)
 
 Abstract:\
 In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K<sup>+</sup> currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K<sup>+</sup> current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
