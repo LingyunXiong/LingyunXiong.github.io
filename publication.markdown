@@ -32,7 +32,7 @@ bioRxiv DOI: 10.1101/2023.04.18.537360
 bioRxiv DOI: 10.1101/2020.06.24.169490
 
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
-**Lingyun Xiong**, Adam L. MacLean, Andrew P. McMahon. \
+**Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
 **Physiology** 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
 
 - [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
