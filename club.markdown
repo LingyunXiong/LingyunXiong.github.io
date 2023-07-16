@@ -22,20 +22,20 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming event in July: 
+# Upcoming event in August: 
 
-### **Molecular mechanism for sex differences in pancreatic β-cell insulin release**
+### **p53 oscillations optimize DNA repair by regulating foci formation**
 
-Speaker: [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) (Graduate Student, Tuluc Lab; Innsbruck)
+Speaker: [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) (Graduate Student, Jensen Group; University of Copenhagen)
 
-Date and Time: July 5 (Wed) at 9-10am PT / 6-7pm CET
+Date and Time: August 23 (Wed) at 9-10am PT / 6-7pm CET
 
-Virtual event on Zoom (Meeting ID: 984 0750 3252, Passcode: 016309)
+Virtual event on Zoom (Meeting ID: 913 2547 7816, Passcode: 691049)
 
 Abstract:\
-In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males compared to females, phenotype recapitulated by many rodent models. While variations in peripheral insulin sensitivity can account for this phenomenon, sex-specific differences in pancreatic β-cell activity and insulin release are a strong determinant. Here we show that female β-cells, although display a similar glucose sensitivity, have a higher resting membrane potential and different firing pattern with increased frequency of glucose-induced electrical activity compared to β-cells of male mice. The increased membrane depolarization in female β-cells is caused by ~50% lower Kv2.1 K<sup>+</sup> currents compared to males but otherwise unchanged KATP, Ca<sup>2+</sup>-activated BK and SK, and background TASK1/TALK1 K<sup>+</sup> current densities. Despite a reduced CaV channel availability caused by the higher resting membrane potential, similar intracellular Ca<sup>2+</sup> store release, and identical insulin vesicle exocytose capacity, the higher electrical activity promotes insulin release in females, improving glucose tolerance.
+Living organisms are constantly subjected to DNA damage, which necessitates efficient repair mechanisms. One notable feature of the repair response is the creation of localized compartments called foci around the damaged site. When multiple DNA breaks occur, the transcription factor p53 exhibits oscillations in its concentration within the cell nucleus. However, the impact of these dynamic oscillations on the repair process has remained unclear. In this work, we propose a theoretical framework that explains foci formation through droplet condensation and uncovers how the periodic and amplitude characteristics of p53 oscillations optimize the repair process. By preventing Ostwald ripening and facilitating the distribution of protein material in both space and time, the oscillatory behavior of p53, as predicted by our theory, is demonstrated to enhance the efficiency of DNA repair. These findings establish a connection between the dynamic signaling of p53 and the microscopic repair process, presenting a novel paradigm for understanding the interplay between complex dynamics and phase transitions in biological systems.
 
-![DynamicsClub](/images/DynamicsClub_July2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Aug2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -43,8 +43,7 @@ In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males co
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
-| Aug 23 | p53 oscillations enhances DNA repair | [**Alessandra Lucchetti**]([https://loop.frontiersin.org/people/170588/overview](https://nbi.ku.dk/english/staff/?pure=en/persons/624447)) <br /> (Jensen Group, Copenhagen) |
+| 2023 | Guest lecture on mitochondrial dynamics | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (CONICET, Córdoba) |
 | 2023 | Modeling PRLR signaling via quantitative imaging | [**Lynne Cherchia**](http://csbl.usc.edu/people/lab-members/) <br /> (Finley & Fraser Lab, USC) |
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
@@ -67,6 +66,7 @@ In humans, Type 2 Diabetes Mellitus (T2DM) shows a higher prevalence in males co
 | May 11 | Investigating feedback control on potassium homeostasis using a mathematical model | [**Melissa Stadt**](https://uwaterloo.ca/scholar/mstadt/home) <br /> (Layton Group; UWaterloo) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36538563/) |
 | Jun 1 | Guest lecture: Data driven model discovery of tumor-immune dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37256133/) |
 | Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
+| Jul 5 | Sex differences in pancreatic β-cell insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab; Innsbruck) ||
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
