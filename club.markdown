@@ -24,7 +24,7 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 
 # Upcoming event in August: 
 
-### **p53 oscillations optimize DNA repair by regulating foci formation**
+### [**p53 oscillations optimize DNA repair by regulating foci formation**](https://pubmed.ncbi.nlm.nih.gov/36368307/)
 
 Speaker: [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) (Graduate Student, Jensen Group; University of Copenhagen)
 
