@@ -26,11 +26,11 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 
 ### Guest Lecture: [**Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos**](https://pubmed.ncbi.nlm.nih.gov/30337561/)
 
-Speaker: [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) (CONICET, Córdoba)
+Speaker: [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) (Universidad Nacional de Córdoba, Córdoba, Argentina)
 
 Date and Time: August 9 (Wed) at 11am-12noon PT / 3-4pm ART
 
-Virtual event on Zoom (Meeting ID: --, Passcode: --)
+Virtual event on Zoom (Meeting ID: 992 0187 7694, Passcode: 716590)
 
 Abstract:\
 Mitochondria serve multiple key cellular functions, including energy generation, redox balance, and regulation of apoptotic cell death, thus making a major impact on healthy and diseased states. Increasingly recognized is that biological network stability/instability can play critical roles in determining health and disease. To understand the mechanisms involved in the control and regulation of mitochondrial reactive oxygen species (ROS) levels and to explore mitochondrial dynamics, we developed a two-compartment computational mitochondrial energetic-redox (ME-R) model  accounting for energetic, redox, and ROS metabolisms. The ME-R model was  not only  able to  simulate experimental data obtained from isolated heart mitochondria, but also to show complex oscillatory dynamics in key metabolic variables. Complex dynamics arise at the “edge” between fully functional and pathological behavior, setting the stage for chaos. Under these conditions, a mild, regular sinusoidal redox forcing perturbation triggers chaotic dynamics. At the “edge” mitochondrial chaos is exquisitely sensitive to the antioxidant capacity of matrix Mn superoxide dismutase as well as to the amplitude and frequency of the redox perturbation.  These results have potential implications both for mitochondrial signaling determining health maintenance, and pathological transformation, including abnormal cardiac rhythms. In a broader sense, our results also highlight the capabilities of computational mitochondrial models for exploring ROS dynamics, the role of compartmentation in the modulation of the redox environment, and how redox regulation participates in the control of mitochondrial function. 
