@@ -58,7 +58,7 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 
 | **Date** | **Topic** | **Speaker(s)** |
 | 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
-| 2023 | Auditory dynamics of the mosquito | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (UCLA) |
+| 2023 | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (UCLA) |
 | 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
