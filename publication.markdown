@@ -13,11 +13,12 @@ arXiv DOI: 10.48550/arXiv.2301.08996
 bioRxiv DOI: 10.1101/2023.05.06.539585
 
 - Sex differences in renal transporters: assessment and functional consequences \
-Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. (*In Press*)
+Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton.
+**Nat Rev Nephrology** (*In Press*)
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. 
-Book Chapter in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Press*)
+*Book Chapter* in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Press*)
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong** 
