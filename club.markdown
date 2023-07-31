@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **230** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **234** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -64,7 +64,7 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 | 2023 | Enhancer-promoter interactions | [**Dr. Joseph Nasser**](https://connects.catalyst.harvard.edu/Profiles/display/Person/200753) <br /> (Harvard Medical School) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | 2024 | TBA | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
-| 2024 | TBA | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
+| 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 
 &nbsp;
 &nbsp; 
