@@ -6,6 +6,15 @@ permalink: /Publications/
 
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong**
+
+- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
+Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
+**Lingyun Xiong**, K Lenhard Rudolph, Adam L MacLean \
+bioRxiv DOI: 10.1101/2023.04.18.537360
+
+- [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
+**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
+bioRxiv DOI: 10.1101/2020.06.24.169490
   
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
 **Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
@@ -22,15 +31,6 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. 
 *Book Chapter* in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Press*)
-
-- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
-Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
-**Lingyun Xiong**, K Lenhard Rudolph, Adam L MacLean \
-bioRxiv DOI: 10.1101/2023.04.18.537360
-
-- [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
-**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
-bioRxiv DOI: 10.1101/2020.06.24.169490
 
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
