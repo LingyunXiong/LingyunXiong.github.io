@@ -17,7 +17,7 @@ Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Ben
 bioRxiv DOI: 10.1101/2023.04.18.537360
   
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel. \
+**Lingyun Xiong**, Alan Garfinkel. \
 **J Physiol** (*In Press*), arXiv DOI: 10.48550/arXiv.2301.08996
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
@@ -29,8 +29,8 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Nat Rev Nephrology** (*In Press*)
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
-Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
-*Book Chapter* in Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology. (*In Press*)
+Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
+*Book Chapter* in **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology**. (*In Press*)
 
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
