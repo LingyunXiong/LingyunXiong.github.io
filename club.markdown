@@ -57,11 +57,12 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| 2023 | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) |
-| 2023 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
-| 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
-| 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
+| Sep | Mixed-mode oscillations in Rho GTPase activation | [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) <br /> (Yale University) |
+| Oct | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) |
+| Oct | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2023 | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
+| 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
+| 2023 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
