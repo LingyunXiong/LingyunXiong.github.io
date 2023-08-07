@@ -7,21 +7,21 @@ permalink: /Publications/
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong**
 
-- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
-Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
-**Lingyun Xiong**, K Lenhard Rudolph, Adam L MacLean \
-bioRxiv DOI: 10.1101/2023.04.18.537360
-
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
 bioRxiv DOI: 10.1101/2020.06.24.169490
+
+- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
+Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
+**Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean \
+bioRxiv DOI: 10.1101/2023.04.18.537360
   
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel. (\# Corresponding Author) \
+**Lingyun Xiong**\#, Alan Garfinkel. \
 **J Physiol** (*In Press*), arXiv DOI: 10.48550/arXiv.2301.08996
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
-**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
 **Dev Cell** (*In Press*), bioRxiv DOI: 10.1101/2023.05.06.539585
 
 - Sex differences in renal transporters: assessment and functional consequences \
