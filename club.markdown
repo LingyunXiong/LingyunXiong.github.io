@@ -22,23 +22,9 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming events in August: 
+# Upcoming event in August: 
 
-### Guest Lecture: [**Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos**](https://pubmed.ncbi.nlm.nih.gov/30337561/)
-
-Speaker: [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) (Universidad Nacional de Córdoba, Córdoba, Argentina)
-
-Date and Time: August 9 (Wed) at 11am-12noon PT / 3-4pm ART
-
-Virtual event on Zoom (Meeting ID: 992 0187 7694, Passcode: 716590)
-
-Abstract:\
-Mitochondria serve multiple key cellular functions, including energy generation, redox balance, and regulation of apoptotic cell death, thus making a major impact on healthy and diseased states. Increasingly recognized is that biological network stability/instability can play critical roles in determining health and disease. To understand the mechanisms involved in the control and regulation of mitochondrial reactive oxygen species (ROS) levels and to explore mitochondrial dynamics, we developed a two-compartment computational mitochondrial energetic-redox (ME-R) model  accounting for energetic, redox, and ROS metabolisms. The ME-R model was  not only  able to  simulate experimental data obtained from isolated heart mitochondria, but also to show complex oscillatory dynamics in key metabolic variables. Complex dynamics arise at the “edge” between fully functional and pathological behavior, setting the stage for chaos. Under these conditions, a mild, regular sinusoidal redox forcing perturbation triggers chaotic dynamics. At the “edge” mitochondrial chaos is exquisitely sensitive to the antioxidant capacity of matrix Mn superoxide dismutase as well as to the amplitude and frequency of the redox perturbation.  These results have potential implications both for mitochondrial signaling determining health maintenance, and pathological transformation, including abnormal cardiac rhythms. In a broader sense, our results also highlight the capabilities of computational mitochondrial models for exploring ROS dynamics, the role of compartmentation in the modulation of the redox environment, and how redox regulation participates in the control of mitochondrial function. 
-
-![DynamicsClub_Aug](/images/DynamicsClub_Aug2023_2.pdf)
-
-
-### Talk: [**p53 oscillations optimize DNA repair by regulating foci formation**](https://pubmed.ncbi.nlm.nih.gov/36368307/)
+### [**p53 oscillations optimize DNA repair by regulating foci formation**](https://pubmed.ncbi.nlm.nih.gov/36368307/)
 
 Speaker: [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) (Graduate Student, Jensen Group; University of Copenhagen)
 
@@ -83,6 +69,7 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 | Jun 1 | Guest lecture: Data driven model discovery of tumor-immune dynamics | [**Dr. Alexander Brummer**](https://physics.cofc.edu/faculty-and-staff-listing/brummer,-alex.php) <br /> (College of Charleston) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37256133/) |
 | Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
 | Jul 5 | Sex differences in pancreatic β-cell insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab; Innsbruck) ||
+| Aug 9 | Guest lecture: Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (Universidad Nacional de Córdoba, Argentina) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23442855/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30337561/) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
