@@ -17,7 +17,7 @@ Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Ben
 bioRxiv DOI: 10.1101/2023.04.18.537360
   
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**, Alan Garfinkel. \
+**Lingyun Xiong**\#, Alan Garfinkel\#. (\# Corresponding Author) \
 **J Physiol** (*In Press*), arXiv DOI: 10.48550/arXiv.2301.08996
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
