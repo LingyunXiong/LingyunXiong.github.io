@@ -18,15 +18,15 @@ bioRxiv DOI: 10.1101/2023.04.18.537360
   
 - [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
 **Lingyun Xiong**\#, Alan Garfinkel\#. (\# Corresponding Author) \
-**J Physiol** (*In Press*), arXiv DOI: 10.48550/arXiv.2301.08996
+**J Physiol** (*In Press*), DOI: 10.1113/JP285015
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
-**Dev Cell** (*In Press*), bioRxiv DOI: 10.1101/2023.05.06.539585
+**Dev Cell** (*In Press*), DOI: 10.1016/j.devcel.2023.08.010
 
 - Sex differences in renal transporters: assessment and functional consequences \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
-**Nat Rev Nephrology** (*In Press*)
+**Nat Rev Nephrology** (*In Press*), DOI: 10.1038/s41581-023-00757-2
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
