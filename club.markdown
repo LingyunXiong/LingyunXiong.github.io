@@ -35,7 +35,7 @@ Virtual event on Zoom (Meeting ID: 963 1536 5621, Passcode: 825428)
 Abstract:\
 While rhythmic contractile behavior is commonly observed at the cellular cortex, the primary focus has been on excitable or periodic events described by simple activator-delayed inhibitor mechanisms. We show that Rho GTPase activation in nocodazole-treated mitotic cells exhibits both simple oscillations and complex mixed-mode oscillations. Rho oscillations with a 20- to 30-s period are regulated by phosphatidylinositol (3,4,5)-trisphosphate (PIP<sub>3</sub>) via an activator-delayed inhibitor mechanism, while a slow reaction with period of minutes is regulated by phosphatidylinositol 4-kinase via an activator-substrate depletion mechanism. Conversion from simple to complex oscillations can be induced by modulating PIP<sub>3</sub> metabolism or altering membrane contact site protein E-Syt1. PTEN depletion results in a period-doubling intermediate, which, like mixed-mode oscillations, is an intermediate state toward chaos. In sum, this system operates at the edge of chaos. Small changes in phosphoinositide metabolism can confer cells with the flexibility to rapidly enter ordered states with different periodicities.
 
-![DynamicsClub](/images/DynamicsClub_Aug2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Sep2023.pdf)
 
 &nbsp;
 &nbsp;
