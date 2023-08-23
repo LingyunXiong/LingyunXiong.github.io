@@ -24,16 +24,16 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 
 # Upcoming event in August: 
 
-### [**p53 oscillations optimize DNA repair by regulating foci formation**](https://pubmed.ncbi.nlm.nih.gov/36368307/)
+### [**Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network**](https://pubmed.ncbi.nlm.nih.gov/37494180/)
 
-Speaker: [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) (Graduate Student, Jensen Group; University of Copenhagen)
+Speaker: [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) (Postdoctoral Associate; Yale University)
 
-Date and Time: August 23 (Wed) at 9-10am PT / 6-7pm CET
+Date and Time: September 27 (Wed) at 11am-12noon PT / 2-3pm ET
 
-Virtual event on Zoom (Meeting ID: 913 2547 7816, Passcode: 691049)
+Virtual event on Zoom (Meeting ID: 963 1536 5621, Passcode: 825428)
 
 Abstract:\
-Living organisms are constantly subjected to DNA damage, which necessitates efficient repair mechanisms. One notable feature of the repair response is the creation of localized compartments called foci around the damaged site. When multiple DNA breaks occur, the transcription factor p53 exhibits oscillations in its concentration within the cell nucleus. However, the impact of these dynamic oscillations on the repair process has remained unclear. In this work, we propose a theoretical framework that explains foci formation through droplet condensation and uncovers how the periodic and amplitude characteristics of p53 oscillations optimize the repair process. By preventing Ostwald ripening and facilitating the distribution of protein material in both space and time, the oscillatory behavior of p53, as predicted by our theory, is demonstrated to enhance the efficiency of DNA repair. These findings establish a connection between the dynamic signaling of p53 and the microscopic repair process, presenting a novel paradigm for understanding the interplay between complex dynamics and phase transitions in biological systems.
+While rhythmic contractile behavior is commonly observed at the cellular cortex, the primary focus has been on excitable or periodic events described by simple activator-delayed inhibitor mechanisms. We show that Rho GTPase activation in nocodazole-treated mitotic cells exhibits both simple oscillations and complex mixed-mode oscillations. Rho oscillations with a 20- to 30-s period are regulated by phosphatidylinositol (3,4,5)-trisphosphate (PIP<sub>3</sub>) via an activator-delayed inhibitor mechanism, while a slow reaction with period of minutes is regulated by phosphatidylinositol 4-kinase via an activator-substrate depletion mechanism. Conversion from simple to complex oscillations can be induced by modulating PIP<sub>3</sub> metabolism or altering membrane contact site protein E-Syt1. PTEN depletion results in a period-doubling intermediate, which, like mixed-mode oscillations, is an intermediate state toward chaos. In sum, this system operates at the edge of chaos. Small changes in phosphoinositide metabolism can confer cells with the flexibility to rapidly enter ordered states with different periodicities.
 
 ![DynamicsClub](/images/DynamicsClub_Aug2023.pdf)
 
@@ -43,8 +43,7 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep | Mixed-mode oscillations in Rho GTPase activation | [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) <br /> (Yale University) |
-| Oct | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) |
+| Oct 11 | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) |
 | Oct | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2023 | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
 | 2023 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
@@ -70,6 +69,7 @@ Living organisms are constantly subjected to DNA damage, which necessitates effi
 | Jun 7 | Nonlinear Dynamics of Sound Detection in the Auditory System | [**Dzmitry Vaido**](https://bozoviclab.physics.ucla.edu/members.html) <br /> (Bozovic Lab; UCLA) ||
 | Jul 5 | Sex differences in pancreatic β-cell insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab; Innsbruck) ||
 | Aug 9 | Guest lecture: Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (Universidad Nacional de Córdoba, Argentina) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23442855/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30337561/) |
+| Aug 23 | p53 oscillations optimize DNA repair by regulating foci formation | [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) <br /> (Jensen Group; Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36368307/) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
