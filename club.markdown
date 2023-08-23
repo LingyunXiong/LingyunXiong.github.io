@@ -22,7 +22,7 @@ Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/
 &nbsp;
 &nbsp;
 
-# Upcoming event in August: 
+# Upcoming event in September: 
 
 ### [**Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network**](https://pubmed.ncbi.nlm.nih.gov/37494180/)
 
