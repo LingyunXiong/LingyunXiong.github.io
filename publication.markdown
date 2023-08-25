@@ -15,30 +15,30 @@ bioRxiv DOI: 10.1101/2020.06.24.169490
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
 **Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean \
 bioRxiv DOI: 10.1101/2023.04.18.537360
-  
-- [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
-**Lingyun Xiong**\#, Alan Garfinkel\#. (\# Corresponding Author) \
-**J Physiol** (*In Press*), DOI: 10.1113/JP285015
-
-- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
-**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
-**Dev Cell** (*In Press*), DOI: 10.1016/j.devcel.2023.08.010
-
-- Sex differences in renal transporters: assessment and functional consequences \
-Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
-**Nat Rev Nephrology** (*In Press*), DOI: 10.1038/s41581-023-00757-2
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
 *Book Chapter* in **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology**. (*In Press*)
 
+- Sex differences in renal transporters: assessment and functional consequences \
+Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
+**Nat Rev Nephrology** (*In Press*). DOI: 10.1038/s41581-023-00757-2
+  
+- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
+**Dev Cell**, 2023;58:1-22. DOI: 10.1016/j.devcel.2023.08.010
+
+- [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
+**Lingyun Xiong**, Alan Garfinkel. \
+**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015
+  
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
-**Physiology** 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
+**Physiology**, 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
 
 - [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
-**Genome Biol** 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4
+**Genome Biol**, 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun Xiong**, Alan Garfinkel. \
