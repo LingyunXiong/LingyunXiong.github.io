@@ -28,7 +28,7 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon. (§ Co–first Authors) \
 **Dev Cell**, 2023;58:1-22. DOI: 10.1016/j.devcel.2023.08.010
 
-- [Are physiological oscillations *physiological*?](https://doi.org/10.48550/arXiv.2301.08996) \
+- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun Xiong**, Alan Garfinkel. \
 **J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015
   
