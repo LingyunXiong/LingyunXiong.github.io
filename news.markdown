@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-# New article is out today: Are physiological oscillations *physiological*?
+# Article is out today: Are physiological oscillations *physiological*?
 Post date: Aug 25, 2023
 
 ![Yoscillate](/images/Yoscillate.png)
