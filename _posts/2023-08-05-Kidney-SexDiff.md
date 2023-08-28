@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper accepted: Sex differences in the kidney"
+title: "Paper accepted: Sex differences in the mammalian kidney"
 date:   2023-08-05 
 ---
 
