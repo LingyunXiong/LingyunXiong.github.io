@@ -6,9 +6,12 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **240** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **242** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
-Open call for speakers in 2024: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
+Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
+
+# Job opportunities:
+A 2-year Postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
 
 &nbsp;
 &nbsp;
