@@ -7,6 +7,10 @@ permalink: /Publications/
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong**
 
+- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
+**Lingyun Xiong**, Alan Garfinkel. \
+**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015
+  
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
 bioRxiv DOI: 10.1101/2020.06.24.169490
@@ -24,13 +28,9 @@ Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Li
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Nat Rev Nephrology** (*In Press*). DOI: 10.1038/s41581-023-00757-2
   
-- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1101/2023.05.06.539585) \
+- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**, Jing Liu, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon.\
-**Dev Cell**, 2023;58:1-22. DOI: 10.1016/j.devcel.2023.08.010
-
-- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
-**Lingyun Xiong**, Alan Garfinkel. \
-**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015
+**Dev Cell**, 2023;58:1-21. DOI: 10.1016/j.devcel.2023.08.010
   
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
