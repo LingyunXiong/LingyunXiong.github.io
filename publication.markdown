@@ -9,7 +9,7 @@ permalink: /Publications/
 
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun Xiong**, Alan Garfinkel. \
-**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015
+**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
   
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
@@ -38,11 +38,11 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 
 - [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier. \
-**Genome Biol**, 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4
+**Genome Biol**, 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4 ([PDF](https://drive.google.com/file/d/1B3PlFbjicaNKBc5bf_-K6fh4MU9_73F1/view?usp=sharing))
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun Xiong**, Alan Garfinkel. \
-**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002
+**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))
 
 - [Influence of inherited genetic variants on risk, biology and prognosis of common cancers](https://ora.ox.ac.uk/objects/uuid:feb0efe8-d01c-4758-976a-fb3ac031f061) \
 **Lingyun Xiong**\
@@ -50,7 +50,7 @@ PhD thesis, University of Oxford, 2021
 
 - [Germline and somatic genetic variants in the p53 pathway interact to affect cancer risk, progression, and drug response](https://aacrjournals.org/cancerres/article/81/7/1667/670564/Germline-and-Somatic-Genetic-Variants-in-the-p53) \
 Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Giovanni Stracquadanio, Katherine Brown, Philipp Richter, Marsha Wallace, Elisabeth Bond, Natasha Sahgal, Samantha Moore, Svanhild Nornes, Sarah De Val, Mirvat Surakhy, David Sims, Xuting Wang, Douglas A Bell, Jorge Zeron-Medina, Yanyan Jiang, Anderson Ryan, Joanna Selfe, Janet Shipley, Siddhartha Kar, Paul Pharoah, Chey Loveday, Rick Jansen, Lukasz F. Grochola, Claire Palles, Andrew Protheroe, Val Millar, Daniel Ebner, Meghana Pagadala, Sarah P Blagden, Tim Maughan, Enric Domingo, Ian Tomlinson, Clare Turnbull, Hannah Carter, Gareth Bond. \
-**Cancer Res**, 2021;81:1667–1680. DOI: 10.1158/0008-5472.CAN-20-0177	
+**Cancer Res**, 2021;81:1667–1680. DOI: 10.1158/0008-5472.CAN-20-0177	([PDF](https://drive.google.com/file/d/1hn3GKSjd0Zf9zo5CYZYvenNRIs1Gp1ck/view?usp=sharing))
 
 - [Heritable genetic variants in key cancer genes link cancer risk with anthropometric traits](https://pubmed.ncbi.nlm.nih.gov/32591342/) \
 Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith, **Lingyun Xiong**, Natasha Sahgal, Giovanni Stracquadanio, Marsha Wallace, Sarah Blagden, Simon Lord, David A. Harris, Adrian Harris, Francesca M. Buffa, Gareth Bond. \
@@ -58,7 +58,7 @@ Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith,
 
 - [SALL4 promotes glycolysis and chromatin remodelling via modulating HP1α-Glut1 pathway](https://www.nature.com/articles/onc2017265) \
 Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
-**Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265
+**Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265 ([PDF](https://drive.google.com/file/d/1MGa-miXqfzq_SPGNlr0Wq2KIB4EBN5Fj/view?usp=sharing))
 
 
 
