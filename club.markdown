@@ -15,6 +15,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University, USA ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
+- A postdoctoral position is available with [**Dr. Sheng S.-H. Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
 - Elman Poole Ovarian Cancer Junior Research Fellowship is available with [**Dr. Ahmed A. Ahmed**](https://www.imm.ox.ac.uk/people/ahmed-ahmed) at the University of Oxford (Lincoln College), UK.
 
 &nbsp;
