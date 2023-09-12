@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper: Are physiological oscillations *physiological*?"
+title: "New paper: Are physiological oscillations 'physiological'?"
 date:   2023-08-25 
 ---
 
