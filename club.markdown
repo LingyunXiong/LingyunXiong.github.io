@@ -30,7 +30,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming event in September: 
+# Upcoming event in October: 
 
 ### [**Criticality and chaos in auditory and vestibular sensing**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
 
