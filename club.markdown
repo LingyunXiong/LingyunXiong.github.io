@@ -32,18 +32,17 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Upcoming event in September: 
 
-### [**Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network**](https://pubmed.ncbi.nlm.nih.gov/37494180/)
+### [**Criticality and chaos in auditory and vestibular sensing**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
 
-Speaker: [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) (Postdoctoral Associate; Yale University)
+Speaker: [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (Postdoctoral Fellow; UCLA)
 
-Date and Time: September 27 (Wed) at 11am-12noon PT / 2-3pm ET
+Date and Time: Oct 11 (Wed) at 11am-12noon PT / 2-3pm ET
 
-Virtual event on Zoom (Meeting ID: 963 1536 5621, Passcode: 825428)
+Hybrid event: **Boyer Hall 130** and on Zoom (Meeting ID: 918 2349 2539, Passcode: 499233)
 
-Abstract:\
-While rhythmic contractile behavior is commonly observed at the cellular cortex, the primary focus has been on excitable or periodic events described by simple activator-delayed inhibitor mechanisms. We show that Rho GTPase activation in nocodazole-treated mitotic cells exhibits both simple oscillations and complex mixed-mode oscillations. Rho oscillations with a 20- to 30-s period are regulated by phosphatidylinositol (3,4,5)-trisphosphate (PIP<sub>3</sub>) via an activator-delayed inhibitor mechanism, while a slow reaction with period of minutes is regulated by phosphatidylinositol 4-kinase via an activator-substrate depletion mechanism. Conversion from simple to complex oscillations can be induced by modulating PIP<sub>3</sub> metabolism or altering membrane contact site protein E-Syt1. PTEN depletion results in a period-doubling intermediate, which, like mixed-mode oscillations, is an intermediate state toward chaos. In sum, this system operates at the edge of chaos. Small changes in phosphoinositide metabolism can confer cells with the flexibility to rapidly enter ordered states with different periodicities.
+Abstract: TBA
 
-![DynamicsClub](/images/DynamicsClub_Sep2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2023.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,10 +50,9 @@ While rhythmic contractile behavior is commonly observed at the cellular cortex,
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct 11 | Criticality and chaos in auditory and vestibular sensing | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) |
+| Nov | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
 | Nov | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (AstraZeneca, Norway) |
-| Dec | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
-| 2023 | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
+| Dec 6 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | 2024 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
@@ -78,6 +76,7 @@ While rhythmic contractile behavior is commonly observed at the cellular cortex,
 | Jul 5 | Sex differences in pancreatic β-cell insulin release | [**Noelia Jacobo-Piqueras**](https://cavx.at/noelia-jacobo-piqueras/) <br /> (Tuluc Lab; Innsbruck) ||
 | Aug 9 | Guest lecture: Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (Universidad Nacional de Córdoba, Argentina) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23442855/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30337561/) |
 | Aug 23 | p53 oscillations optimize DNA repair by regulating foci formation | [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) <br /> (Jensen Group; Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36368307/) |
+| Sep 27 | Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network | [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) <br /> (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37494180/) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
