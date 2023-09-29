@@ -32,7 +32,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Upcoming event in October: 
 
-### [**Criticality and chaos in auditory and vestibular sensing**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
+### [**Chaos, synchronization, and signal detection by active hair cells of the auditory system**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
 
 Speaker: [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (Postdoctoral Fellow; UCLA)
 
@@ -40,9 +40,10 @@ Date and Time: Oct 11 (Wed) at 11am-12noon PT / 2-3pm ET
 
 Hybrid event: **Boyer Hall 130** and on Zoom (Meeting ID: 918 2349 2539, Passcode: 499233)
 
-Abstract: TBA
+Abstract: \
+Auditory and vestibular systems display remarkable sensitivity to external signals, with detection thresholds in the sub-nanometer regime, comparable to the amplitudes induced by thermal fluctuations. These systems also exhibit high levels of frequency selectivity and temporal resolution, which are essential for identifying sounds, locating their sources, and comprehending speech. How these systems achieve these detection properties in the presence of biological noise remains an active area of research. Using experimental recordings from the bullfrog inner ear, we demonstrated that the instabilities giving rise to chaotic dynamics of actively oscillating hair-cell bundles could be essential for sensitive detection and high temporal acuity. Further, using a numerical model of an array of coupled hair-cell bundles, we demonstrated that chaos enhances the degree of synchronization of the oscillators, resulting in robust signal detection.
 
-![DynamicsClub](/images/DynamicsClub_Oct2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2023_revised.pdf)
 
 &nbsp;
 &nbsp;
