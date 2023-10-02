@@ -52,7 +52,7 @@ Auditory and vestibular systems display remarkable sensitivity to external signa
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Nov 15 | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
-| Nov 22 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (University of Bergen, Norway) |
+| Nov 22 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) <br />  (University of Bergen) |
 | Dec 6 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
