@@ -34,7 +34,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 ### [**Chaos, synchronization, and signal detection by active hair cells of the auditory system**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
 
-Speaker: [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (Postdoctoral Fellow; UCLA)
+Speaker: [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (Postdoctoral Researcher; UCLA)
 
 Date and Time: Oct 11 (Wed) at 11am-12noon PT / 2-3pm ET
 
