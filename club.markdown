@@ -57,6 +57,7 @@ Auditory and vestibular systems display remarkable sensitivity to external signa
 | Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
+| 2024 | Bioelectrical bifurcation in the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen Lab, Harvard) |
 | 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 
 &nbsp;
