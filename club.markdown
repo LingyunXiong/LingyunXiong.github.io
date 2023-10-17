@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **252** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **260** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -30,20 +30,20 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming event in October: 
+# Upcoming event in November: 
 
-### [**Chaos, synchronization, and signal detection by active hair cells of the auditory system**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266)
+### **Phase synchronization rules in an embryonic oscillator ensemble**
 
-Speaker: [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (Postdoctoral Researcher; UCLA)
+Speaker: [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) (Postdoctoral Scholar; EMBL & USC)
 
-Date and Time: Oct 11 (Wed) at 11am-12noon PT / 2-3pm ET
+Date and Time: Nov 15 (Wed) at 11am-12noon PT / 2-3pm ET
 
-Hybrid event: **Boyer Hall 130** and on Zoom (Meeting ID: 918 2349 2539, Passcode: 499233)
+Hybrid event: **Boyer Hall 130** and on Zoom (Meeting ID: 931 4146 3720, Passcode: 567225)
 
 Abstract: \
-Auditory and vestibular systems display remarkable sensitivity to external signals, with detection thresholds in the sub-nanometer regime, comparable to the amplitudes induced by thermal fluctuations. These systems also exhibit high levels of frequency selectivity and temporal resolution, which are essential for identifying sounds, locating their sources, and comprehending speech. How these systems achieve these detection properties in the presence of biological noise remains an active area of research. Using experimental recordings from the bullfrog inner ear, we demonstrated that the instabilities giving rise to chaotic dynamics of actively oscillating hair-cell bundles could be essential for sensitive detection and high temporal acuity. Further, using a numerical model of an array of coupled hair-cell bundles, we demonstrated that chaos enhances the degree of synchronization of the oscillators, resulting in robust signal detection.
+Synchronization within networks of coupled oscillators is a paradigmatic phenomenon demonstrating sameness between seemingly distant observations. Here, we address the synchronization rules within an embryonic oscillator ensemble linked to the vertebrate somite segmentation clock. While a molecular description of the segmentation clock is known, an understanding of the fundamental coupling rules governing its synchronization is still lacking. To identify these coupling rules, we develop a novel experimental assay that enables direct quantification of synchronization dynamics within mixtures of oscillating cell ensembles. Our results reveal a “winners-takes-it-all” synchronization dynamics, in contrast with the prediction made by the standard Kuramoto model. We therefore develop a new coupling model, the “Rectified Kuramoto” (ReKu) model, which fully accounts for our experimental findings and provides insights into the fundamental coupling rules governing the synchronization of embryonic cell ensembles.
 
-![DynamicsClub](/images/DynamicsClub_Oct2023_revised.pdf)
+![DynamicsClub](/images/DynamicsClub_Nov2023_1.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,6 @@ Auditory and vestibular systems display remarkable sensitivity to external signa
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov 15 | Synchronization of segmentation clock | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) <br /> (EMBL/USC) |
 | Nov 22 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) <br />  (University of Bergen) |
 | Dec 6 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
@@ -59,6 +58,7 @@ Auditory and vestibular systems display remarkable sensitivity to external signa
 | 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | 2024 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
 | 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
+| 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 
 &nbsp;
 &nbsp; 
@@ -79,6 +79,7 @@ Auditory and vestibular systems display remarkable sensitivity to external signa
 | Aug 9 | Guest lecture: Integrating mitochondrial energetics, redox and ROS metabolic networks: from steady states to chaos | [**Dr. Jackelyn M. Kembro**](https://loop.frontiersin.org/people/170588/overview) <br /> (Universidad Nacional de Córdoba, Argentina) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23442855/) <br /> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30337561/) |
 | Aug 23 | p53 oscillations optimize DNA repair by regulating foci formation | [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) <br /> (Jensen Group; Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36368307/) |
 | Sep 27 | Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network | [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) <br /> (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37494180/) |
+| Oct 11 | Chaos, synchronization, and signal detection by active hair cells of the auditory system | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) | [Pubmed](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
