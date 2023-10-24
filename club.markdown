@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **260** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **262** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -30,9 +30,9 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming event in November: 
+# Upcoming events in November: 
 
-### **Phase synchronization rules in an embryonic oscillator ensemble**
+### 1. **Phase synchronization rules in an embryonic oscillator ensemble**
 
 Speaker: [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) (Postdoctoral Scholar; EMBL & USC)
 
@@ -48,10 +48,25 @@ Synchronization within networks of coupled oscillators is a paradigmatic phenome
 &nbsp;
 &nbsp;
 
+### 2. [**A matter of timing - an investigation of the interplay between reproductive hormones and ovarian follicles**](https://www.sciencedirect.com/science/article/pii/S2451965022000709)
+
+Speaker: [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (University of Bergen, Norway)
+
+Date and Time: Nov 22 (Wed) at 11am-12noon PT / 2-3pm ET / 8-9pm CET
+
+Virtual event on Zoom (Meeting ID: 978 3286 2688, Passcode: 816411)
+
+Abstract: \
+The human menstrual cycle relies on cyclic changes in reproductive hormone levels, which are regulated through feedback mechanisms within the hypothalamic-pituitary-gonadal axis (HPG axis). While we have a fundamental understanding of menstrual cycles, our understanding of, for example, individual alterations in the hormone secretion pattern or the effects of hormonal treatments is incomplete. To deepen our understanding of the human menstrual cycle, we present a mechanistic model that captures individual cycle variability and helps us understand the menstrual cycle as a multidimensional, interactive, dynamic and non-linear complex system. Formulated as a system of non-linear ordinary differential equations, the model covers the growth of ovarian follicles initiated at random time points and the dynamics of hormones along the HPG axis throughout consecutive cycles. Therefore, the model helps us to gain insights into the interactive relationship between the growth of ovarian follicles and reproductive hormones.
+
+![DynamicsClub](/images/DynamicsClub_Nov2023_2.pdf)
+
+&nbsp;
+&nbsp;
+
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov 22 | Modeling HPG feedback and menstrual cycle | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) <br />  (University of Bergen) |
 | Dec 6 | Guest lecture on hormonal oscillations | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) <br /> (University of Birmingham) |
 | Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
