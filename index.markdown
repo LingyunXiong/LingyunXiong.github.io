@@ -19,7 +19,7 @@ Oscillatory processes permeate every branch of biology, from circadian rhythms a
 - Network and dynamical modeling of transcriptome during cell fate transition 
 
 ## **Qualifications** 
-* D.Phil. in Systems Biology, University of Oxford (2021) - Hertford College 
+* D.Phil. in Systems Biology, University of Oxford (2021)
 * B.Sc. in Biochemistry, University of Hong Kong (2016) 
 * Study abroad in Biology, University of California San Diego (2015)
 
