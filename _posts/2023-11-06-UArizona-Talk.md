@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guest Lecture at University of Arizona"
+title: "Guest Lecture at the University of Arizona"
 date:   2023-11-06 
 ---
 
