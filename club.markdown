@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **262** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **263** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -30,25 +30,9 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming events in November: 
+# Upcoming event in November: 
 
-### 1. **Phase synchronization rules in an embryonic oscillator ensemble**
-
-Speaker: [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) (Postdoctoral Scholar; EMBL & USC)
-
-Date and Time: Nov 15 (Wed) at 11am-12noon PT / 2-3pm ET
-
-Hybrid event: **Boyer Hall 130** and on Zoom (Meeting ID: 931 4146 3720, Passcode: 567225)
-
-Abstract: \
-Synchronization within networks of coupled oscillators is a paradigmatic phenomenon demonstrating sameness between seemingly distant observations. Here, we address the synchronization rules within an embryonic oscillator ensemble linked to the vertebrate somite segmentation clock. While a molecular description of the segmentation clock is known, an understanding of the fundamental coupling rules governing its synchronization is still lacking. To identify these coupling rules, we develop a novel experimental assay that enables direct quantification of synchronization dynamics within mixtures of oscillating cell ensembles. Our results reveal a “winners-takes-it-all” synchronization dynamics, in contrast with the prediction made by the standard Kuramoto model. We therefore develop a new coupling model, the “Rectified Kuramoto” (ReKu) model, which fully accounts for our experimental findings and provides insights into the fundamental coupling rules governing the synchronization of embryonic cell ensembles.
-
-![DynamicsClub](/images/DynamicsClub_Nov2023_1.pdf)
-
-&nbsp;
-&nbsp;
-
-### 2. [**A matter of timing - an investigation of the interplay between reproductive hormones and ovarian follicles**](https://www.sciencedirect.com/science/article/pii/S2451965022000709)
+### [**A matter of timing - an investigation of the interplay between reproductive hormones and ovarian follicles**](https://www.sciencedirect.com/science/article/pii/S2451965022000709)
 
 Speaker: [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (University of Bergen, Norway)
 
@@ -95,6 +79,7 @@ The human menstrual cycle relies on cyclic changes in reproductive hormone level
 | Aug 23 | p53 oscillations optimize DNA repair by regulating foci formation | [**Alessandra Lucchetti**](https://nbi.ku.dk/english/staff/?pure=en/persons/624447) <br /> (Jensen Group; Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36368307/) |
 | Sep 27 | Periodicity, mixed-mode oscillations, and multiple timescales in a phosphoinositide-Rho GTPase network | [**Dr. Chee San Tong**](https://medicine.yale.edu/lab/wu/members/) <br /> (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37494180/) |
 | Oct 11 | Chaos, synchronization, and signal detection by active hair cells of the auditory system | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) | [Pubmed](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266) |
+| Nov 15 | Phase synchronization rules in an embryonic oscillator ensemble | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) (EMBL & USC) ||
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
