@@ -36,14 +36,14 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 Speaker: [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) (Assistant Professor; University of Birmingham, UK)
 
-Date and Time: Dec 6 (Wed) at 11am-12noon PT / 2-3pm ET / 6-7pm GMT
+Date and Time: Dec 6 (Wed) at 11am-12noon PT / 2-3pm ET / 7-8pm GMT
 
 Virtual event on Zoom (Meeting ID: 997 4102 0414, Passcode: 728516)
 
 Abstract: \
 The Hypothalamic-Pituitary-Adrenal (HPA) axis is the key regulatory pathway responsible for maintaining homeostasis under conditions of real or perceived stress. Endocrine responses to stressors are mediated by adrenocorticotrophic hormone (ACTH) and corticosteroid (CORT) hormones. In healthy, non-stressed conditions, ACTH and CORT exhibit highly correlated ultradian pulsatility with an amplitude modulated by circadian processes. Disruption of these hormonal rhythms can occur as a result of stressors or in the very early stages of disease. Despite the fact that misaligned endocrine rhythms are associated with increased morbidity, a quantitative understanding of their mechanistic origin and pathogenicity is missing. Mathematically, the HPA axis can be understood as a dynamical system that is optimised to respond and adapt to perturbations. Normally, the body copes well with minor disruptions, but finds it difficult to withstand severe, repeated or long-lasting perturbations. Whilst a healthy HPA axis maintains a certain degree of robustness to stressors, its fragility in diseased states is largely unknown, and this understanding constitutes a critical step toward the development of digital tools to support clinical decision-making. This talk will explore how these challenges are being addressed by combining high-resolution biosampling techniques with mathematical and computational analysis methods. This interdisciplinary approach is helping us quantify the inter-individual variability of daily hormone profiles and develop novel “dynamic biomarkers” that serve as a normative reference and to signal endocrine dysfunction. By shifting from a qualitative to a quantitative description of the HPA axis, these insights takes us a step closer to personalised clinical interventions for which timing is key.
 
-![DynamicsClub](/images/DynamicsClub_Dec2023.pdf)
+![DynamicsClub](/images/DynamicsClub_Dec2023_re.pdf)
 
 &nbsp;
 &nbsp;
