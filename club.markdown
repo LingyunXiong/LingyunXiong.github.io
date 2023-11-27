@@ -35,6 +35,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 ### [**Choreography of hormonal rhythms: mathematical analysis and clinical significance**](https://pubmed.ncbi.nlm.nih.gov/37343084/)
 
 Speaker: [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) (Assistant Professor; University of Birmingham, UK)
+
 Date and Time: Dec 6 (Wed) at 11am-12noon PT / 2-3pm ET / 6-7pm GMT
 
 Virtual event on Zoom (Meeting ID: 997 4102 0414, Passcode: 728516)
