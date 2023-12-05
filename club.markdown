@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Currently, we have **269** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **270** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -54,6 +54,7 @@ The Hypothalamic-Pituitary-Adrenal (HPA) axis is the key regulatory pathway resp
 | Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
 | 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | 2024 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
+| 2024 | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
 | 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | 2024 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
