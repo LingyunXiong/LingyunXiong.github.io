@@ -16,7 +16,6 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University, USA ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
 - A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
-- Elman Poole Ovarian Cancer Junior Research Fellowship is available with [**Dr. Ahmed A. Ahmed**](https://www.imm.ox.ac.uk/people/ahmed-ahmed) at the University of Oxford (Lincoln College), UK.
 
 &nbsp;
 &nbsp;
@@ -30,20 +29,20 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Guest Lecture in December: 
+# Upcoming Event in January: 
 
-### [**Choreography of hormonal rhythms: mathematical analysis and clinical significance**](https://pubmed.ncbi.nlm.nih.gov/37343084/)
+### [**Optimal transport in single-cell genomics with moscot**](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2)
 
-Speaker: [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) (Assistant Professor; University of Birmingham, UK)
+Speaker: [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Graduate Student, Theis Lab; Helmholtz Munich)
 
-Date and Time: Dec 6 (Wed) at 11am-12noon PT / 2-3pm ET / 7-8pm GMT
+Date and Time: Jan 10 (Wed) at 11am-12noon PT / 2-3pm ET / 8-9pm CET
 
-Virtual event on Zoom (Meeting ID: 997 4102 0414, Passcode: 728516)
+Virtual event on Zoom (Meeting ID: 961 4263 5157, Passcode: 839989)
 
 Abstract: \
-The Hypothalamic-Pituitary-Adrenal (HPA) axis is the key regulatory pathway responsible for maintaining homeostasis under conditions of real or perceived stress. Endocrine responses to stressors are mediated by adrenocorticotrophic hormone (ACTH) and corticosteroid (CORT) hormones. In healthy, non-stressed conditions, ACTH and CORT exhibit highly correlated ultradian pulsatility with an amplitude modulated by circadian processes. Disruption of these hormonal rhythms can occur as a result of stressors or in the very early stages of disease. Despite the fact that misaligned endocrine rhythms are associated with increased morbidity, a quantitative understanding of their mechanistic origin and pathogenicity is missing. Mathematically, the HPA axis can be understood as a dynamical system that is optimised to respond and adapt to perturbations. Normally, the body copes well with minor disruptions, but finds it difficult to withstand severe, repeated or long-lasting perturbations. Whilst a healthy HPA axis maintains a certain degree of robustness to stressors, its fragility in diseased states is largely unknown, and this understanding constitutes a critical step toward the development of digital tools to support clinical decision-making. This talk will explore how these challenges are being addressed by combining high-resolution biosampling techniques with mathematical and computational analysis methods. This interdisciplinary approach is helping us quantify the inter-individual variability of daily hormone profiles and develop novel “dynamic biomarkers” that serve as a normative reference and to signal endocrine dysfunction. By shifting from a qualitative to a quantitative description of the HPA axis, these insights takes us a step closer to personalised clinical interventions for which timing is key.
+Single-cell genomics technologies enable multimodal profiling of millions of cells across temporal and spatial dimensions. Experimental limitations prevent the measurement of all-encompassing cellular states in their native temporal dynamics or spatial tissue niche. Optimal transport theory has emerged as a powerful tool to overcome such constraints, enabling the recovery of the original cellular context. However, most algorithmic implementations currently available have not kept up the pace with increasing dataset complexity, so that current methods are unable to incorporate multimodal information or scale to single-cell atlases. Thus, we introduce multi-omics single-cell optimal transport (moscot), a general and scalable framework for optimal transport applications in single-cell genomics, supporting multimodality across all applications. We demonstrate moscot’s ability across a wide range of tasks in spatial transcriptomics and developmental biology. Moscot is available as an easy-to-use, open-source python package with extensive documentation at [https://moscot-tools.org](https://moscot-tools.org). 
 
-![DynamicsClub](/images/DynamicsClub_Dec2023_re.pdf)
+![DynamicsClub](/images/DynamicsClub_Jan2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,10 +50,10 @@ The Hypothalamic-Pituitary-Adrenal (HPA) axis is the key regulatory pathway resp
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jan | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) <br /> (Theis Lab, Helmholtz Munich) |
-| 2024 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
-| 2024 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
-| 2024 | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
+| Feb | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
+| Mar | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
+| Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
+| May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | 2024 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
@@ -82,6 +81,7 @@ The Hypothalamic-Pituitary-Adrenal (HPA) axis is the key regulatory pathway resp
 | Oct 11 | Chaos, synchronization, and signal detection by active hair cells of the auditory system | [**Dr. Justin Faber**](https://bozoviclab.physics.ucla.edu/members.html) (UCLA) | [Pubmed](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013266) |
 | Nov 15 | Phase synchronization rules in an embryonic oscillator ensemble | [**Dr. Christine Ho**](https://morsutlab.usc.edu/people/) (EMBL & USC) ||
 | Nov 22 | An investigation of the interplay between reproductive hormones and ovarian follicles | [**Dr. Sophie Fischer-Holzhausen**](https://www.linkedin.com/in/sophie-fischer-holzhausen-99b366244) (University of Bergen, Norway) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35568223/) |
+| Dec 6 | Choreography of hormonal rhythms: mathematical analysis and clinical significance | [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder.aspx) (University of Birmingham, UK) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37343084/) |
 
 # [Past Events in 2022](https://lingyunxiong.github.io/2022/12/16/dynamicsclub.html)
 
