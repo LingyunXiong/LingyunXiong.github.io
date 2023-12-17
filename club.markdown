@@ -51,6 +51,7 @@ Single-cell genomics technologies enable multimodal profiling of millions of cel
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Feb | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
+| Feb | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | Mar | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
