@@ -4,9 +4,9 @@ title: "Dynamics Club in 2023: A Summary"
 date:   2023-12-15 
 ---
 
-![DynamicsClub](/images/DynamicsClub_2023summary.pdf)
+![DynamicsClub](/images/DynamicsClub_2023summary.jpg)
 
-Thank everyone for supporting the Dynamics Club. In 2023, we’ve had 16 events (see below) and one departmental seminar! Congrats to all the speakers and cheers to all the participants. Looking forward to events in 2024. 
+Thank everyone for supporting the Dynamics Club. In 2023, we’ve had 16 events (see below) and one departmental seminar! Congrats to all the speakers and cheers to all the participants. Looking forward to out 2024 events. 
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 12 | Clock transcription factor dynamics in cancer | [**Yuanzhong Pan**](https://kaylab.usc.edu/about-ussteve-a-kay-ph-d-d-sc/staff/)  <br /> (Kay Lab, USC)  | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36595671/) |
