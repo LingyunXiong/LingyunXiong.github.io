@@ -7,22 +7,13 @@ permalink: /Publications/
 - Cell fate transition as a bifurcation event \
 **Lingyun Xiong**
 
-- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
-**Lingyun Xiong**, Alan Garfinkel. \
-**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
-  
-- [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
-**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
-bioRxiv DOI: 10.1101/2020.06.24.169490
-
-- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
-Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
-**Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean \
-bioRxiv DOI: 10.1101/2023.04.18.537360
-
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
 *Book Chapter* in **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology**. (*In Press*)
+
+- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
+**Lingyun Xiong**, Alan Garfinkel. \
+**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
 
 - [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
@@ -60,5 +51,14 @@ Matteo Di Giovannantonio, Benjamin H.L. Harris, Ping Zhang, Isaac Kitchen-Smith,
 Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
 **Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265 ([PDF](https://drive.google.com/file/d/1MGa-miXqfzq_SPGNlr0Wq2KIB4EBN5Fj/view?usp=sharing))
 
+## Preprints ##
 
+- [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
+**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
+bioRxiv DOI: 10.1101/2020.06.24.169490
+
+- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
+Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
+**Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean \
+bioRxiv DOI: 10.1101/2023.04.18.537360
 
