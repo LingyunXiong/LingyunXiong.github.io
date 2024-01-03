@@ -50,12 +50,12 @@ Single-cell genomics technologies enable multimodal profiling of millions of cel
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
-| Feb | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
-| Mar | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
+| Feb 12 | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
+| Feb 28 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
+| Mar 20 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
-| 2024 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
+| May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | 2024 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
