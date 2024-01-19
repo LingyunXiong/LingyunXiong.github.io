@@ -30,20 +30,20 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming Event in January: 
+# Upcoming Event in February: 
 
-### [**Optimal transport in single-cell genomics with moscot**](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2)
+### [**Context-dependent regulation of lipid accumulation in adipocytes by a HIF1a-PPARg feedback network**](https://pubmed.ncbi.nlm.nih.gov/37995680/)
 
-Speaker: [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Graduate Student, Theis Lab; Helmholtz Munich)
+Speaker: [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (Postdoctoral Fellow; EMBL)
 
-Date and Time: Jan 10 (Wed) at 11am-12noon PT / 2-3pm ET / 8-9pm CET
+Date and Time: Feb 12 (Monday) at 9-10am PT / 12-1pm ET / 6-7pm CET
 
-Virtual event on Zoom (Meeting ID: 961 4263 5157, Passcode: 839989)
+Virtual event on Zoom (Meeting ID: 931 0003 3284, Passcode: 656225)
 
 Abstract: \
-Single-cell genomics technologies enable multimodal profiling of millions of cells across temporal and spatial dimensions. Experimental limitations prevent the measurement of all-encompassing cellular states in their native temporal dynamics or spatial tissue niche. Optimal transport theory has emerged as a powerful tool to overcome such constraints, enabling the recovery of the original cellular context. However, most algorithmic implementations currently available have not kept up the pace with increasing dataset complexity, so that current methods are unable to incorporate multimodal information or scale to single-cell atlases. Thus, we introduce multi-omics single-cell optimal transport (moscot), a general and scalable framework for optimal transport applications in single-cell genomics, supporting multimodality across all applications. We demonstrate moscot’s ability across a wide range of tasks in spatial transcriptomics and developmental biology. Moscot is available as an easy-to-use, open-source python package with extensive documentation at [https://moscot-tools.org](https://moscot-tools.org). 
+Hypoxia-induced upregulation of HIF1a triggers adipose tissue dysfunction and insulin resistance in obese patients. HIF1a closely interacts with PPARg, the master regulator of adipocyte differentiation and lipid accumulation, but there are conflicting results regarding how this interaction controls the excessive lipid accumulation that drives adipocyte dysfunction. To directly address these conflicts, we established a differentiation system that recapitulated prior seemingly opposing observations made across different experimental settings. Using single-cell imaging and coarse-grained mathematical modeling, we show how HIF1a can both promote and repress lipid accumulation during adipogenesis. Our model predicted and our experiments confirmed that the opposing roles of HIF1a are isolated from each other by the positive-feedback-mediated upregulation of PPARg that drives adipocyte differentiation. Finally, we identify three factors: strength of the differentiation cue, timing of hypoxic perturbation, and strength of HIF1a expression changes that, when considered together, provide an explanation for many of the previous conflicting reports.
 
-![DynamicsClub](/images/DynamicsClub_Jan2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Feb2024_1.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,6 @@ Single-cell genomics technologies enable multimodal profiling of millions of cel
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb 12 | Dynamics of fat cell differentiation  | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL) |
 | Feb 28 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | Mar 20 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
@@ -63,6 +62,11 @@ Single-cell genomics technologies enable multimodal profiling of millions of cel
 
 &nbsp;
 &nbsp; 
+
+# Past Events in 2024
+
+| **Date** | **Topic** | **Speaker(s)** | **Materials** |
+| Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) |
 
 # [Past Events in 2023](https://lingyunxiong.github.io/2023/12/15/dynamicsclub.html)
 
