@@ -51,11 +51,11 @@ Hypoxia-induced upregulation of HIF1a triggers adipose tissue dysfunction and in
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb 28 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | Mar 20 | Bioelectrical bifurcation during the first heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) <br /> (Cohen/Megason Lab, Harvard) |
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
+| 2024 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | 2024 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
