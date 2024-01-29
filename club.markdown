@@ -55,6 +55,7 @@ Hypoxia-induced upregulation of HIF1a triggers adipose tissue dysfunction and in
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
+| 2024 | Guest lecture: TBA | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
 | 2024 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
