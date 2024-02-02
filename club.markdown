@@ -14,8 +14,8 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 
 # Job opportunities:
-- A postdoctoral position is available with [**Dr. Karin Leiderman**](https://sites.google.com/view/leiderman-research-group/home) at University of North Carolina at Chapel Hill, USA ([Details](https://www.mathjobs.org/jobs/list/24156)).
-- A postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University, USA ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
+- A postdoctoral position is available with [**Dr. Karin Leiderman**](https://sites.google.com/view/leiderman-research-group/home) at University of North Carolina at Chapel Hill ([Details](https://www.mathjobs.org/jobs/list/24156)).
+- A postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
 - A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
 
 &nbsp;
@@ -55,11 +55,11 @@ Hypoxia-induced upregulation of HIF1a triggers adipose tissue dysfunction and in
 | Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
-| 2024 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
+| Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
 | 2024 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
-| 2024 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
+| Dec | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
 
