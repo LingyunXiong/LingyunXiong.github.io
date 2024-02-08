@@ -57,6 +57,8 @@ Hypoxia-induced upregulation of HIF1a triggers adipose tissue dysfunction and in
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
 | 2024 | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
+| 2024 | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels  | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (Regensburg
+University) |
 | 2024 | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
 | Dec | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
