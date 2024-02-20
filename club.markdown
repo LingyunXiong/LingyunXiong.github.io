@@ -32,7 +32,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Upcoming Event in March: 
 
-### [**Bioelectrical bifurcation during the first heartbeats**](https://pubmed.ncbi.nlm.nih.gov/37758945/)
+### [**A bioelectrical phase transition patterns the first vertebrate heartbeats**](https://pubmed.ncbi.nlm.nih.gov/37758945/)
 
 Speaker: [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Graduate Student, Cohen/Megason Lab; Harvard)
 
