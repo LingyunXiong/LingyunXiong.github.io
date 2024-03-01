@@ -14,6 +14,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 
 # Job opportunities:
+- A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
 - A postdoctoral position is available with [**Dr. Karin Leiderman**](https://sites.google.com/view/leiderman-research-group/home) at University of North Carolina at Chapel Hill ([Details](https://www.mathjobs.org/jobs/list/24156)).
 - A postdoctoral position is available with [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) at Boston University ([Details](https://drive.google.com/file/d/1ZlfzhUszbQqmBkhCdongoDhKXK6E3tW8/view?usp=share_link)).
 - A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
