@@ -10,14 +10,14 @@ permalink: /Publications/
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
 *Book Chapter* in **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology**. (*In Press*)
-  
-- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
-**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon.\
-**Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing))
 
 - [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
-**Nat Rev Nephrol**, 2023 Sep 8. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
+**Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
+
+- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon.\
+**Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing))
 
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun Xiong**, Alan Garfinkel. \
