@@ -33,7 +33,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Upcoming Event in April: 
 
-### **Title: TBD**
+### **Bifurcations of limit cycles in mechanistic models of physiological processes**
 
 Speaker: [**Dr. Ruby Kim**](https://rubyshkim.github.io) (Postdoctoral Assistant Professor; University of Michigan)
 
