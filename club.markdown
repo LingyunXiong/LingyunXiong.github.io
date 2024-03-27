@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person visit. All are welcome! 
 
-Currently, we have **282** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **284** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is now open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -31,20 +31,20 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 &nbsp;
 &nbsp;
 
-# Upcoming Event in March: 
+# Upcoming Event in April: 
 
-### [**A bioelectrical phase transition patterns the first vertebrate heartbeats**](https://pubmed.ncbi.nlm.nih.gov/37758945/)
+### **Title: TBD**
 
-Speaker: [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Graduate Student, Cohen/Megason Lab; Harvard)
+Speaker: [**Dr. Ruby Kim**](https://rubyshkim.github.io) (Postdoctoral Assistant Professor; University of Michigan)
 
-Date and Time: March 20 (Wed) at 11am-12pm PT / 2-3pm ET 
+Date and Time: April 24 (Wed) at 11am-12pm PT / 2-3pm ET 
 
-Hybrid event: <ins>Boyer Hall 130</ins> & on Zoom (Meeting ID: 980 7368 3270, Passcode: 975516)
+Virtual event on Zoom (Meeting ID: 984 7095 0894, Passcode: 383536)
 
 Abstract: \
-A regular heartbeat is essential to vertebrate life. In the mature heart, this function is driven by an anatomically localized pacemaker. By contrast, pacemaking capability is broadly distributed in the early embryonic heart, raising the question of how tissue-scale activity is first established and then maintained during embryonic development. The initial transition of the heart from silent to beating has never been characterized at the timescale of individual electrical events, and the structure in space and time of the early heartbeats remains poorly understood. Using all-optical electrophysiology, we captured the very first heartbeat of a zebrafish and analysed the development of cardiac excitability and conduction around this singular event. The first few beats appeared suddenly, had irregular interbeat intervals, propagated coherently across the primordial heart and emanated from loci that varied between animals and over time. The bioelectrical dynamics were well described by a noisy saddle-node on invariant circle bifurcation with action potential upstroke driven by CaV1.2. Our work shows how gradual and largely asynchronous development of single-cell bioelectrical properties produces a stereotyped and robust tissue-scale transition from quiescence to coordinated beating.
+TBA
 
-![DynamicsClub](/images/DynamicsClub_Mar2024re.pdf)
+![DynamicsClub](/images/DynamicsClub_Apr2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -52,7 +52,6 @@ A regular heartbeat is essential to vertebrate life. In the mature heart, this f
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Apr | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | May | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
@@ -60,6 +59,7 @@ A regular heartbeat is essential to vertebrate life. In the mature heart, this f
 | Jul | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels  | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg) |
 | Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | 2024 | Guest lecture on mitochondria, metabolism and cancer | [**Dr. Natalie Porat-Shliom**](https://irp.nih.gov/pi/natalie-porat-shliom) <br /> (NCI/CCR) |
+| 2024 | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | Dec | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
@@ -67,6 +67,7 @@ A regular heartbeat is essential to vertebrate life. In the mature heart, this f
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) |
 | Feb 12 | Context-dependent regulation of lipid accumulation in adipocytes by a HIF1a-PPARg feedback network | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37995680/) |
+| Mar 20 | A bioelectrical phase transition patterns the first vertebrate heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Cohen/Megason Lab; Harvard)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37758945/) |
 
 &nbsp;
 &nbsp; 
