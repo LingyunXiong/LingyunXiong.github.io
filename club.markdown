@@ -33,7 +33,7 @@ Call for 2024 speakers is now open: please fill in the [**form**](https://forms.
 
 # Upcoming Event in April: 
 
-### **Bifurcations of limit cycles in mechanistic models of physiological processes**
+### **Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data**
 
 Speaker: [**Dr. Ruby Kim**](https://rubyshkim.github.io) (Postdoctoral Assistant Professor; University of Michigan)
 
@@ -42,7 +42,7 @@ Date and Time: April 24 (Wed) at 11am-12pm PT / 2-3pm ET
 Virtual event on Zoom (Meeting ID: 984 7095 0894, Passcode: 383536)
 
 Abstract: \
-TBA
+Most organisms have intrinsic circadian rhythms that are influenced by external cues such as light, food, and activity. Major characteristics of circadian timekeeping (sleep-wake, melatonin release, etc) generally share the same qualitative features across individuals of a given species and are robust under regular, 24-hour periodic schedules. However, when the circadian timekeeping system is perturbed, such as in the case of shift work and jet lag in humans, individual responses to the perturbation can vary dramatically. While some individuals may re-adjust quickly, others experience lasting health effects. In this talk, we will discuss mathematical modeling approaches to investigate the dynamics of circadian timekeeping based on wrist-wearable and genomic data from medical interns across the U.S. From the data, we find significant inter-individual differences in step activity and circadian misalignment. Using a mathematical model, we propose a new perspective on why these significant inter-individual differences occur.
 
 ![DynamicsClub](/images/DynamicsClub_Apr2024.pdf)
 
