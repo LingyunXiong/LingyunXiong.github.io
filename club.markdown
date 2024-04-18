@@ -16,7 +16,6 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
 - A postdoctoral position is available with [**Dr. Jeremy Purvis**](https://www.med.unc.edu/genetics/purvislab/) at UNC Chapel Hill ([Details](https://www.med.unc.edu/genetics/purvislab/opportunities/)).
-- A postdoctoral position is available with [**Dr. Karin Leiderman**](https://sites.google.com/view/leiderman-research-group/home) at UNC Chapel Hill ([Details](https://www.mathjobs.org/jobs/list/24156)).
 - A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
 
 &nbsp;
