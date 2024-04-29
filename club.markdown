@@ -32,7 +32,7 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 # Upcoming Event in May: 
 
-### Guest lecture: **What do elevated levels of albumin in urine mean?**[https://pubmed.ncbi.nlm.nih.gov/35178707/]
+### Guest lecture: [**What do elevated levels of albumin in urine mean?**](https://pubmed.ncbi.nlm.nih.gov/35178707/)
 
 Speaker: [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Research Professor; Boston University)
 
