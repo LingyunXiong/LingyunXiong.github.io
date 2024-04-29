@@ -30,20 +30,20 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in April: 
+# Upcoming Event in May: 
 
-### **Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data**
+### Guest lecture: **What do elevated levels of albumin in urine mean?**[https://pubmed.ncbi.nlm.nih.gov/35178707/]
 
-Speaker: [**Dr. Ruby Kim**](https://rubyshkim.github.io) (Postdoctoral Assistant Professor; University of Michigan)
+Speaker: [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Research Professor; Boston University)
 
-Date and Time: April 24 (Wed) at 11am PT / 2pm ET 
+Date and Time: May 24 (Fri) at 10am PT / 1pm ET 
 
-Virtual event on Zoom (Meeting ID: 984 7095 0894, Passcode: 383536)
+Virtual event on Zoom (Meeting ID: 927 4378 5517, Passcode: 147406)
 
 Abstract: \
-Most organisms have intrinsic circadian rhythms that are influenced by external cues such as light, food, and activity. Major characteristics of circadian timekeeping (sleep-wake, melatonin release, etc) generally share the same qualitative features across individuals of a given species and are robust under regular, 24-hour periodic schedules. However, when the circadian timekeeping system is perturbed, such as in the case of shift work and jet lag in humans, individual responses to the perturbation can vary dramatically. While some individuals may re-adjust quickly, others experience lasting health effects. In this talk, we will discuss mathematical modeling approaches to investigate the dynamics of circadian timekeeping based on wrist-wearable and genomic data from medical interns across the U.S. From the data, we find significant inter-individual differences in step activity and circadian misalignment. Using a mathematical model, we propose a new perspective on why these significant inter-individual differences occur.
+The kidneys normally filter a very small fraction of large plasma proteins, since these proteins play important roles (in transport, immune function, maintaining blood volume, etc.) and should not be excreted. The presence of significant amounts of albumin in urine signifies dysfunction, but it is difficult to interpret, since many factors – such as capillary permeability, filtration rates, shear stress, concentration, receptor kinetics – impact the renal handling of albumin. In this talk, we will describe how mathematical modeling of albumin transport in kidney tubules can provide essential insight into the mechanisms underlying urinary loss of albumin, particularly in diabetes. We will focus on how changes in plasma filtration rates and downregulation of the albumin receptors megalin and cubilin contribute to raising albumin excretion in early-stage diabetes and uni-nephrectomy, a model of living kidney donation.
 
-![DynamicsClub](/images/DynamicsClub_Apr2024.pdf)
+![DynamicsClub](/images/DynamicsClub_May2024_1.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,6 @@ Most organisms have intrinsic circadian rhythms that are influenced by external 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May 17 | Guest lecture on modeling cardiorenal physiology | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) <br /> (Boston University) |
 | May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
 | Jun | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
@@ -68,6 +67,7 @@ Most organisms have intrinsic circadian rhythms that are influenced by external 
 | Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) |
 | Feb 12 | Context-dependent regulation of lipid accumulation in adipocytes by a HIF1a-PPARg feedback network | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37995680/) |
 | Mar 20 | A bioelectrical phase transition patterns the first vertebrate heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Cohen/Megason Lab; Harvard)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37758945/) |
+| Apr 24 | Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (University of Michigan) ||
 
 &nbsp;
 &nbsp; 
