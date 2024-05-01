@@ -30,7 +30,7 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in May: 
+# Upcoming Events in May: 
 
 ### Guest lecture: [**What do elevated levels of albumin in urine mean?**](https://pubmed.ncbi.nlm.nih.gov/35178707/)
 
@@ -45,13 +45,23 @@ The kidneys normally filter a very small fraction of large plasma proteins, sinc
 
 ![DynamicsClub](/images/DynamicsClub_May2024_1.pdf)
 
+### **Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets**
+
+Speaker: [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Assistant Professor; Montana State University)
+
+Date and Time: May 29 (Wed) at 11am PT / 2pm ET 
+
+Hybrid event: *Boyer Hall 130* and on Zoom (Meeting ID: 915 5371 7489, Passcode: 589284)
+
+Abstract: \
+Modeling biological systems holds great promise for speeding up the rate of discovery in systems biology by predicting experimental outcomes and suggesting targeted interventions. However, this process is dogged by an identifiability issue, in which network models and their parameters are not sufficiently constrained by coarse and noisy data to ensure unique solutions. In this work, we evaluated the capability of a simplified yeast cell-cycle network model to reproduce multiple observed transcriptomic behaviors under genomic mutations. We matched time-series data from both cycling and checkpoint arrested cells to model predictions using an asynchronous multi-level Boolean approach. We showed that this single network model, despite its simplicity, is capable of exhibiting dynamical behavior similar to the datasets in most cases, and we demonstrated the drop in severity of the identifiability issue that results from matching multiple datasets.
+
 &nbsp;
 &nbsp;
 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May 29 | Guest lecture: Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) <br /> (Montana State University) |
 | Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
 | Jun | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | Jul | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels  | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg) |
