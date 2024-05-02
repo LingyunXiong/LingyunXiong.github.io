@@ -45,7 +45,7 @@ The kidneys normally filter a very small fraction of large plasma proteins, sinc
 
 ![DynamicsClub](/images/DynamicsClub_May2024_1.pdf)
 
-### **Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets**
+### [**Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets**](https://pubmed.ncbi.nlm.nih.gov/37939998/)
 
 Speaker: [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Assistant Professor; Montana State University)
 
