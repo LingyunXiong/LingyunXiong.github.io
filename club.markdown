@@ -56,6 +56,8 @@ Hybrid event: *Boyer Hall 130* and on Zoom (Meeting ID: 915 5371 7489, Passcode:
 Abstract: \
 Modeling biological systems holds great promise for speeding up the rate of discovery in systems biology by predicting experimental outcomes and suggesting targeted interventions. However, this process is dogged by an identifiability issue, in which network models and their parameters are not sufficiently constrained by coarse and noisy data to ensure unique solutions. In this work, we evaluated the capability of a simplified yeast cell-cycle network model to reproduce multiple observed transcriptomic behaviors under genomic mutations. We matched time-series data from both cycling and checkpoint arrested cells to model predictions using an asynchronous multi-level Boolean approach. We showed that this single network model, despite its simplicity, is capable of exhibiting dynamical behavior similar to the datasets in most cases, and we demonstrated the drop in severity of the identifiability issue that results from matching multiple datasets.
 
+![DynamicsClub2](/images/DynamicsClub_May2024_2.pdf)
+
 &nbsp;
 &nbsp;
 
@@ -68,7 +70,7 @@ Modeling biological systems holds great promise for speeding up the rate of disc
 | Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
-| 2024 | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
+| Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | Dec | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
