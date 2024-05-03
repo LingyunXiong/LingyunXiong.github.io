@@ -9,7 +9,7 @@ permalink: /Publications/
 **Lingyun Xiong** (*In Preparation*) 
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
-Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
+Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
 **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology** (*In Press*).
 
 - [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
