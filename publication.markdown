@@ -3,13 +3,14 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
+§ Equal contribution, \# Corresponding author
 
-- Cell fate transition as a bifurcation event \
-**Lingyun Xiong**
+- Cell fate transition as a coordinated bifurcation event \
+**Lingyun Xiong** (*In Preparation*) 
 
 - Studying the effects of oral contraceptives on coagulation using a mathematical model \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang.
-*Book Chapter* in **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology**. (*In Press*)
+**Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology** (*In Press*).
 
 - [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
@@ -24,7 +25,7 @@ Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
   
 - [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
-**Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. (\# Corresponding Author) \
+**Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. \
 **Physiology**, 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
 
 - [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
@@ -54,8 +55,8 @@ Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
 ## Preprints ##
 
 - [Macroscale network feedback structure of transcriptome during cell fate transition](https://doi.org/10.1101/2020.06.24.169490) \
-**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. (\# Corresponding Author) \
-bioRxiv DOI: 10.1101/2020.06.24.169490 (*Submitted*)
+**Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
+bioRxiv DOI: 10.1101/2020.06.24.169490
 
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
