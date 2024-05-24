@@ -30,20 +30,7 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Events in May: 
-
-### Guest lecture: [**What do elevated levels of albumin in urine mean?**](https://pubmed.ncbi.nlm.nih.gov/35178707/)
-
-Speaker: [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Research Professor; Boston University)
-
-Date and Time: May 24 (Fri) at 10am PT / 1pm ET 
-
-Virtual event on Zoom (Meeting ID: 927 4378 5517, Passcode: 147406)
-
-Abstract: \
-The kidneys normally filter a very small fraction of large plasma proteins, since these proteins play important roles (in transport, immune function, maintaining blood volume, etc.) and should not be excreted. The presence of significant amounts of albumin in urine signifies dysfunction, but it is difficult to interpret, since many factors – such as capillary permeability, filtration rates, shear stress, concentration, receptor kinetics – impact the renal handling of albumin. In this talk, we will describe how mathematical modeling of albumin transport in kidney tubules can provide essential insight into the mechanisms underlying urinary loss of albumin, particularly in diabetes. We will focus on how changes in plasma filtration rates and downregulation of the albumin receptors megalin and cubilin contribute to raising albumin excretion in early-stage diabetes and uni-nephrectomy, a model of living kidney donation.
-
-![DynamicsClub](/images/DynamicsClub_May2024_1.pdf)
+# Upcoming Event in May: 
 
 ### [**Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets**](https://pubmed.ncbi.nlm.nih.gov/37939998/)
 
@@ -80,6 +67,7 @@ Modeling biological systems holds great promise for speeding up the rate of disc
 | Feb 12 | Context-dependent regulation of lipid accumulation in adipocytes by a HIF1a-PPARg feedback network | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37995680/) |
 | Mar 20 | A bioelectrical phase transition patterns the first vertebrate heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Cohen/Megason Lab; Harvard)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37758945/) |
 | Apr 24 | Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (University of Michigan) ||
+| May 24 | Guest lecture: What do elevated levels of albumin in urine mean? | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Boston University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35178707/) |
 
 &nbsp;
 &nbsp; 
