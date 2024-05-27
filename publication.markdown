@@ -12,6 +12,10 @@ permalink: /Publications/
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
 **Mathematical Modeling for Women’s Health - Collaborative Workshop for Women in Mathematical Biology** (*In Press*).
 
+- [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
+**Lingyun Xiong**\#, Alan Garfinkel, Eric J. Deeds. \
+**Physiology**, 2024;39(S1):1234. DOI: 10.1152/physiol.2024.39.S1.1234
+  
 - [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
 Alicia A. McDonough, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
