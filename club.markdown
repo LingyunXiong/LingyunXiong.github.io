@@ -30,20 +30,20 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in May: 
+# Upcoming Event in June: 
 
-### [**Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets**](https://pubmed.ncbi.nlm.nih.gov/37939998/)
+### [**Uncovering macrophage phenotype transitions using a stochastic modeling framework**](https://pubmed.ncbi.nlm.nih.gov/37839584/)
 
-Speaker: [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Assistant Professor; Montana State University)
+Speaker: [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (Postdoctoral Fellow; University of Bergen)
 
-Date and Time: May 29 (Wed) at 11am PT / 2pm ET 
+Date and Time: Jun 19 (Wed) at 9am PT / 12pm ET /6pm CET
 
-Hybrid event: *Boyer Hall 130* and on Zoom (Meeting ID: 915 5371 7489, Passcode: 589284)
+Virtual event on Zoom (Meeting ID: 912 9080 5672, Passcode: 672561)
 
 Abstract: \
-Modeling biological systems holds great promise for speeding up the rate of discovery in systems biology by predicting experimental outcomes and suggesting targeted interventions. However, this process is dogged by an identifiability issue, in which network models and their parameters are not sufficiently constrained by coarse and noisy data to ensure unique solutions. In this work, we evaluated the capability of a simplified yeast cell-cycle network model to reproduce multiple observed transcriptomic behaviors under genomic mutations. We matched time-series data from both cycling and checkpoint arrested cells to model predictions using an asynchronous multi-level Boolean approach. We showed that this single network model, despite its simplicity, is capable of exhibiting dynamical behavior similar to the datasets in most cases, and we demonstrated the drop in severity of the identifiability issue that results from matching multiple datasets.
+Polarization is the process by which a macrophage cell commits to a phenotype based on external signal stimulation. To know how this process is affected by random fluctuations and events within a cell is of utmost importance to better understand the underlying dynamics and predict possible phenotype transitions. In this talk, I therefore present a stochastic modeling approach for the macrophage polarization process. Phenotype states are classified using the Robust Perron Cluster Analysis and transition pathways and probabilities are quantified by applying Transition Path Theory. Four bistable and one tristable phenotype configuration are identified. While bistable transitions are fast, phenotype transitions in the tristable situation have a comparatively long time duration. The approach allows for a probabilistic interpretation of macrophage phenotype transitions and biological inference on phenotype robustness. 
 
-![DynamicsClub2](/images/DynamicsClub_May2024_2.pdf)
+![DynamicsClub](/images/DynamicsClub_Jun2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -68,6 +68,7 @@ Modeling biological systems holds great promise for speeding up the rate of disc
 | Mar 20 | A bioelectrical phase transition patterns the first vertebrate heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Cohen/Megason Lab; Harvard)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37758945/) |
 | Apr 24 | Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (University of Michigan) ||
 | May 24 | Guest lecture: What do elevated levels of albumin in urine mean? | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Boston University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35178707/) |
+| May 29 | Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Montana State University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939998/) |
 
 &nbsp;
 &nbsp; 
