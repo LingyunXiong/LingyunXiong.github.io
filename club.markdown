@@ -30,7 +30,18 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in June: 
+# Upcoming Events in June: 
+
+### Guest lecture: [**Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination**](https://pubmed.ncbi.nlm.nih.gov/37961090/)
+
+Speaker: [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (Assistant Professor; University of Minnesota)
+
+Date and Time: Jun 4 (Tue) at 1pm PT / 4pm ET
+
+In-person event: *Boyer Hall 159*
+
+Abstract: \
+Entrainment to an external stimulus enables a synchronized oscillatory response across a population of cells, increasing coherent responses by reducing cell-to-cell heterogeneity. It is unclear whether the property of entrainability extends to systems where responses are intrinsic to the individual cell, rather than dependent on coherence across a population of cells. Using a combination of mathematical modeling, time-lapse fluorescence microscopy, and single-cell tracking, we demonstrated that p53 oscillations triggered by DNA double-strand breaks (DSBs) can be entrained with a periodic damage stimulus, despite such synchrony not known to function in effective DNA damage responses. Surprisingly, p53 oscillations were experimentally entrained over a wider range of DSB frequencies than predicted by an established computational model for the system. We determined that recapitulating the increased range of entrainment frequencies required, non-intuitively, a less robust oscillator and wider steady-state valley on the energy landscape. Further, we show that p53 entrainment can lead to altered expression dynamics of downstream targets responsible for cell fate in a manner dependent on target mRNA stability. Overall, this study demonstrates that entrainment can occur in a biological oscillator despite the apparent lack of an evolutionary advantage conferred through synchronized responses and highlights the potential of externally entraining p53 dynamics to reduce cellular variability and synchronize cell-fate responses for therapeutic outcomes.
 
 ### [**Uncovering macrophage phenotype transitions using a stochastic modeling framework**](https://pubmed.ncbi.nlm.nih.gov/37839584/)
 
@@ -51,8 +62,6 @@ Polarization is the process by which a macrophage cell commits to a phenotype ba
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun 4 | Guest lecture: Pulsed stimuli entrain p53 to synchronize single cells and modulate cell-fate determination | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) <br /> (University of Minnesota) |
-| Jun | Mathematical modeling of macrophage polarization  | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen) |
 | Jul | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels  | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg) |
 | Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
