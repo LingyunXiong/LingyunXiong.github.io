@@ -67,7 +67,7 @@ Polarization is the process by which a macrophage cell commits to a phenotype ba
 | Apr 24 | Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (University of Michigan) ||
 | May 24 | Guest lecture: What do elevated levels of albumin in urine mean? | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Boston University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35178707/) |
 | May 29 | Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Montana State University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939998/) |
-| Jun 4 | Guest lecture: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
+| Jun 4 | M&M Seminar: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
 
 &nbsp;
 &nbsp; 
