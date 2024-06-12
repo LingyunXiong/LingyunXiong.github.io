@@ -13,7 +13,7 @@ Oscillatory processes permeate every branch of biology, from circadian rhythms a
 
 ## **Current Research Focus**
 - Mathematical modeling of renal physiology
-- Physiological dynamics via *in vivo* imaging
+- Physiological dynamics via *in vivo* imaging (with the [Porat-Shliom lab](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#team) at NIH/NCI)
 - Comparative studies of mammalian physiology
 - Network and dynamical modeling of cell fate transition 
 
