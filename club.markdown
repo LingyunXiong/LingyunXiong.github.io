@@ -36,7 +36,7 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 Speaker: [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (Postdoctoral Fellow; University of Bergen)
 
-Date and Time: Jun 19 (Wed) at 9am PT / 12pm ET /6pm CET
+Date and Time: Jun 19 (Wed) at 9am PT / 12pm ET / 6pm CET
 
 Virtual event on Zoom (Meeting ID: 912 9080 5672, Passcode: 672561)
 
