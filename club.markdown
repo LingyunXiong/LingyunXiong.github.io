@@ -14,7 +14,8 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 
 # Job opportunities:
-- A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
+- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI (Microscopy).
+- - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
 - A postdoctoral position is available with [**Dr. Jeremy Purvis**](https://www.med.unc.edu/genetics/purvislab/) at UNC Chapel Hill ([Details](https://www.med.unc.edu/genetics/purvislab/opportunities/)).
 - A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
 
@@ -30,20 +31,20 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in June: 
+# Upcoming Event in July: 
 
-### [**Uncovering macrophage phenotype transitions using a stochastic modeling framework**](https://pubmed.ncbi.nlm.nih.gov/37839584/)
+### [**Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels**](https://pubmed.ncbi.nlm.nih.gov/38301001/)
 
-Speaker: [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (Postdoctoral Fellow; University of Bergen)
+Speaker: [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (Postdoctoral Fellow; University of Regensburg)
 
-Date and Time: Jun 19 (Wed) at 9am PT / 12pm ET / 6pm CET
+Date and Time: TBA
 
-Virtual event on Zoom (Meeting ID: 912 9080 5672, Passcode: 672561)
+Virtual event on Zoom
 
 Abstract: \
-Polarization is the process by which a macrophage cell commits to a phenotype based on external signal stimulation. To know how this process is affected by random fluctuations and events within a cell is of utmost importance to better understand the underlying dynamics and predict possible phenotype transitions. In this talk, I therefore present a stochastic modeling approach for the macrophage polarization process. Phenotype states are classified using the Robust Perron Cluster Analysis and transition pathways and probabilities are quantified by applying Transition Path Theory. Four bistable and one tristable phenotype configuration are identified. While bistable transitions are fast, phenotype transitions in the tristable situation have a comparatively long time duration. The approach allows for a probabilistic interpretation of macrophage phenotype transitions and biological inference on phenotype robustness. 
+The transmission of the heartbeat through the cerebral vascular system causes intracranial pressure pulsations. We discovered that arterial pressure pulsations can directly modulate central neuronal activity. In a semi-intact rat brain preparation, vascular pressure pulsations elicited correlated local field oscillations in the olfactory bulb mitral cell layer. These oscillations did not require synaptic transmission but reflected baroreceptive transduction in mitral cells. This transduction was mediated by a fast excitatory mechanosensitive ion channel and modulated neuronal spiking activity. In awake animals, the heartbeat entrained the activity of a subset of olfactory bulb neurons within ~20 milliseconds. Thus, we propose that this fast, intrinsic interoceptive mechanism can modulate perception—for example, during arousal—within the olfactory bulb and possibly across various other brain areas.
 
-![DynamicsClub](/images/DynamicsClub_Jun2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Jul2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,7 +52,6 @@ Polarization is the process by which a macrophage cell commits to a phenotype ba
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jul | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels  | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg) |
 | Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
@@ -68,6 +68,7 @@ Polarization is the process by which a macrophage cell commits to a phenotype ba
 | May 24 | Guest lecture: What do elevated levels of albumin in urine mean? | [**Dr. Aurelie Edwards**](https://www.bu.edu/eng/profile/aurelie-edwards-phd/) (Boston University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35178707/) |
 | May 29 | Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Montana State University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939998/) |
 | Jun 4 | M&M Seminar: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
+| Jun 19 | Uncovering macrophage phenotype transitions using a stochastic modeling framework | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37839584/) |
 
 &nbsp;
 &nbsp; 
