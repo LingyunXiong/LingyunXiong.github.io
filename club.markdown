@@ -33,13 +33,13 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 # Upcoming Event in July: 
 
-### [**Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels**](https://pubmed.ncbi.nlm.nih.gov/38301001/)
+### Journal Club: [**Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels**](https://pubmed.ncbi.nlm.nih.gov/38301001/)
 
-Speaker: [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (Postdoctoral Fellow; University of Regensburg)
+by [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) et al. (University of Regensburg)
 
-Date and Time: TBA
+Date and Time: July 10, 2024 (Wed) at 11am PT / 2pm ET
 
-Virtual event on Zoom
+Virtual event on Zoom (Meeting ID: 985 0808 5605; Passcode: 044575)
 
 Abstract: \
 The transmission of the heartbeat through the cerebral vascular system causes intracranial pressure pulsations. We discovered that arterial pressure pulsations can directly modulate central neuronal activity. In a semi-intact rat brain preparation, vascular pressure pulsations elicited correlated local field oscillations in the olfactory bulb mitral cell layer. These oscillations did not require synaptic transmission but reflected baroreceptive transduction in mitral cells. This transduction was mediated by a fast excitatory mechanosensitive ion channel and modulated neuronal spiking activity. In awake animals, the heartbeat entrained the activity of a subset of olfactory bulb neurons within ~20 milliseconds. Thus, we propose that this fast, intrinsic interoceptive mechanism can modulate perception—for example, during arousal—within the olfactory bulb and possibly across various other brain areas.
