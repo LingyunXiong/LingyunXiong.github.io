@@ -31,20 +31,19 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 &nbsp;
 
-# Upcoming Event in July: 
+# Upcoming Event in August: 
 
-### Journal Club: [**Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels**](https://pubmed.ncbi.nlm.nih.gov/38301001/)
+### Guest lecture: TBA
 
-by [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) et al. (University of Regensburg)
+Speaker: [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) (University of Bergen)
 
-Date and Time: July 10, 2024 (Wed) at 11am PT / 2pm ET
+Date and Time: TBD
 
-Virtual event on Zoom (Meeting ID: 985 0808 5605; Passcode: 044575)
+Virtual event on Zoom.
 
-Abstract: \
-The transmission of the heartbeat through the cerebral vascular system causes intracranial pressure pulsations. We discovered that arterial pressure pulsations can directly modulate central neuronal activity. In a semi-intact rat brain preparation, vascular pressure pulsations elicited correlated local field oscillations in the olfactory bulb mitral cell layer. These oscillations did not require synaptic transmission but reflected baroreceptive transduction in mitral cells. This transduction was mediated by a fast excitatory mechanosensitive ion channel and modulated neuronal spiking activity. In awake animals, the heartbeat entrained the activity of a subset of olfactory bulb neurons within ~20 milliseconds. Thus, we propose that this fast, intrinsic interoceptive mechanism can modulate perception—for example, during arousal—within the olfactory bulb and possibly across various other brain areas.
+Abstract: TBD
 
-![DynamicsClub](/images/DynamicsClub_Jul2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Aug2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -52,7 +51,6 @@ The transmission of the heartbeat through the cerebral vascular system causes in
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) <br /> (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
@@ -69,6 +67,7 @@ The transmission of the heartbeat through the cerebral vascular system causes in
 | May 29 | Matching a network model of the yeast cell cycle to multiple dynamic behaviors of mutant datasets | [**Dr. Breschine Cummins**](https://math.montana.edu/directory/faculty/1582810/breschine-cummins) (Montana State University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939998/) |
 | Jun 4 | M&M Seminar: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
 | Jun 19 | Uncovering macrophage phenotype transitions using a stochastic modeling framework | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37839584/) |
+| Jul 10 | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38301001/) |
 
 &nbsp;
 &nbsp; 
