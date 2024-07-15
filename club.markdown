@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person visit. All are welcome! 
 
-Currently, we have **290** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **291** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is still open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
