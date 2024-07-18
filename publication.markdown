@@ -10,7 +10,7 @@ permalink: /Publications/
 
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
-In A. N. Ford Versypt, R. A. Segal, & S. S. Sindi (Eds.), **Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
+**Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
 
 - [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
 **Lingyun Xiong**\#, Alan Garfinkel, Eric J. Deeds. \
