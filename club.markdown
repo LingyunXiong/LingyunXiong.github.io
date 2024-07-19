@@ -33,15 +33,16 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 # Upcoming Event in August: 
 
-### Guest lecture: TBA
+### [**Emergence of large-scale cell death through ferroptotic trigger waves**](https://pubmed.ncbi.nlm.nih.gov/38987590/)
 
-Speaker: [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) (University of Bergen)
+Speaker: [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (PhD student; Academia Sinica, Taiwan)
 
 Date and Time: TBD
 
 Virtual event on Zoom.
 
-Abstract: TBD
+Abstract:\
+Large-scale cell death is commonly observed during organismal development and in human pathologies. These cell death events extend over great distances to eliminate large populations of cells, raising the question of how cell death can be coordinated in space and time. One mechanism that enables long-range signal transmission is trigger waves, but how this mechanism might be used for death events in cell populations remains unclear. Here we demonstrate that ferroptosis, an iron- and lipid-peroxidation-dependent form of cell death, can propagate across human cells over long distances (≥5 mm) at constant speeds (around 5.5 μm/min) through trigger waves of reactive oxygen species (ROS). Chemical and genetic perturbations indicate a primary role of ROS feedback loops (Fenton reaction, NADPH oxidase signalling and glutathione synthesis) in controlling the progression of ferroptotic trigger waves. We show that introducing ferroptotic stress through suppression of cystine uptake activates these ROS feedback loops, converting cellular redox systems from being monostable to being bistable and thereby priming cell populations to become bistable media over which ROS propagate. Furthermore, we demonstrate that ferroptosis and its propagation accompany the massive, yet spatially restricted, cell death events during muscle remodelling of the embryonic avian limb, substantiating its use as a tissue-sculpting strategy during embryogenesis. Our findings highlight the role of ferroptosis in coordinating global cell death events, providing a paradigm for investigating large-scale cell death in embryonic development and human pathologies.
 
 ![DynamicsClub](/images/DynamicsClub_Aug2024.pdf)
 
@@ -51,6 +52,7 @@ Abstract: TBD
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
+| Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
