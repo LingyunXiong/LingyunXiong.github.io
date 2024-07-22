@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person visit. All are welcome! 
 
-Currently, we have **292** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **293** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is still open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -37,9 +37,9 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 Speaker: [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (PhD student; Academia Sinica, Taiwan)
 
-Date and Time: TBD
+Date and Time: Aug 20, 2024 (Tuesday) at 5pm PT / 8pm ET / 8am TST (next day)
 
-Virtual event on Zoom.
+Virtual event on Zoom (Meeting ID: 960 8405 2306; Passcode: 731431).
 
 Abstract:\
 Large-scale cell death is commonly observed during organismal development and in human pathologies. These cell death events extend over great distances to eliminate large populations of cells, raising the question of how cell death can be coordinated in space and time. One mechanism that enables long-range signal transmission is trigger waves, but how this mechanism might be used for death events in cell populations remains unclear. Here we demonstrate that ferroptosis, an iron- and lipid-peroxidation-dependent form of cell death, can propagate across human cells over long distances (≥5 mm) at constant speeds (around 5.5 μm/min) through trigger waves of reactive oxygen species (ROS). Chemical and genetic perturbations indicate a primary role of ROS feedback loops (Fenton reaction, NADPH oxidase signalling and glutathione synthesis) in controlling the progression of ferroptotic trigger waves. We show that introducing ferroptotic stress through suppression of cystine uptake activates these ROS feedback loops, converting cellular redox systems from being monostable to being bistable and thereby priming cell populations to become bistable media over which ROS propagate. Furthermore, we demonstrate that ferroptosis and its propagation accompany the massive, yet spatially restricted, cell death events during muscle remodelling of the embryonic avian limb, substantiating its use as a tissue-sculpting strategy during embryogenesis. Our findings highlight the role of ferroptosis in coordinating global cell death events, providing a paradigm for investigating large-scale cell death in embryonic development and human pathologies.
