@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person visit. All are welcome! 
 
-Currently, we have **293** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **294** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 Call for 2024 speakers is still open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
 
@@ -23,8 +23,6 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 &nbsp;
 
 # Key References (PDFs are available online): 
-
-[**Nonlinear Dynamics and Chaos**](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) by Steven Strogatz 
 
 [**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([Course Materials](https://modelinginbiology.github.io))
 
@@ -52,7 +50,6 @@ Large-scale cell death is commonly observed during organismal development and in
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug | Guest lecture: TBA | [**Dr. Susanna Röblitz**](https://www.uib.no/en/persons/Susanna.Röblitz) (University of Bergen) |
 | Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
