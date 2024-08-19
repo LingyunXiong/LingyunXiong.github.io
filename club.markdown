@@ -50,7 +50,7 @@ Large-scale cell death is commonly observed during organismal development and in
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep | Causality without correlation in biology | [**Dr. Gerald Pao**](https://www.oist.jp/research/research-units/chaos) (Okinawa Institute for Science and Technology) |
+| Sep | Topic: TBA | Speaker: TBA |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Oct 16 | Oncogenic Kras induces spatiotemporally specific tissue deformation through converting pulsatile into sustained ERK activation | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) <br /> (Yale School of Medicine) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
