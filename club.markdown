@@ -8,8 +8,6 @@ Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss 
 
 Currently, we have **294** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
-Call for 2024 speakers is still open: please fill in the [**form**](https://forms.gle/HuNdCuoJUGktCzQ9A) to indicate your preferences. 
-
 &nbsp;
 &nbsp;
 
@@ -24,7 +22,7 @@ Call for 2024 speakers is still open: please fill in the [**form**](https://form
 
 # Key References (PDFs are available online): 
 
-[**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([Course Materials](https://modelinginbiology.github.io))
+[**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([Teaching Materials](https://modelinginbiology.github.io))
 
 &nbsp;
 &nbsp;
