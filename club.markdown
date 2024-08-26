@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person visit. All are welcome! 
 
-Currently, we have **294** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **295** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -27,20 +27,20 @@ Currently, we have **294** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Upcoming Event in August: 
+# Upcoming Event in September: 
 
-### [**Emergence of large-scale cell death through ferroptotic trigger waves**](https://pubmed.ncbi.nlm.nih.gov/38987590/)
+### [**Automatic monitoring of neural activity with single‐cell resolution in behaving Hydra**](https://pubmed.ncbi.nlm.nih.gov/38429381/)
 
-Speaker: [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (PhD student; Academia Sinica, Taiwan)
+Speaker: [**Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
 
-Date and Time: Aug 20, 2024 (Tuesday) at 5pm PT / 8pm ET / 8am TST (next day)
+Date and Time: TBA
 
-Virtual event on Zoom (Meeting ID: 960 8405 2306; Passcode: 731431).
+Virtual event on Zoom.
 
 Abstract:\
-Large-scale cell death is commonly observed during organismal development and in human pathologies. These cell death events extend over great distances to eliminate large populations of cells, raising the question of how cell death can be coordinated in space and time. One mechanism that enables long-range signal transmission is trigger waves, but how this mechanism might be used for death events in cell populations remains unclear. Here we demonstrate that ferroptosis, an iron- and lipid-peroxidation-dependent form of cell death, can propagate across human cells over long distances (≥5 mm) at constant speeds (around 5.5 μm/min) through trigger waves of reactive oxygen species (ROS). Chemical and genetic perturbations indicate a primary role of ROS feedback loops (Fenton reaction, NADPH oxidase signalling and glutathione synthesis) in controlling the progression of ferroptotic trigger waves. We show that introducing ferroptotic stress through suppression of cystine uptake activates these ROS feedback loops, converting cellular redox systems from being monostable to being bistable and thereby priming cell populations to become bistable media over which ROS propagate. Furthermore, we demonstrate that ferroptosis and its propagation accompany the massive, yet spatially restricted, cell death events during muscle remodelling of the embryonic avian limb, substantiating its use as a tissue-sculpting strategy during embryogenesis. Our findings highlight the role of ferroptosis in coordinating global cell death events, providing a paradigm for investigating large-scale cell death in embryonic development and human pathologies.
+TBA
 
-![DynamicsClub](/images/DynamicsClub_Aug2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Sep2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,6 @@ Large-scale cell death is commonly observed during organismal development and in
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep | Topic: TBA | Speaker: TBA |
 | Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Oct 16 | Oncogenic Kras induces spatiotemporally specific tissue deformation through converting pulsatile into sustained ERK activation | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) <br /> (Yale School of Medicine) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
@@ -66,6 +65,7 @@ Large-scale cell death is commonly observed during organismal development and in
 | Jun 4 | M&M Seminar: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
 | Jun 19 | Uncovering macrophage phenotype transitions using a stochastic modeling framework | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37839584/) |
 | Jul 10 | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38301001/) |
+| Aug 20 | Emergence of large-scale cell death through ferroptotic trigger waves | [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (Academia Sinica)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987590/) |
 
 &nbsp;
 &nbsp; 
