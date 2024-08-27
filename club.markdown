@@ -6,7 +6,7 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by UCLA Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
+Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by UCLA Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
 Currently, we have **295** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
@@ -35,9 +35,9 @@ Currently, we have **295** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
 
-Date and Time: TBA
+Date and Time: Sep 25 (Wed) at 1pm Pacific Time / 4pm Eastern Time
 
-Virtual event on Zoom.
+Virtual event on Zoom (Meeting ID: 928 5186 7036; Passcode: 002273).
 
 Abstract:\
 The ability to record every spike from every neuron in a behaving animal is one of the holy grails of neuroscience. Here, we report coming one step closer towards this goal with the development of an end‐to‐end pipeline that automatically tracks and extracts calcium signals from individual neurons in the cnidarian Hydra vulgaris. We imaged dually labeled (nuclear tdTomato and cytoplasmic GCaMP7s) transgenic Hydra and developed an open‐source Python platform (TraSE‐IN) for the Tracking and Spike Estimation of Individual Neurons in the animal during behavior. The TraSE‐IN platform comprises a series of modules that segments and tracks each nucleus over time and extracts the corresponding calcium activity in the GCaMP channel. Another series of signal processing modules allows robust prediction of individual spikes from each neuron’s calcium signal. This complete pipeline will facilitate the automatic generation and analysis of large‐scale datasets of single‐cell resolution neural activity in Hydra, and potentially other model organisms, paving the way towards deciphering the neural code of an entire animal.
