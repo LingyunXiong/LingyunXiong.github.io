@@ -4,9 +4,9 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Launched in Jan 2022, Dynamics Club is a forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Our monthly seminars are mostly on Zoom, with hybrid access to occasional in-person event. All are welcome! 
+Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Our in-person events are sponsored by UCLA Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
+Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by UCLA Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
 Currently, we have **295** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
