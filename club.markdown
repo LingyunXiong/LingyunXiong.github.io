@@ -31,7 +31,7 @@ Currently, we have **295** members. If you're new, sign up [**here**](http://eep
 
 # Upcoming Event in September: 
 
-### [**Automatic monitoring of neural activity with single‐cell resolution in behaving *Hydra* **](https://pubmed.ncbi.nlm.nih.gov/38429381/)
+### [Automatic monitoring of neural activity with single‐cell resolution in behaving *Hydra*](https://pubmed.ncbi.nlm.nih.gov/38429381/)
 
 Speaker: [**Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
 
