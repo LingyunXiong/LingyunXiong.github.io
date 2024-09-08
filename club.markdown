@@ -6,9 +6,9 @@ permalink: /DynamicsClub/
 
 Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
 
-Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by UCLA Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
+Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **296** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **297** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -31,7 +31,7 @@ Currently, we have **296** members. If you're new, sign up [**here**](http://eep
 
 # Upcoming Event in September: 
 
-### [What can *Hydra* teach us about the role of spontaneous neural activity?](https://pubmed.ncbi.nlm.nih.gov/38429381/)([Review](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0763))
+### [What can *Hydra* teach us about the role of spontaneous neural activity?](https://pubmed.ncbi.nlm.nih.gov/38429381/)
 
 Speaker: [**Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
 
@@ -40,7 +40,7 @@ Date and Time: Sep 25 (Wed) at 1pm Pacific Time / 4pm Eastern Time
 Virtual event on Zoom (Meeting ID: 928 5186 7036; Passcode: 002273).
 
 Abstract:\
-Spontaneous neural activity is one of the most highly conserved features of all nervous systems examined to date, yet its function remains largely unknown. The initial development of transgenic animals expressing GCaMP6s in neurons allowed simultaneous pan-neural imaging of the freshwater polyp Hydra vulgaris at single cell resolution, which revealed a set of anatomically non-overlapping neural ensembles associated with specific behaviors.  Interestingly, this work also revealed the presence of synchronous spontaneous activity throughout the nervous system while the animal is not engaged in any behavior (i.e., is “at rest”), suggesting spontaneous, or “resting state,” neural activity is highly conserved and likely plays an important role in all nervous systems.  We have now generated a transgenic animal expressing cytoplasmic GCaMP7s and nuclear tdTomato, which allows the imaging and automatic tracking of neurons in behaving Hydra at single cell resolution.  In addition to capturing high resolution neural activity, we have also created automatic behavioral tracking models that allow us to quantify individual Hydra behavior.  With these new tools, we have begun exploring the role of spontaneous, or resting state, neural activity in Hydra, testing the hypothesis that low frequency spontaneous neural activity may be critical for coordinating organism-wide neural activity and behavior.  
+Spontaneous neural activity is one of the most highly conserved features of all nervous systems examined to date, yet its function remains largely unknown. The initial development of transgenic animals expressing GCaMP6s in neurons allowed simultaneous pan-neural imaging of the freshwater polyp Hydra vulgaris at single cell resolution, which revealed a set of anatomically non-overlapping neural ensembles associated with specific behaviors.  Interestingly, this work also revealed the presence of synchronous spontaneous activity throughout the nervous system while the animal is not engaged in any behavior (i.e., is “at rest”), suggesting spontaneous, or “resting state,” neural activity is highly conserved and likely plays an important role in all nervous systems.  We have now generated a transgenic animal expressing cytoplasmic GCaMP7s and nuclear tdTomato, which allows the imaging and automatic tracking of neurons in behaving Hydra at single cell resolution.  In addition to capturing high resolution neural activity, we have also created automatic behavioral tracking models that allow us to quantify individual Hydra behavior.  With these new tools, we have begun exploring the role of spontaneous, or resting state, neural activity in Hydra, testing the hypothesis that low frequency spontaneous neural activity may be critical for coordinating organism-wide neural activity and behavior. ([Topical Review](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0763))  
 
 ![DynamicsClub](/images/DynamicsClub_Sep2024.pdf)
 
