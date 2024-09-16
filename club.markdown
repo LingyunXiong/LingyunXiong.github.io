@@ -50,8 +50,8 @@ Spontaneous neural activity is one of the most highly conserved features of all 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Oct 16 | Oncogenic Kras induces spatiotemporally specific tissue deformation through converting pulsatile into sustained ERK activation | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) <br /> (Yale School of Medicine) |
+| Oct 28 | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
