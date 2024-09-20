@@ -67,7 +67,7 @@ Spontaneous neural activity is one of the most highly conserved features of all 
 | Jun 4 | M&M Seminar: p53 dynamics in single cells | [**Dr. Eric Batchelor**](https://batchelorlab.umn.edu) (University of Minnesota)  ||
 | Jun 19 | Uncovering macrophage phenotype transitions using a stochastic modeling framework | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37839584/) |
 | Jul 10 | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38301001/) |
-| Aug 20 | Emergence of large-scale cell death through ferroptotic trigger waves | [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (Academia Sinica)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987590/) |
+| Aug 20 | Emergence of large-scale cell death through ferroptotic trigger waves | [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (Chen Lab; Academia Sinica)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987590/) |
 
 &nbsp;
 &nbsp; 
