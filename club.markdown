@@ -33,7 +33,7 @@ Currently, we have **297** members. If you're new, sign up [**here**](http://eep
 
 ### [What can *Hydra* teach us about the role of spontaneous neural activity?](https://pubmed.ncbi.nlm.nih.gov/38429381/)
 
-Speaker: [**Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
+Speaker: [**Alison Hanson, MD, PhD**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
 
 Date and Time: Sep 25 (Wed) at 1pm Pacific Time / 4pm Eastern Time
 
