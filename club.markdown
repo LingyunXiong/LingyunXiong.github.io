@@ -53,7 +53,7 @@ Spontaneous neural activity is one of the most highly conserved features of all 
 | Oct 16 | Oncogenic Kras induces spatiotemporally specific tissue deformation through converting pulsatile into sustained ERK activation | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) <br /> (Yale School of Medicine) |
 | Oct 28 | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
-| Nov 22 | BRI Interoception Dynamics & Neuroendocrine Seminar | [**Dr. Ann Kennedy**]([https://celldynamicslab.mystrikingly.com/#people](https://sites.northwestern.edu/kennedylab/)) <br /> (Scripps Institute) |
+| Nov 22 | BRI Interoception Dynamics & Neuroendocrine Seminar | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
