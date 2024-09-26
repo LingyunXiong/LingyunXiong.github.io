@@ -29,20 +29,20 @@ Currently, we have **300** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Upcoming Event in September: 
+# Upcoming Event in October: 
 
-### [What can *Hydra* teach us about the role of spontaneous neural activity?](https://pubmed.ncbi.nlm.nih.gov/38429381/)
+### [**Decoding Cellular and Signaling Dynamics: Building and Disrupting Tissue Architecture**](https://pubmed.ncbi.nlm.nih.gov/38689013/)
 
-Speaker: [**Alison Hanson, MD, PhD**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Postdoctoral Scientist; Columbia University)
+Speaker: [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) (Research Scientist; Yale School of Medicine)
 
-Date and Time: Sep 25 (Wed) at 1pm Pacific Time / 4pm Eastern Time
+Date and Time: Oct 16 (Wed) at 11am Pacific Time / 2pm Eastern Time
 
-Virtual event on Zoom (Meeting ID: 928 5186 7036; Passcode: 002273).
+Virtual event on Zoom (Meeting ID: 930 6784 1927; Passcode: 964073)
 
 Abstract:\
-Spontaneous neural activity is one of the most highly conserved features of all nervous systems examined to date, yet its function remains largely unknown. The initial development of transgenic animals expressing GCaMP6s in neurons allowed simultaneous pan-neural imaging of the freshwater polyp Hydra vulgaris at single cell resolution, which revealed a set of anatomically non-overlapping neural ensembles associated with specific behaviors.  Interestingly, this work also revealed the presence of synchronous spontaneous activity throughout the nervous system while the animal is not engaged in any behavior (i.e., is “at rest”), suggesting spontaneous, or “resting state,” neural activity is highly conserved and likely plays an important role in all nervous systems.  We have now generated a transgenic animal expressing cytoplasmic GCaMP7s and nuclear tdTomato, which allows the imaging and automatic tracking of neurons in behaving Hydra at single cell resolution.  In addition to capturing high resolution neural activity, we have also created automatic behavioral tracking models that allow us to quantify individual Hydra behavior.  With these new tools, we have begun exploring the role of spontaneous, or resting state, neural activity in Hydra, testing the hypothesis that low frequency spontaneous neural activity may be critical for coordinating organism-wide neural activity and behavior. ([Topical Review](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0763))  
+Proper tissue architecture is essential for maintaining normal tissue function. Its formation and upkeep rely on the orchestrated behaviors of tissue resident cells, such as stem cells and their niche. When this coordination is disrupted by oncogenic mutations, it can lead to architectural abnormalities and the development of cancer. While many genes and pathways involved in these processes have been identified, how cells dynamically act and communicate to either build or destabilize tissue remains poorly understood. My research employs intravital imaging to tackle these questions and unravel the principles of tissue regulation related to tissue regeneration and oncogenesis using the mouse hair follicle as a mammalian model system. Over the past few years, my studies have revealed that despite the molecular heterogeneity of hair follicle stem cells, individual stem cells and their progeny flexibly differentiate into various hair lineages based on the spatial cues they receive (PMID: 37419106). Additionally, the hair follicle mesenchyme undergoes dynamic architectural remodeling to enhance its structural robustness and fine-tune epithelial functions (PMID: 37419106). My latest work utilizes dynamic ERK signaling sensor to investigate how oncogenic mutations disrupt tissue architecture. This research shows that *Kras<sup>G12D</sup>*, a mutation that can lead to squamous cell carcinoma, converts ERK signal in stem cells from pulsatile to sustained, resulting in spatiotemporally specific tissue deformation (PMID: 38689013). By combining drug treatment with longitudinal imaging and time lapse analyses, I demonstrated that temporarily interrupting sustained ERK signal reverts this tissue deformation by modulating specific features of cell migration and division. This work underscores the critical role of signaling dynamics in coordinating cell behaviors to maintain normal tissue architecture.
 
-![DynamicsClub](/images/DynamicsClub_Sep2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,7 +50,6 @@ Spontaneous neural activity is one of the most highly conserved features of all 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct 16 | Oncogenic Kras induces spatiotemporally specific tissue deformation through converting pulsatile into sustained ERK activation | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) <br /> (Yale School of Medicine) |
 | Oct 28 | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov 22 | BRI Interoception Dynamics Guest Lecture | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
@@ -69,6 +68,7 @@ Spontaneous neural activity is one of the most highly conserved features of all 
 | Jun 19 | Uncovering macrophage phenotype transitions using a stochastic modeling framework | [**Dr. Anna-Simone J. Frank**](https://www.uib.no/en/persons/Anna-Simone.Josefine.Frank) (University of Bergen)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37839584/) |
 | Jul 10 | Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels | [**Dr. Luna Jammal Salameh**](https://www.linkedin.com/in/luna-jammal-salameh-50852b128/?originalSubdomain=il) (University of Regensburg)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38301001/) |
 | Aug 20 | Emergence of large-scale cell death through ferroptotic trigger waves | [**Hannah K. C. Co**](https://celldynamicslab.mystrikingly.com/#people) (Chen Lab; Academia Sinica)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987590/) |
+| Sep 25 | What can *Hydra* teach us about the role of spontaneous neural activity? | [**Dr. Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd)) (Columbia University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38429381/) |
 
 &nbsp;
 &nbsp; 
