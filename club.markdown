@@ -4,11 +4,11 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. All are welcome! 
+Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from Fall 2024, this is also the home for the [*Interoception Dynamics*](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **300** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **302** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -17,7 +17,6 @@ Currently, we have **300** members. If you're new, sign up [**here**](http://eep
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI (Microscopy).
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
 - A postdoctoral position is available with [**Dr. Jeremy Purvis**](https://www.med.unc.edu/genetics/purvislab/) at UNC Chapel Hill ([Details](https://www.med.unc.edu/genetics/purvislab/opportunities/)).
-- A postdoctoral position is available with [**Dr. Sheng-hong Chen**](https://celldynamicslab.mystrikingly.com) at Academia Sinica, Taiwan ([Details](https://drive.google.com/file/d/1XdqhF4u-28kwuuXTBc3hy07omVEm7n3n/view?usp=sharing)).
 
 &nbsp;
 &nbsp;
