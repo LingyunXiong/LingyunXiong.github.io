@@ -15,6 +15,7 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI (Microscopy).
+- A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions)).
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
 - A postdoctoral position is available with [**Dr. Jeremy Purvis**](https://www.med.unc.edu/genetics/purvislab/) at UNC Chapel Hill ([Details](https://www.med.unc.edu/genetics/purvislab/opportunities/)).
 
@@ -28,9 +29,9 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Upcoming Event in October: 
+# Upcoming Events in October: 
 
-### [**Decoding Cellular and Signaling Dynamics: Building and Disrupting Tissue Architecture**](https://pubmed.ncbi.nlm.nih.gov/38689013/)
+### 1. [**Decoding Cellular and Signaling Dynamics: Building and Disrupting Tissue Architecture**](https://pubmed.ncbi.nlm.nih.gov/38689013/)
 
 Speaker: [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) (Research Scientist; Yale School of Medicine)
 
@@ -43,13 +44,25 @@ Proper tissue architecture is essential for maintaining normal tissue function. 
 
 ![DynamicsClub](/images/DynamicsClub_Oct2024.pdf)
 
+### 2. **Connecting Local and Global Scales: Charting the universal bifurcation structure of neurons and its connection to network synchronization**
+
+Speaker: [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) (Group Leader; Leibniz Institute for Resilience, Mainz)
+
+Date and Time: Oct 28 (Mon) at 9am Pacific Time / 12pm Eastern Time / 5pm Central European Time
+
+Virtual event on Zoom (Meeting ID: 937 9450 0202; Passcode: 003367)
+
+Abstract:\
+Neurons have traditionally been classified into two types depending on their frequency-input curve. Both types are associated with a particular dynamic transition from rest to spiking. Our work highlights a third transition, for which we found experimental evidence in hippocampal slices. For typical Hodgkin-Huxley-like neuron model, we present a universal bifurcation structure, with the separation of time-scale between voltage and ion channel dynamics as one of the bifurcation parameters. We predict that the strongest changes in synchronization with small parameter changes occur at a particular co-dimension two bifurcation (saddle-node loop bifurcation), and we present characteristics of this transition, from changes in firing rate to phase response curve and synchronization.
+
+![DynamicsClub2](/images/DynamicsClub_Oct2024_2.pdf)
+
 &nbsp;
 &nbsp;
 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct 28 | Homoclinic action potentials in neural encoding and synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) <br /> (Leibniz Institute for Resilience, Mainz) |
 | Nov 22 | BRI Interoception Dynamics Guest Lecture | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
 | Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
