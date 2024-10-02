@@ -35,7 +35,7 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) (Research Scientist; Yale School of Medicine)
 
-Date and Time: Oct 16 (Wed) at 11am Pacific Time / 2pm Eastern Time
+Date and Time: **Oct 16 (Wed)** at 11am Pacific Time / 2pm Eastern Time
 
 Virtual event on Zoom (Meeting ID: 930 6784 1927; Passcode: 964073)
 
@@ -44,11 +44,11 @@ Proper tissue architecture is essential for maintaining normal tissue function. 
 
 ![DynamicsClub](/images/DynamicsClub_Oct2024.pdf)
 
-### 2. **Connecting Local and Global Scales: Charting the universal bifurcation structure of neurons and its connection to network synchronization**
+### 2. [**Connecting Local and Global Scales: Charting the universal bifurcation structure of neurons and its connection to network synchronization**](https://pubmed.ncbi.nlm.nih.gov/35803913/)
 
 Speaker: [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) (Group Leader; Leibniz Institute for Resilience, Mainz)
 
-Date and Time: Oct 28 (Mon) at 9am Pacific Time / 12pm Eastern Time / 5pm Central European Time
+Date and Time: **Oct 28 (Mon)** at 9am Pacific Time / 12pm Eastern Time / 5pm Central European Time
 
 Virtual event on Zoom (Meeting ID: 937 9450 0202; Passcode: 003367)
 
@@ -64,7 +64,6 @@ Neurons have traditionally been classified into two types depending on their fre
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Nov 22 | BRI Interoception Dynamics Guest Lecture | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
-| Nov | Plausible, robust biological oscillations through allelic buffering | [**Dr. Feng-Shu Hsieh**](https://celldynamicslab.mystrikingly.com/#people) <br /> (Academia Sinica) |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
