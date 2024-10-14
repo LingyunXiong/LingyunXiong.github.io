@@ -63,7 +63,7 @@ Neurons have traditionally been classified into two types depending on their fre
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov 22 | BRI Interoception Dynamics Guest Lecture | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
+| Nov 22 | Interoception Dynamics Guest Lecture: A dynamical perspective on the origin of nervous systems | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) <br /> (Scripps Institute) |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
 
 # Past Events in 2024
