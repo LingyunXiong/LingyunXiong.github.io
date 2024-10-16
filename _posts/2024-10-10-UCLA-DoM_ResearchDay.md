@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview at 2024 UCLA DoM Research Day"
+title: "Interview at UCLA DoM Research Day"
 date:   2024-10-10 
 ---
 
