@@ -29,7 +29,7 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Upcoming Event in October: 
+# Interoception Dynamics in October: 
 
 ### [**Connecting Local and Global Scales: Charting the universal bifurcation structure of neurons and its connection to network synchronization**](https://pubmed.ncbi.nlm.nih.gov/35803913/)
 
