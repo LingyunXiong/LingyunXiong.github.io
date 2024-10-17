@@ -17,7 +17,6 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery)).
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions)).
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
-- A postdoctoral position is available with [**Dr. Jeremy Purvis**](https://www.med.unc.edu/genetics/purvislab/) at UNC Chapel Hill ([Details](https://www.med.unc.edu/genetics/purvislab/opportunities/)).
 
 &nbsp;
 &nbsp;
