@@ -50,6 +50,7 @@ TBA
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) <br /> (Rockefeller University) |
+| Jan | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) <br /> (Harvard Medical School) |
 
 # Past Events in 2024
 
