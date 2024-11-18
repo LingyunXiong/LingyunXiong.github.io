@@ -39,7 +39,7 @@ Date and Time: **Nov 22 (Friday)** at 3:30-5pm Pacific Time
 In-person event at UCLA: **Gonda Research Center 1357**	
 
 Abstract:\
-How did the first nervous systems arise, and what was their function? While several theories on the origin of nervous systems exist, new techniques for large-scale neural recordings in diverse animals enable fresh perspective into the potential dynamics and function of early nervous systems. Building on our study of the neural dynamics of the jellyfish cousin Clytia hemisphaerica, we hypothesize that endogenous activity, including oscillations, was a key feature of early nervous systems. Here, we will discuss what questions can be posed about the organization and modulation of endogenous activity, and how these questions can be addressed through a combination of theory and experiment.
+How did the first nervous systems arise, and what was their function? While several theories on the origin of nervous systems exist, new techniques for large-scale neural recordings in diverse animals enable fresh perspective into the potential dynamics and function of early nervous systems. Building on our study of the neural dynamics of the jellyfish cousin *Clytia hemisphaerica*, we hypothesize that endogenous activity, including oscillations, was a key feature of early nervous systems. Here, we will discuss what questions can be posed about the organization and modulation of endogenous activity, and how these questions can be addressed through a combination of theory and experiment.
 
 ![DynamicsClub](/images/DynamicsClub_Nov2024.pdf)
 
