@@ -34,12 +34,12 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) (Associate Professor; Scripps Institute)
 
-Date and Time: **Nov 22 (Friday)** at 3:30pm Pacific Time 
+Date and Time: **Nov 22 (Friday)** at 3:30-5pm Pacific Time 
 
-In-person event at UCLA: **Gonda 1357**	
+In-person event at UCLA: **Gonda Research Center 1357**	
 
 Abstract:\
-TBA
+New techniques for large-scale neural recordings from diverse animals are reshaping comparative systems neuroscience. This growth necessitates fresh conceptual paradigms for comparing neural circuits and activity patterns. Here, we take a systems neuroscience approach to early neural evolution, emphasizing the importance of considering nervous systems as multiply modulated, continuous dynamical systems. We argue that endogenous neural activity likely arose early in evolution to organize behaviors and internal states at the organismal level. This connects to a rich literature on the physiology of endogenous activity in small neural circuits: a field that has built links between data and dynamical systems models. Such models offer mechanistic insight and have robust predictive power. Using these tools, we suggest that the emergence of intrinsically active neurons and periodic dynamics played a critical role in the ascendancy of nervous systems and that dynamical systems present an appealing framework for comparing across species.
 
 ![DynamicsClub](/images/DynamicsClub_Nov2024.pdf)
 
