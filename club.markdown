@@ -28,20 +28,20 @@ Currently, we have **302** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics Guest Lecture in November: 
+# Dynamics Club in December: 
 
-### [**A dynamical perspective on the origin of nervous systems**](https://www.sciencedirect.com/science/article/abs/pii/S2352154624000883)
+### **Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development**
 
-Speaker: [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) (Associate Professor; Scripps Institute)
+Speaker: [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) (Postdoctoral Researcher; Rockefeller University)
 
-Date and Time: **Nov 22 (Friday)** at 3:30-5pm Pacific Time 
+Date and Time: **Dec 11 (Wed)** at 11am Pacific Time / 2pm Eastern Time
 
-In-person event at UCLA: **Gonda Research Center 1357**	
+Hybrid event: **UCLA Boyer Hall 130** and on Zoom (Meeting ID: 923 4430 2570; Passcode: 443484)	
 
 Abstract:\
-How did the first nervous systems arise, and what was their function? While several theories on the origin of nervous systems exist, new techniques for large-scale neural recordings in diverse animals enable fresh perspective into the potential dynamics and function of early nervous systems. Building on our study of the neural dynamics of the jellyfish cousin *Clytia hemisphaerica*, we hypothesize that endogenous activity, including oscillations, was a key feature of early nervous systems. Here, we will discuss what questions can be posed about the organization and modulation of endogenous activity, and how these questions can be addressed through a combination of theory and experiment.
+TBA
 
-![DynamicsClub](/images/DynamicsClub_Nov2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Dec2024.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,6 @@ How did the first nervous systems arise, and what was their function? While seve
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) (Rockefeller University) |
 | Jan | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
 | Feb 7 | Parallel neural pathways control sodium consumption and taste valence | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) <br /> (Caltech) |
 
@@ -69,6 +68,7 @@ How did the first nervous systems arise, and what was their function? While seve
 | Sep 25 | What can *Hydra* teach us about the role of spontaneous neural activity? | [**Dr. Alison Hanson**](https://braininitiative.nih.gov/ali-hanson-md-phd) (Columbia University)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38429381/) |
 | Oct 16 | Decoding cellular and signaling dynamics: building and disrupting tissue architecture | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) (Yale School of Medicine)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38689013/) |
 | Oct 28 | Charting the universal bifurcation structure of neurons and its connection to network synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) (Leibniz Institute for Resilience, Mainz)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35803913/) |
+| Nov 22 | S2C Seminar: A dynamical perspective on the origin of nervous systems | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) (Scripps Research Institute)  ||
 
 &nbsp;
 &nbsp; 
