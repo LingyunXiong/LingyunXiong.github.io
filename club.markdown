@@ -49,8 +49,8 @@ TBA
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jan | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
 | Feb 7 | Parallel neural pathways control sodium consumption and taste valence | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) <br /> (Caltech) |
+| Mar 5 | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
 
 # Past Events in 2024
 
