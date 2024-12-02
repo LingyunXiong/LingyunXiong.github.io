@@ -36,10 +36,10 @@ Speaker: [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/fa
 
 Date and Time: **Dec 11 (Wed)** at 11am Pacific Time / 2pm Eastern Time
 
-Hybrid event: **UCLA Boyer Hall 130** and on Zoom (Meeting ID: 923 4430 2570; Passcode: 443484)	
+Hybrid event: **UCLA Boyer Hall 529** and on Zoom (Meeting ID: 923 4430 2570; Passcode: 443484)	
 
 Abstract:\
-TBA
+“Everything should be as simple as it can be, but not simpler.” In this talk, I will present three research vignettes showcasing how a physics-inspired approach can be used to investigate the nonlinear dynamics governing embryo development. In the first vignette, I will use the mathematical framework of dynamical systems theory to study how genetic oscillations are translated into stable gene expression patterns crucial for the formation of the vertebrae precursors.  Here, dynamical systems theory allows to derive generic principles that do not depend on the details of a specific model. In the second vignette, I will focus on the genetic oscillations involved in the vertebrae precursors’ formation. To explain the surprising experimental results obtained by my collaborators regarding these oscillations’ synchronization, we minimally updated the most commonly used coupled phase oscillator framework. Finally, I will describe unpublished experiments probing the interaction between the biochemical and the biomechanical signals that organize the three germ layers during gastrulation. To account for these new experimental data, I built upon mathematical models of gene regulatory networks and incorporated biomechanical signals arising from tissue tension. In all, these vignettes demonstrate that devising simple representations of biological phenomena allows to derive generic principles, irrespective of a model's specifics.
 
 ![DynamicsClub](/images/DynamicsClub_Dec2024.pdf)
 
