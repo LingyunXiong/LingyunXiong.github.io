@@ -51,7 +51,7 @@ cAMP signaling plays a central role in how the heart responds to sympathetic sti
 | **Date** | **Topic** | **Speaker(s)** |
 | Feb 7 | Parallel neural pathways control sodium consumption and taste valence | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) <br /> (Caltech) |
 | Mar 5 | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
-| Mar 19 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (University of Notre Dame) |
+| Mar 19 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (Notre Dame) |
 | Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Washington University in St. Louis) |
 
 # Past Events in 2024
