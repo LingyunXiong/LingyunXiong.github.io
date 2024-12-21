@@ -28,20 +28,20 @@ Currently, we have **306** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in December: 
+# Interoception Dynamics in January: 
 
-### **Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development**
+### [**Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time**](https://pubmed.ncbi.nlm.nih.gov/36662864/)
 
-Speaker: [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) (Postdoctoral Researcher; Rockefeller University)
+Speaker: [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (Postdoctoral Scholar; UC Davis)
 
-Date and Time: **Dec 11 (Wed)** at 11am Pacific Time / 2pm Eastern Time
+Date and Time: **Jan 22 (Wed)** at 11am Pacific Time / 2pm Eastern Time
 
-Hybrid event: **UCLA Boyer Hall 529** and on Zoom (Meeting ID: 923 4430 2570; Passcode: 443484)	
+Virtual event on Zoom (Meeting ID: 943 5316 3896; Passcode: 181904)	
 
 Abstract:\
-“Everything should be as simple as it can be, but not simpler.” In this talk, I will present three research vignettes showcasing how a physics-inspired approach can be used to investigate the nonlinear dynamics governing embryo development. In the first vignette, I will use the mathematical framework of dynamical systems theory to study how genetic oscillations are translated into stable gene expression patterns crucial for the formation of the vertebrae precursors.  Here, dynamical systems theory allows to derive generic principles that do not depend on the details of a specific model. In the second vignette, I will focus on the genetic oscillations involved in the vertebrae precursors’ formation. To explain the surprising experimental results obtained by my collaborators regarding these oscillations’ synchronization, we minimally updated the most commonly used coupled phase oscillator framework. Finally, I will describe unpublished experiments probing the interaction between the biochemical and the biomechanical signals that organize the three germ layers during gastrulation. To account for these new experimental data, I built upon mathematical models of gene regulatory networks and incorporated biomechanical signals arising from tissue tension. In all, these vignettes demonstrate that devising simple representations of biological phenomena allows to derive generic principles, irrespective of a model's specifics.
+cAMP signaling plays a central role in how the heart responds to sympathetic stimulation, fine-tuning cellular activity to maintain function during stress. While much of our understanding comes from studies on isolated cells, my work focuses on capturing these dynamics in the intact heart, where spatial organization and tissue-level interactions are critical for normal function. Using a cutting-edge optical imaging platform and transgenic mice with a cardiac-specific FRET-based cAMP biosensor, my work reveals how cAMP dynamics vary across regions of the whole heart in real-time. This approach has uncovered striking sex-specific differences in cAMP signaling and how these variations contribute to arrhythmogenesis in heart failure. In this talk, I’ll highlight how advanced imaging offers insights into how signaling heterogeneity contributes to cardiac health and disease.
 
-![DynamicsClub](/images/DynamicsClub_Dec2024.pdf)
+![DynamicsClub](/images/DynamicsClub_Jan2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -71,6 +71,7 @@ Abstract:\
 | Oct 16 | Decoding cellular and signaling dynamics: building and disrupting tissue architecture | [**Dr. Tianchi Xin**](https://medicine.yale.edu/profile/tianchi-xin/) (Yale School of Medicine)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38689013/) |
 | Oct 28 | Charting the universal bifurcation structure of neurons and its connection to network synchronization | [**Dr. Janina Hesse**](https://lir-mainz.de/en/mitarbeiter/janina-hesse) (Leibniz Institute for Resilience, Mainz)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35803913/) |
 | Nov 22 | S2C Seminar: A dynamical perspective on the origin of nervous systems | [**Dr. Ann Kennedy**](https://sites.northwestern.edu/kennedylab/) (Scripps Research Institute)  ||
+| Dec 11 | Nonlinear dynamics of pattern formation and of oscillator synchronization during embryonic development | [**Dr. Laurent Jutras-Dubé**](https://www2.rockefeller.edu/research/faculty/labmembers/AliBrivanlou/) (Rockefeller University)  ||
 
 &nbsp;
 &nbsp; 
