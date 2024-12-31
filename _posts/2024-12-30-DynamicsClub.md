@@ -6,12 +6,9 @@ date:   2024-12-30
 
 ![DynamicsClub](/images/DynamicsClub_2024summary.jpg)
 
-It's another year full of [**Dynamics Club**](https://lingyunxiong.github.io/DynamicsClub/)! In 2024, we’ve had a total of 15 events, including 2 department seminars and 3 in-person visits to UCLA. Apart from general topics in biology and physiology, Dynamics Club hosted 4 themed sessions on [*Interoception Dynamics*](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c). We acknowledge generous support from the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
+It's another year full of [**Dynamics Club**](https://lingyunxiong.github.io/DynamicsClub/)! In 2024, we’ve had a total of 15 events, including 2 department seminars and 3 in-person visits to UCLA. Apart from general topics in biology and physiology, Dynamics Club hosted 4 themed sessions on [*Interoception Dynamics*](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c). Congrats to all the speakers for the stimulating talks and thank everyone for participation! 
 
-Congrats to all the speakers for the stimulating talks and thank everyone for participation! Looking forward to upcoming discussion in 2025.
-
-&nbsp;
-&nbsp;
+We acknowledge generous support from the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) |
