@@ -9,11 +9,11 @@ layout: home
 
 ## **Homeodynamics in Health and Disease**
 
-Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell contractility at the cellular and tissue level, hormonal regulation across organ systems, to animal aggregation and migration at the ecological level. Contrary to conventional thinking, the doctrine of homeostasis proves far from sufficient to describe or explain these highly dynamic phenomena, especially in physiology. My research applies dynamical systems theory to study the mechanism and function of biological oscillations -- by integrating genetic, molecular, and biophysical evidence -- and I use techniques from nonlinear dynamics to evaluate the mathematical structure underlying the transition from health to disease.
+Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell contractility at the cellular and tissue level, hormonal regulation across organ systems, to animal aggregation and migration at the ecological level. Contrary to conventional thinking, the doctrine of homeostasis proves far from sufficient to describe or explain these highly dynamic phenomena, especially in physiology. My research applies dynamical systems theory to study the mechanisms and functions of biological oscillations and I use techniques from nonlinear dynamics to evaluate the mathematical structure underlying the transition from health to disease.
 
 ## **Current Research Focus**
 - Mathematical modeling of renal physiology
-- Physiological dynamics via *in vivo* imaging (with the [Porat-Shliom lab](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#team) at NIH/NCI)
+- Physiological dynamics via *in vivo* imaging 
 - Comparative studies of organismal physiology
 - Network and dynamical modeling of cell fate transition 
 
