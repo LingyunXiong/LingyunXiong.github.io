@@ -11,7 +11,7 @@ It's another year full of [**Dynamics Club**](https://lingyunxiong.github.io/Dyn
 We acknowledge generous support from the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
-| Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v2) |
+| Jan 10 | Optimal transport in single-cell genomics with moscot | [**Dominik Klein**](https://www.linkedin.com/in/dominik-klein-8ba2b6179/?originalSubdomain=de) (Theis Lab; Helmholtz Munich)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39843746/) |
 | Feb 12 | Context-dependent regulation of lipid accumulation in adipocytes by a HIF1a-PPARg feedback network | [**Dr. Michael Zhao**](https://www.embl.org/people/person/michael-zhao/) (EMBL)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37995680/) |
 | Mar 20 | A bioelectrical phase transition patterns the first vertebrate heartbeats | [**Bill Jia**](https://chemistry.harvard.edu/people/bill-jia) (Cohen/Megason Lab; Harvard)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37758945/) |
 | Apr 24 | Modeling inter-individual differences in circadian timekeeping based on wrist-wearable data | [**Dr. Ruby Kim**](https://rubyshkim.github.io) (University of Michigan) ||
