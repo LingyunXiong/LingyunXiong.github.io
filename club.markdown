@@ -29,7 +29,7 @@ Currently, we have **310** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in January: 
+# Interoception Dynamics in Febuary: 
 
 ### [**State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance**](https://pubmed.ncbi.nlm.nih.gov/37989313/)
 
