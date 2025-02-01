@@ -14,10 +14,10 @@ Currently, we have **310** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
-- A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems)).
-- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery)).
-- A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions)).
-- A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/)).
+- A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
+- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#biography) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
+- A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
+- A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/))
 
 &nbsp;
 &nbsp;
@@ -35,9 +35,9 @@ Currently, we have **310** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Graduate Student, Oka Lab; Caltech)
 
-Date and Time: **Feb 7 (Friday)** at 11am Pacific Time / 2pm Eastern Time
+Date and Time: **Feb 7 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: Boyer Hall 529 and on Zoom (Meeting ID: 945 2654 6202; Passcode: 960725)	
+Hybrid event: **Boyer Hall 529** and on Zoom (Meeting ID: 945 2654 6202; Passcode: 960725)	
 
 Abstract:\
 Taste is perceived distinctively with different internal states and hormone levels. Human studies have revealed a shifted perception of multiple tastes, during transient physiology states including hunger, thirst, satiety, and long-term states including pregnancy, malnutrition and aging. However, the body-brain-axis of hormone regulation, internal state change, and modified taste threshold remained unclear. Sodium appetite and ingestion offers an excellent platform to address this question. The hedonic value of salt fundamentally changes depending on the internal state. High concentrations of salt induce innate aversion under sated states, whereas such aversive stimuli transform into appetitive ones under sodium depletion. Using transcriptomics state-to-cell-type mapping and neural manipulations, we show that positive and negative valences of salt are controlled by anatomically distinct neural circuits in the mammalian brain. The hindbrain interoceptive circuit regulates sodium-specific appetitive drive while behavioral tolerance of aversive salts is encoded by a dedicated class of neurons in the forebrain lamina terminalis (LT) expressing prostaglandin E2 (PGE2) receptor, Ptger3. We show that these LT neurons regulate salt tolerance by selectively modulating aversive taste sensitivity partly through a PGE2-Ptger3 axis. These results reveal the bimodal regulation of appetitive and tolerance signals toward salt, which together dictate the amount of sodium consumption under different internal states.
