@@ -4,11 +4,11 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from Fall 2024, this is also the home for the [*Interoception Dynamics*](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
+Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from Fall 2024, this is also the home for the [Interoception Dynamics](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **310** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **311** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
