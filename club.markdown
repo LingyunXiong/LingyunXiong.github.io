@@ -49,7 +49,7 @@ Taste is perceived distinctively with different internal states and hormone leve
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 5 | Temporal regulation of gene expression through integration of p53 dynamics and modifications | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
+| Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (Notre Dame) |
 | Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Washington University in St. Louis) |
 
