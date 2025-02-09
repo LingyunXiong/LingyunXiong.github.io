@@ -8,7 +8,7 @@ Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists 
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **311** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **312** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -28,20 +28,20 @@ Currently, we have **311** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in February: 
+# Dynamics Club in March: 
 
-### [**State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance**](https://pubmed.ncbi.nlm.nih.gov/37989313/)
+### [**Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/39454005/)
 
-Speaker: [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Graduate Student, Oka Lab; Caltech)
+Speaker: [**Dan Lu**](https://www.lahavlab.com/dan-lu) (Postdoctoral Research Fellow; Harvard Medical School)
 
-Date and Time: **Feb 7 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **March 5 (Wed)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: **Boyer Hall 529** and on Zoom (Meeting ID: 945 2654 6202; Passcode: 960725)	
+Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 945 2654 6202; Passcode: 960725)	
 
 Abstract:\
-Taste is perceived distinctively with different internal states and hormone levels. Human studies have revealed a shifted perception of multiple tastes, during transient physiology states including hunger, thirst, satiety, and long-term states including pregnancy, malnutrition and aging. However, the body-brain-axis of hormone regulation, internal state change, and modified taste threshold remained unclear. Sodium appetite and ingestion offers an excellent platform to address this question. The hedonic value of salt fundamentally changes depending on the internal state. High concentrations of salt induce innate aversion under sated states, whereas such aversive stimuli transform into appetitive ones under sodium depletion. Using transcriptomics state-to-cell-type mapping and neural manipulations, we show that positive and negative valences of salt are controlled by anatomically distinct neural circuits in the mammalian brain. The hindbrain interoceptive circuit regulates sodium-specific appetitive drive while behavioral tolerance of aversive salts is encoded by a dedicated class of neurons in the forebrain lamina terminalis (LT) expressing prostaglandin E2 (PGE2) receptor, Ptger3. We show that these LT neurons regulate salt tolerance by selectively modulating aversive taste sensitivity partly through a PGE2-Ptger3 axis. These results reveal the bimodal regulation of appetitive and tolerance signals toward salt, which together dictate the amount of sodium consumption under different internal states.
+The tumour suppressor p53 is activated by a range of cellular stresses including DNA damage, oncogenic signals, and nutrient deprivation. Upon activation, p53 transcriptionally upregulates an extensive repertoire of genes including those affecting cellular outcomes such as cell cycle arrest, senescence, and apoptosis. What remains unclear however is how information regarding the nature of the upstream stress is conveyed through p53 to elicit the appropriate dynamic downstream responses. In this talk, I describe how differences in p53 temporal dynamics (protein expression patterns) and changes in combinatorial p53 post-translational modifications, collectively influence gene expression and cell fates. The interplay between alterations in dynamics and modifications may serve as broader mechanism for the temporal organization of cellular responses. 
 
-![DynamicsClub](/images/DynamicsClub_Feb2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2025_DL.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,14 +49,16 @@ Taste is perceived distinctively with different internal states and hormone leve
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dr. Dan Lu**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (Notre Dame) |
 | Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Washington University in St. Louis) |
+| May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) |
+| Jun | Mechano-Electric Coupling and Traumatic Brain Injury | [**Dr. Casey Adams**](https://vet.purdue.edu/cpr/team.php) (Purdue) |
 
 # Past Events in 2025:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 22 | Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time | [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36662864/) |
+| Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
 
 &nbsp;
 &nbsp; 
