@@ -36,7 +36,7 @@ Speaker: [**Dan Lu**](https://www.lahavlab.com/dan-lu) (Postdoctoral Research Fe
 
 Date and Time: **March 5 (Wed)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 945 2654 6202; Passcode: 960725)	
+Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 959 4006 4917; Passcode: 271104)	
 
 Abstract:\
 The tumour suppressor p53 is activated by a range of cellular stresses including DNA damage, oncogenic signals, and nutrient deprivation. Upon activation, p53 transcriptionally upregulates an extensive repertoire of genes including those affecting cellular outcomes such as cell cycle arrest, senescence, and apoptosis. What remains unclear however is how information regarding the nature of the upstream stress is conveyed through p53 to elicit the appropriate dynamic downstream responses. In this talk, I describe how differences in p53 temporal dynamics (protein expression patterns) and changes in combinatorial p53 post-translational modifications, collectively influence gene expression and cell fates. The interplay between alterations in dynamics and modifications may serve as broader mechanism for the temporal organization of cellular responses. 
@@ -50,8 +50,8 @@ The tumour suppressor p53 is activated by a range of cellular stresses including
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (Notre Dame) |
-| Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Washington University in St. Louis) |
-| May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) |
+| Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU in St. Louis) |
+| May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | Jun | Mechano-Electric Coupling and Traumatic Brain Injury | [**Dr. Casey Adams**](https://vet.purdue.edu/cpr/team.php) (Purdue) |
 
 # Past Events in 2025:
