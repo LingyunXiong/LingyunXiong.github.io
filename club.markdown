@@ -49,10 +49,10 @@ The tumour suppressor p53 is activated by a range of cellular stresses including
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) (Notre Dame) |
+| Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) <br /> (Notre Dame) |
 | Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU in St. Louis) |
 | May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
-| Jun | Mechano-Electric Coupling and Traumatic Brain Injury | [**Dr. Casey Adams**](https://vet.purdue.edu/cpr/team.php) (Purdue) |
+| Jun | Mechano-Electric Coupling and Traumatic Brain Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) (Purdue) |
 
 # Past Events in 2025:
 
