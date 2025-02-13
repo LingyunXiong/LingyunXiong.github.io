@@ -32,7 +32,7 @@ Currently, we have **312** members. If you're new, sign up [**here**](http://eep
 
 ### [**Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/39454005/)
 
-Speaker: [**Dan Lu**](https://www.lahavlab.com/dan-lu) (Postdoctoral Research Fellow; Harvard Medical School)
+Speaker: [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Postdoctoral Research Fellow; Harvard Medical School)
 
 Date and Time: **March 5 (Wed)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
