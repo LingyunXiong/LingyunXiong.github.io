@@ -67,3 +67,4 @@ Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Ben
 **Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean \
 bioRxiv, 2023. DOI: 10.1101/2023.04.18.537360 
 
+**Complete List of Published Work**: [https://www.ncbi.nlm.nih.gov/myncbi/lingyun.xiong.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/lingyun.xiong.1/bibliography/public/)
