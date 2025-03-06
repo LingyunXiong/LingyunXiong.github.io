@@ -28,20 +28,20 @@ Currently, we have **312** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in March: 
+# Interoception Dynamics in March: 
 
-### [**Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/39454005/)
+### [**Exploring the developmental roles of glia in the heart**](https://pubmed.ncbi.nlm.nih.gov/34793438/)
 
-Speaker: [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Postdoctoral Research Fellow; Harvard Medical School)
+Speaker: [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Postdoctoral Fellow; University of Notre Dame)
 
-Date and Time: **March 5 (Wed)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **March 20 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 959 4006 4917; Passcode: 271104)	
+Hybrid event: **Boyer Hall 529** and on Zoom (Meeting ID: 910 2106 4141; Passcode: 243013)	
 
 Abstract:\
-The tumour suppressor p53 is activated by a range of cellular stresses including DNA damage, oncogenic signals, and nutrient deprivation. Upon activation, p53 transcriptionally upregulates an extensive repertoire of genes including those affecting cellular outcomes such as cell cycle arrest, senescence, and apoptosis. What remains unclear however is how information regarding the nature of the upstream stress is conveyed through p53 to elicit the appropriate dynamic downstream responses. In this talk, I describe how differences in p53 temporal dynamics (protein expression patterns) and changes in combinatorial p53 post-translational modifications, collectively influence gene expression and cell fates. The interplay between alterations in dynamics and modifications may serve as broader mechanism for the temporal organization of cellular responses. 
+TBD
 
-![DynamicsClub](/images/DynamicsClub_Mar2025_DL.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,6 @@ The tumour suppressor p53 is activated by a range of cellular stresses including
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 20 | Exploring the developmental roles of glia in the heart | [**Dr. Sarah Light**](http://smithneurallab.weebly.com/people.html) <br /> (Notre Dame) |
 | Apr | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU in St. Louis) |
 | May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | Jun | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
@@ -62,6 +61,7 @@ The tumour suppressor p53 is activated by a range of cellular stresses including
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 22 | Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time | [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36662864/) |
 | Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
+| Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
 
 &nbsp;
 &nbsp; 
