@@ -14,6 +14,7 @@ Currently, we have **312** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
+- A postdoctoral position is available with [**Dr. Anna Nelson**](https://annacnelson.github.io) at University of New Mexico ([Details](https://www.mathjobs.org/jobs/list/26358))
 - A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/))
@@ -54,7 +55,8 @@ Appropriate nervous system function relies on coordinated development and integr
 | Jun | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
-| Sep | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
+| Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
+| Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 
 # Past Events in 2025:
 
