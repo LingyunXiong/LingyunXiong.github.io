@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devreotes Prize at APS March Meeting 2025"
+title: "Devreotes Prize at APS March Meeting"
 date:   2025-03-20 
 ---
 
