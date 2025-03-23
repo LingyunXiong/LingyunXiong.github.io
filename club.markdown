@@ -54,6 +54,7 @@ Appropriate nervous system function relies on coordinated development and integr
 | May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | Jun | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
+| Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
