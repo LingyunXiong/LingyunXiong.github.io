@@ -29,20 +29,20 @@ Currently, we have **315** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in March: 
+# Dynamics Club in April: 
 
-### [**Exploring the developmental roles of glia in the heart**](https://pubmed.ncbi.nlm.nih.gov/34793438/)
+### [**Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI**](https://pubmed.ncbi.nlm.nih.gov/38660712/)
 
-Speaker: [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Postdoctoral Fellow; University of Notre Dame)
+Speaker: [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Instructor; WashU Medicine)
 
-Date and Time: **March 20 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **April 30 (Wednesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: **Boyer Hall 529** and on Zoom (Meeting ID: 910 2106 4141; Passcode: 243013)	
+Virtual event on Zoom (Meeting ID: 921 0138 5602; Passcode: 320403)	
 
 Abstract:\
-Appropriate nervous system function relies on coordinated development and integration of neurons and glia in complex networks in both the brain and periphery. However, our current understanding of these networks in the periphery is almost entirely neuron-centric with little attention given to the important contributions of glial subtypes. To address this gap, we investigated cardiac nexus glia (CNG) in the zebrafish heart, which are critical for establishing and maintaining heart rate and rhythm during development. With the use of genetically encoded calcium indicators, we observed that these glia are physiologically active and appear to have a functional relationship with cardiomyocytes. Additionally, this physiological activity evolves throughout larval development and seems to mature between 3 and 4dpf. Our data show that the CNG population expands clonally from an intermediate progenitor derived from the neural crest. Once they begin to express gfap, individual nexus glia do not divide and, using lifeact reporters, we observe that they maintain stable domains over time. Using chemical and genetic approaches to temporarily prevent cardiac contractions, we determined that even though nexus glia develop in a constantly moving tissue, the CNG population is not dependent on mechanical movement of the heart. Therefore, we explored the intrinsic genetic determinants of nexus glia by performing a large-scale screen using a custom built robot that combines microfluidics and confocal microscopy. With this approach, we identified genes that regulate CNG development, including cell surface receptors and transcriptional regulators, several of which are known to be expressed in CNS astrocytes and PNS glial subtypes. By dissecting the basic cellular mechanisms and genetic programs of nexus glia, we gained valuable insight into how organ-specialized glial populations contribute to PNS homeostasis and function and deepened our understanding of peripheral nervous system development. This work was supported by NIH-1F32HL165966-01A1(SEWL), NIH-DP2NS117177 (CJS), and a SMART grant (CJS).
+TBD
 
-![DynamicsClub](/images/DynamicsClub_Mar2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Apr2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,7 +50,6 @@ Appropriate nervous system function relies on coordinated development and integr
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Dr. Edwin Baldelomar**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU in St. Louis) |
 | May | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | Jun | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
@@ -65,6 +64,7 @@ Appropriate nervous system function relies on coordinated development and integr
 | Jan 22 | Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time | [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36662864/) |
 | Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
 | Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
+| Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
 
 &nbsp;
 &nbsp; 
