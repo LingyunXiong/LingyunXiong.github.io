@@ -10,5 +10,7 @@ Yesterday, I presented my latest research on *Functional coupling of metabolic o
 
 In recognition of my ongoing work on biological oscillations and continuous leadership of the [Dynamics Club](https://lingyunxiong.github.io/DynamicsClub/), I was awarded the *Devreotes Prize*, named after Dr. Peter Devreotes (Johns Hopkins University) and sponsored by the [Biochemical Society](https://www.biochemistry.org). What an honor! 
 
-Next month, I will give another talk at the [**American Physiology Summit 2025 in Baltimore, MD**](https://www.physiology.org/professional-development/meetings-events/american-physiology-summit?SSO=Y). Join us if you will be there! In June, I will have the opportunity to share this work with the broader UCSD community, as part of the Department of Bioengineering Seminar Series. Check out the date & time and more [here](https://be.ucsd.edu/seminar/2025/functional-coupling-cellular-metabolism-and-renal-hemodynamics-underlies-kidney-sex).
+Next month, I will give another talk at the [**American Physiology Summit 2025 in Baltimore, MD**](https://www.physiology.org/professional-development/meetings-events/american-physiology-summit?SSO=Y), as part of the special session on "Defining Cell States at the Single-cell Resolution". Join us if you will be there too! 
+
+In June, I will have the opportunity to share this work with the broader UCSD community through the Department of Bioengineering Seminar Series. Check out the date & time and more [here](https://be.ucsd.edu/seminar/2025/functional-coupling-cellular-metabolism-and-renal-hemodynamics-underlies-kidney-sex).
 
