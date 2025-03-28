@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-# Inaugural Departmental Seminar Series at UCLA IBP
+# Inaugural Departmental Seminar at UCLA IBP
 Post date: Mar 27, 2025
 
 ![Seminar](/images/IBP_Seminar_Flyer_A_McDonough_4325.pdf)
