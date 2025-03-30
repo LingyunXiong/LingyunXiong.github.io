@@ -8,7 +8,7 @@ Launched in Jan 2022, Dynamics Club is a UCLA-based forum for junior scientists 
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **315** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **316** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -40,7 +40,20 @@ Date and Time: **April 30 (Wednesday)** at <ins>11am Pacific Time / 2pm Eastern 
 Virtual event on Zoom (Meeting ID: 921 0138 5602; Passcode: 320403)	
 
 Abstract:\
-TBD
+The kidneys maintain fluid-electrolyte balance and excrete waste in the presence of constant fluctuations in plasma volume and
+systemic blood pressure. The kidneys perform these functions to control capillary perfusion and glomerular filtration by modulat-
+ing the mechanisms of autoregulation. An effect of these modulations are spontaneous, natural fluctuations in glomerular perfu-
+sion. Numerous other mechanisms can lead to fluctuations in perfusion and flow. The ability to monitor these spontaneous
+physiological fluctuations in vivo could facilitate the early detection of kidney disease. The goal of this work was to investigate
+the use of resting-state magnetic resonance imaging (rsMRI) to detect spontaneous physiological fluctuations in the kidney. We
+performed rsMRI of rat kidneys in vivo over 10 min, applying motion correction to resolve time series in each voxel. We observed
+spatially variable, spontaneous fluctuations in rsMRI signal between 0 and 0.3 Hz, in frequency bands associated with autoregu-
+latory mechanisms. We further applied rsMRI to investigate changes in these fluctuations in a rat model of diabetic nephropathy.
+Spectral analysis was performed on time series of rsMRI signals in the kidney cortex and medulla. The power from spectra in
+specific frequency bands from the cortex correlated with severity of glomerular pathology caused by diabetic nephropathy.
+Finally, we investigated the feasibility of using rsMRI of the human kidney in two participants, observing the presence of similar,
+spatially variable fluctuations. This approach may enable a range of preclinical and clinical investigations of kidney function and
+facilitate the development of new therapies to improve outcomes in patients with kidney disease.
 
 ![DynamicsClub](/images/DynamicsClub_Apr2025.pdf)
 
