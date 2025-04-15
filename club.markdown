@@ -63,7 +63,7 @@ facilitate the development of new therapies to improve outcomes in patients with
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May 7 | Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
+| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | May | Guest Lecture: Topology changes of *Hydra* define actin orientation defects as organizers of morphogenesis | [**Dr. Daniel Pearce**](https://sites.google.com/view/danieljgpearce/home) (UNIGE) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
