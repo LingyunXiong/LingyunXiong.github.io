@@ -14,6 +14,7 @@ Currently, we have **318** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
+- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
 - A postdoctoral position is available with [**Dr. Anna Nelson**](https://annacnelson.github.io) at University of New Mexico ([Details](https://www.mathjobs.org/jobs/list/26358))
 - A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
