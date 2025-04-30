@@ -30,33 +30,20 @@ Currently, we have **318** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in April: 
+# Interoception Dynamics in May: 
 
-### [**Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI**](https://pubmed.ncbi.nlm.nih.gov/38660712/)
+### [**Sleep is for brain cleaning: investigating drivers of the glymphatic system**](https://pubmed.ncbi.nlm.nih.gov/39788123/)
 
-Speaker: [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (Instructor; WashU Medicine)
+Speaker: [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Postdoctoral Fellow; Oxford University)
 
-Date and Time: **April 30 (Wednesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **May 7 (Wednesday)** at <ins>9am Pacific Time / 12pm Eastern Time / 5pm British Summer Time</ins>
 
-Virtual event on Zoom (Meeting ID: 921 0138 5602; Passcode: 320403)	
+Virtual event on Zoom (Meeting ID: 975 1555 3790; Passcode: 749111)	
 
 Abstract:\
-The kidneys maintain fluid-electrolyte balance and excrete waste in the presence of constant fluctuations in plasma volume and
-systemic blood pressure. The kidneys perform these functions to control capillary perfusion and glomerular filtration by modulat-
-ing the mechanisms of autoregulation. An effect of these modulations are spontaneous, natural fluctuations in glomerular perfu-
-sion. Numerous other mechanisms can lead to fluctuations in perfusion and flow. The ability to monitor these spontaneous
-physiological fluctuations in vivo could facilitate the early detection of kidney disease. The goal of this work was to investigate
-the use of resting-state magnetic resonance imaging (rsMRI) to detect spontaneous physiological fluctuations in the kidney. We
-performed rsMRI of rat kidneys in vivo over 10 min, applying motion correction to resolve time series in each voxel. We observed
-spatially variable, spontaneous fluctuations in rsMRI signal between 0 and 0.3 Hz, in frequency bands associated with autoregu-
-latory mechanisms. We further applied rsMRI to investigate changes in these fluctuations in a rat model of diabetic nephropathy.
-Spectral analysis was performed on time series of rsMRI signals in the kidney cortex and medulla. The power from spectra in
-specific frequency bands from the cortex correlated with severity of glomerular pathology caused by diabetic nephropathy.
-Finally, we investigated the feasibility of using rsMRI of the human kidney in two participants, observing the presence of similar,
-spatially variable fluctuations. This approach may enable a range of preclinical and clinical investigations of kidney function and
-facilitate the development of new therapies to improve outcomes in patients with kidney disease.
+As the brain transitions from wakefulness to sleep, processing of external information diminishes while restorative processes, such as glymphatic removal of waste products, are activated. Yet, it is not known what drives brain clearance during sleep. We here employed an array of technologies and identified tightly synchronized oscillations in norepinephrine, cerebral blood volume, and cerebrospinal fluid (CSF) as the strongest predictors of glymphatic clearance during NREM sleep. Optogenetic stimulation of the locus coeruleus induced anti-correlated changes in vasomotion and CSF signal. Furthermore, stimulation of arterial oscillations enhanced CSF inflow, demonstrating that vasomotion acts as a pump driving CSF into the brain. On the contrary, the sleep aid zolpidem suppressed norepinephrine oscillations and glymphatic flow, highlighting the critical role of norepinephrine-driven vascular dynamics in brain clearance. Thus, the micro-architectural organization of NREM sleep, driven by norepinephrine fluctuations and vascular dynamics, is a key determinant for glymphatic clearance.
 
-![DynamicsClub](/images/DynamicsClub_Apr2025.pdf)
+![DynamicsClub](/images/DynamicsClub_May2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -64,7 +51,6 @@ facilitate the development of new therapies to improve outcomes in patients with
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Dr. Natalie Hauglund**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) |
 | May | Guest Lecture: Topology changes of *Hydra* define actin orientation defects as organizers of morphogenesis | [**Dr. Daniel Pearce**](https://sites.google.com/view/danieljgpearce/home) (UNIGE) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
@@ -80,6 +66,7 @@ facilitate the development of new therapies to improve outcomes in patients with
 | Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
 | Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
+| Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU Medicine) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
 
 &nbsp;
 &nbsp; 
