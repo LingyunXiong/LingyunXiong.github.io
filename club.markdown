@@ -36,7 +36,7 @@ Currently, we have **318** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Postdoctoral Fellow; Oxford University)
 
-Date and Time: **May 7 (Wednesday)** at <ins>9am Pacific Time / 12pm Eastern Time / 5pm British Summer Time</ins>
+Date and Time: **May 7 (Wednesday)** at <ins>9am Pacific Time / 5pm British Summer Time</ins>
 
 Virtual event on Zoom (Meeting ID: 975 1555 3790; Passcode: 749111)	
 
