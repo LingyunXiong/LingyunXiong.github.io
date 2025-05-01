@@ -8,14 +8,13 @@ Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to d
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **318** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **320** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
 
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
-- A postdoctoral position is available with [**Dr. Anna Nelson**](https://annacnelson.github.io) at University of New Mexico ([Details](https://www.mathjobs.org/jobs/list/26358))
 - A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 - A postdoctoral position is available with [**Dr. Russell Rockne**](https://www.cityofhope.org/russell-rockne) at City of Hope ([Details](https://www.cityofhopejobs.org/job/4051/postdoctoral-fellow-mathematical-oncology-research-us-ca-duarte-10024512-44/))
