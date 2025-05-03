@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salk Institute Rising Stars Symposium"
-date:   2025-04-30
+date:   2025-05-01
 ---
 
 ![Salk_RisingStars](/images/Salk_RisingStars_2025.jpg)
