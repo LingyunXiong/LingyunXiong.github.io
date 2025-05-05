@@ -6,7 +6,10 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 - Cell fate transition as a coordinated bifurcation event \
-**Lingyun Xiong** (*In Preparation*) 
+**Lingyun Xiong** (*In Preparation*)
+
+- Connecting the dots through biological rhythms \
+**Lingyun Xiong** (*Essay Under Review*) 
 
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
