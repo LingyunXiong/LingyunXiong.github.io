@@ -55,6 +55,7 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
 | Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
+| Aug | TBD | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (NYU) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 
