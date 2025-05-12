@@ -8,7 +8,7 @@ Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to d
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **325** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **328** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -54,7 +54,7 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
 | Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
-| Aug | TBD | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (NYU) |
+| Aug 21 | TBD | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 
