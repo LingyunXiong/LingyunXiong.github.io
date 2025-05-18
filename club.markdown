@@ -50,7 +50,7 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
-| Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
+| Jul | Guest Lecture: Optogenetic control of YAP reveals dynamic communication code for stem cell fate and proliferation | [**Dr. Kirstin Meyer**](https://meyerlab.yale.edu) <br /> (Yale University) |
 | Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
 | Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
