@@ -49,14 +49,15 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| May | Guest Lecture: Topology changes of *Hydra* define actin orientation defects as organizers of morphogenesis | [**Dr. Daniel Pearce**](https://sites.google.com/view/danieljgpearce/home) (UNIGE) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: TBA | [**Dr. Kirstin Meyer**](https://mcdb.yale.edu/people/kirstin-meyer) <br /> (Yale University) |
 | Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
-| Aug 21 | TBD | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
+| Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
+| Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) (Oxford University) |
+| 2025 | Guest Lecture: Topology changes of *Hydra* define actin orientation defects as organizers of morphogenesis | [**Dr. Daniel Pearce**](https://sites.google.com/view/danieljgpearce/home) (UNIGE) |
 
 # Past Events in 2025:
 
