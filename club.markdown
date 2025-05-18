@@ -56,7 +56,7 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 | Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
-| Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) (Oxford University) |
+| Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2025 | Guest Lecture: Topology changes of *Hydra* define actin orientation defects as organizers of morphogenesis | [**Dr. Daniel Pearce**](https://sites.google.com/view/danieljgpearce/home) (UNIGE) |
 
 # Past Events in 2025:
