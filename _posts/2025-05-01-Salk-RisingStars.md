@@ -9,3 +9,8 @@ date:   2025-05-01
 I'm thrilled to join fellow postdocs across the nation to share my ongoing research on *male-female dynamic differences in the kidney* at the [**Salk Institute Rising Stars Symposium**](https://www.salk.edu/about/our-community/research-and-training-opportunities/rising-stars-symposium/) on May 13-14, 2025. 
 
 I can't wait to connect with scientists at Salk and UCSD to discuss how this work can bear a broader impact on renal health! 
+
+Here are some photos taken at the event:
+![Salk_Talk](/images/20250513-551A6169.jpeg)
+![Salk_Group](/images/Salk_Group_Photo.jpeg)
+
