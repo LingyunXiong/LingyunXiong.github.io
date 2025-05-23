@@ -4,11 +4,11 @@ title: News
 permalink: /News/
 ---
 
-# Inaugural Departmental Seminar at UCLA IBP
-Post date: Mar 27, 2025
+# UCLA Boyer/Parvin Postdoctoral Award
+Post date: May 22, 2025
 
-I'm pleased to host [**Dr. Alicia McDonough**](https://keck.usc.edu/faculty-search/alicia-a-mcdonough/) for the first IBP Departmental Seminar on <ins>Thursday, April 3</ins>. 
+I'm delighted to announce that I have been selected for the [**Boyer/Parvin Postdoctoral Award**](https://www.mbi.ucla.edu/awards/postdoctoral-history)! Given out by the UCLA Molecular Biology Institute annually, this award recognizes outstanding postdoctoral researchers and celebrates the legacy of Paul Boyer, who is known for his work on ATP synthase (Nobel Prize, 1975; with John Walker and Jens Skou).
 
-Join us in person at UCLA to learn more about the *physiological benefits of the female kidney*!
+The award ceremony will be held on <ins>Wednesday, May 28 at 10am</ins> in Boyer Hall 159, during which I will give a short talk about my ongoing research on *male-female dynamic differences in the kidney*.
 
-![Seminar](/images/IBP_Seminar_Flyer_A_McDonough_4325.pdf)
+![Boyer_Award](/images/UCLA_Boyer_Award.png)
