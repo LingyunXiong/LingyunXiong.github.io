@@ -11,3 +11,6 @@ Given out by the UCLA Molecular Biology Institute ([MBI](https://www.mbi.ucla.ed
 The award ceremony will be held on <ins>Wednesday, May 28 at 10am</ins> in Boyer Hall 159, during which I will give a short talk about my ongoing research on *male-female dynamic differences in the kidney*.
 
 ![Boyer_Award](/images/UCLA_Boyer_Award.png)
+
+Below is a snapshot during the award ceremony:
+![Boyer_Fellow](/images/UCLA_Boyer_GroupPhoto.jpg)
