@@ -28,20 +28,20 @@ Currently, we have **338** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in May: 
+# Interoception Dynamics in June: 
 
-### [**Sleep is for brain cleaning: investigating drivers of the glymphatic system**](https://pubmed.ncbi.nlm.nih.gov/39788123/)
+### **Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury**
 
-Speaker: [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Postdoctoral Fellow; Oxford University)
+Speaker: [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Postdoctoral Researcher; Purdue University)
 
-Date and Time: **May 7 (Wednesday)** at <ins>9am Pacific Time / 5pm British Summer Time</ins>
+Date and Time: **Jun 12 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual event on Zoom (Meeting ID: 975 1555 3790; Passcode: 749111)	
+Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 925 1154 9396; Passcode: 444026)	
 
 Abstract:\
-As the brain transitions from wakefulness to sleep, processing of external information diminishes while restorative processes, such as glymphatic removal of waste products, are activated. Yet, it is not known what drives brain clearance during sleep. We here employed an array of technologies and identified tightly synchronized oscillations in norepinephrine, cerebral blood volume, and cerebrospinal fluid (CSF) as the strongest predictors of glymphatic clearance during NREM sleep. Optogenetic stimulation of the locus coeruleus induced anti-correlated changes in vasomotion and CSF signal. Furthermore, stimulation of arterial oscillations enhanced CSF inflow, demonstrating that vasomotion acts as a pump driving CSF into the brain. On the contrary, the sleep aid zolpidem suppressed norepinephrine oscillations and glymphatic flow, highlighting the critical role of norepinephrine-driven vascular dynamics in brain clearance. Thus, the micro-architectural organization of NREM sleep, driven by norepinephrine fluctuations and vascular dynamics, is a key determinant for glymphatic clearance.
+TBD
 
-![DynamicsClub](/images/DynamicsClub_May2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Jun2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,6 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Dr. Casey Adam**](https://vet.purdue.edu/cpr/team.php) <br /> (Purdue University) |
 | Jul | Guest Lecture: Optogenetic control of YAP reveals dynamic communication code for stem cell fate and proliferation | [**Dr. Kirstin Meyer**](https://meyerlab.yale.edu) <br /> (Yale University) |
 | Jul | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
@@ -67,6 +66,7 @@ As the brain transitions from wakefulness to sleep, processing of external infor
 | Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
 | Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
+| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
 
 &nbsp;
 &nbsp; 
