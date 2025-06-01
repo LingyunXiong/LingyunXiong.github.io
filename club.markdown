@@ -66,7 +66,7 @@ TBD
 | Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
 | Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
-| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
+| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
 
 &nbsp;
 &nbsp; 
