@@ -30,7 +30,7 @@ Currently, we have **338** members. If you're new, sign up [**here**](http://eep
 
 # Interoception Dynamics in June: 
 
-### **Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury**
+### [**Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury**](https://www.nature.com/articles/s42005-023-01252-7)
 
 Speaker: [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Postdoctoral Researcher; Purdue University)
 
