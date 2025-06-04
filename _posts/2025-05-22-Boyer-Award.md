@@ -13,4 +13,4 @@ The award ceremony will be held on <ins>Wednesday, May 28 at 10am</ins> in Boyer
 ![Boyer_Award](/images/UCLA_Boyer_Award.png)
 
 Below is a snapshot during the award ceremony:
-![Boyer_Fellow](/images/UCLA_Boyer_GroupPhoto.jpg)
+![Boyer_Fellow](/images/2025_Boyer-Parvin_Awardees.jpg)
