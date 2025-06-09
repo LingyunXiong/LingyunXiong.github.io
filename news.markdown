@@ -4,13 +4,16 @@ title: News
 permalink: /News/
 ---
 
-# Departmental Seminar at UCSD BME
-Post date: Jun 1, 2025
+# UCLA Boyer/Parvin Postdoctoral Award
+Post date: May 28, 2025
 
-![UCSD_Sungod](/images/UCSD_Sungod.jpg)
+![Boyer_Award](/images/UCLA_Boyer_Award.png)
 
-I'm delighted to be invited for a seminar at [**UCSD Shu Chien-Gene Lay Department of Bioengineering**](https://be.ucsd.edu). 
+I'm delighted to announce that I have been selected for the [**Boyer/Parvin Postdoctoral Award**](https://www.mbi.ucla.edu/awards/postdoctoral-history)! 
 
-I will talk about [**Bifurcation theory in physiology**](https://be.ucsd.edu/seminar/2025/bifurcation-theory-physiology) on Friday, June 6th, 2025.
+Given out by the UCLA Molecular Biology Institute ([MBI](https://www.mbi.ucla.edu)) annually, this award recognizes outstanding postdoctoral researchers and celebrates the legacy of Paul Boyer, known for his work on ATP synthase ([Nobel Prize, 1997](https://www.nobelprize.org/prizes/chemistry/1997/summary/); with John Walker and Jens Skou).
 
-Join in person <ins>at 2pm in The FUNG Auditorium</ins> if you will be in La Jolla!
+The award ceremony was held on <ins>Wednesday, May 28 at 10am</ins> in Boyer Hall 159, during which I gave a short talk about my ongoing research on *male-female dynamic differences in the kidney*.
+
+Below is a snapshot during the award ceremony:
+![Boyer_Fellow](/images/2025_Boyer-Parvin_Awardees.jpg)
