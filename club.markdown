@@ -28,20 +28,24 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in June: 
+# Dynamics Club in July: 
 
-### [**Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury**](https://www.nature.com/articles/s42005-023-01252-7)
+### Guest Lecture: [**Emerging roles of transcriptional condensates as temporal signal integrators**](https://www.nature.com/articles/s41576-025-00837-y)
 
-Speaker: [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Postdoctoral Researcher; Purdue University)
+Speaker: [**Kirstin Meyer, PhD**](https://meyerlab.yale.edu) (Assistant Professor; Yale University)
 
-Date and Time: **Jun 12 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **TBA** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid event: **Boyer Hall 554** and on Zoom (Meeting ID: 925 1154 9396; Passcode: 444026)	
+Virtual event on Zoom (Meeting ID: --; Passcode: --)	
 
 Abstract:\
-The chemical, electrical, mechanical, and magnetic properties of biological systems are coupled, meaning that changes in any of these properties influence all others.  This coupling dictates how biological systems respond to and propagate stimuli and is characterized by time delays known as time responses.  Recent efforts in neuromodulation, cancer treatment, and spinal cord injury therapies that exploit the coupling of properties in biological systems for disease treatment have shown promise in improving quality of life and partially alleviating pathological changes.  However, these treatments are not completely effective because the underlying mechanisms are poorly understood, likely because treatment effects are often studied in isolation, and not from the perspective of mechano-electro-chemical coupling.  Better understanding of how properties couple in biological systems, especially the link between time responses and cell behavior would help improve treatment design and efficacy.  In this work, mechanoelectric coupling is measured by treating cells or ECM samples with different electrical stimuli and measuring the resulting changes in cell and tissue viscoelasticity.  Mechano-electro-chemical coupling is studied by measuring how different chemical treatments affect neuron firing, neuron viscoelasticity, and tissue viscoelasticity.  In particular, the effect of acellular components of tissue, anesthetics, ultrasound neuromodulation, and injury on cell viscoelasticity and behavior are assessed.  The combined results suggest that time response alterations regulate cell activities and tissue health, that different types of stimuli that influence cell behaviors also modulate time responses, and that direct modulation of cell and tissue time responses may be the key to regulating cell behavior in disease treatment.
+Transcription factors relay information from the external environment to gene regulatory networks that control cell physiology. To confer signalling specificity, robustness and coordination, these signalling networks use temporal communication codes, such as the amplitude,
+duration or frequency of signals. Although much is known about how temporal information is encoded, a mechanistic understanding
+of how gene regulatory networks decode signalling dynamics is lacking. Recent advances in our understanding of phase separation of transcriptional condensates provide new biophysical frameworks for both temporal encoding and decoding mechanisms. In this Perspective,
+we summarize the mechanisms by which transcriptional condensates could enable temporal decoding through signal adaptation, memory
+and persistence. We further outline methods to probe and manipulate dynamic communication codes of transcription factors and condensates to rationally control gene activation.
 
-![DynamicsClub](/images/DynamicsClub_Jun2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Jul2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,7 +53,6 @@ The chemical, electrical, mechanical, and magnetic properties of biological syst
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jul | Guest Lecture: Optogenetic control of YAP reveals dynamic communication code for stem cell fate and proliferation | [**Dr. Kirstin Meyer**](https://meyerlab.yale.edu) <br /> (Yale University) |
 | Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
 | Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
@@ -67,6 +70,7 @@ The chemical, electrical, mechanical, and magnetic properties of biological syst
 | Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
 | Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
 | May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
+| Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue University) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
 
 &nbsp;
 &nbsp; 
