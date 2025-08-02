@@ -28,24 +28,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in July: 
+# Dynamics Club in August: 
 
-### Guest Lecture: [**Emerging roles of transcriptional condensates as temporal signal integrators**](https://www.nature.com/articles/s41576-025-00837-y)
+### [**Sleep microstructure organizes memory replay**](https://pubmed.ncbi.nlm.nih.gov/39743590/)
 
-Speaker: [**Kirstin Meyer, PhD**](https://meyerlab.yale.edu) (Assistant Professor; Yale University)
+Speaker: [**Wenbo Tang, PhD**](https://meyerlab.yale.edu) (Postodoctal Associate; Cornell University)
 
-Date and Time: **TBA** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Aug 12 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual event on Zoom (Meeting ID: --; Passcode: --)	
+Virtual event on Zoom (Meeting ID: 939 8110 0042; Passcode: 371949)	
 
 Abstract:\
-Transcription factors relay information from the external environment to gene regulatory networks that control cell physiology. To confer signalling specificity, robustness and coordination, these signalling networks use temporal communication codes, such as the amplitude,
-duration or frequency of signals. Although much is known about how temporal information is encoded, a mechanistic understanding
-of how gene regulatory networks decode signalling dynamics is lacking. Recent advances in our understanding of phase separation of transcriptional condensates provide new biophysical frameworks for both temporal encoding and decoding mechanisms. In this Perspective,
-we summarize the mechanisms by which transcriptional condensates could enable temporal decoding through signal adaptation, memory
-and persistence. We further outline methods to probe and manipulate dynamic communication codes of transcription factors and condensates to rationally control gene activation.
+A significant challenge in both biological and artificial neural networks is preventing catastrophic forgetting, a phenomenon whereby the acquisition of new knowledge can interfere with previously stored memories. We proposed that sleep comprises specific cognitive states dedicated to these functions. Inspired by human studies, we employed pupillometry to monitor brain state dynamics concurrently with electrophysiology in mice engaged in various tasks. Our results demonstrated that memory processes related to both familiar and novel experiences did not occur uniformly during sleep; rather, they fluctuated between two sub-states characterized by contracted or dilated pupils on a minute timescale. This temporal differentiation may assist in mitigating catastrophic forgetting and indicates that non-invasive, pupillometry-guided brain modulation in humans could facilitate high-resolution control of cognitive processes.
 
-![DynamicsClub](/images/DynamicsClub_Jul2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Aug2025_1.pdf)
 
 &nbsp;
 &nbsp;
@@ -53,7 +49,6 @@ and persistence. We further outline methods to probe and manipulate dynamic comm
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug | Sleep microstructure organizes memory replay | [**Dr. Wenbo Tang**](https://braincomputation.org/people/) <br /> (Cornell University) |
 | Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
