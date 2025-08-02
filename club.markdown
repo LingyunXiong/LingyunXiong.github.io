@@ -32,11 +32,11 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 
 ### [**Sleep microstructure organizes memory replay**](https://pubmed.ncbi.nlm.nih.gov/39743590/)
 
-Speaker: [**Wenbo Tang, PhD**](https://meyerlab.yale.edu) (Postodoctal Associate; Cornell University)
+Speaker: [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Postodoctal Associate; Cornell University)
 
 Date and Time: **Aug 12 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual event on Zoom (Meeting ID: 939 8110 0042; Passcode: 371949)	
+Virtual event on **Zoom** (Meeting ID: 939 8110 0042; Passcode: 371949)	
 
 Abstract:\
 A significant challenge in both biological and artificial neural networks is preventing catastrophic forgetting, a phenomenon whereby the acquisition of new knowledge can interfere with previously stored memories. We proposed that sleep comprises specific cognitive states dedicated to these functions. Inspired by human studies, we employed pupillometry to monitor brain state dynamics concurrently with electrophysiology in mice engaged in various tasks. Our results demonstrated that memory processes related to both familiar and novel experiences did not occur uniformly during sleep; rather, they fluctuated between two sub-states characterized by contracted or dilated pupils on a minute timescale. This temporal differentiation may assist in mitigating catastrophic forgetting and indicates that non-invasive, pupillometry-guided brain modulation in humans could facilitate high-resolution control of cognitive processes.
@@ -49,7 +49,7 @@ A significant challenge in both biological and artificial neural networks is pre
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug 21 | Coordination and propagation of cell fate choice in neural circuit assembly | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
+| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 | Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
