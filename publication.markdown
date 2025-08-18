@@ -5,9 +5,6 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
-- Cell fate transition as a coordinated bifurcation event \
-**Lingyun Xiong** (*In Preparation*)
-
 - Connecting the dots through biological rhythms \
 **Lingyun Xiong** (*Essay Under Review*)
 
