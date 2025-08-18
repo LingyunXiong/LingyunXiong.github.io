@@ -28,20 +28,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in August: 
+# Interoception Dynamics in August: 
 
-### [**Sleep microstructure organizes memory replay**](https://pubmed.ncbi.nlm.nih.gov/39743590/)
+### [**Building the Blueprint of the Brain: Genetic and Molecular Strategies for Unraveling Sensory Circuit Development**](https://pubmed.ncbi.nlm.nih.gov/37523539/)
 
-Speaker: [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Postodoctal Associate; Cornell University)
+Speaker: [**David YC Chen, PhD**](https://ycdavidchen.com) (Assistant Professor; Temple University)
 
-Date and Time: **Aug 12 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Aug 21 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual event on **Zoom** (Meeting ID: 939 8110 0042; Passcode: 371949)	
+Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 991 2570 8299; Passcode: 320880)	
 
 Abstract:\
-A significant challenge in both biological and artificial neural networks is preventing catastrophic forgetting, a phenomenon whereby the acquisition of new knowledge can interfere with previously stored memories. We proposed that sleep comprises specific cognitive states dedicated to these functions. Inspired by human studies, we employed pupillometry to monitor brain state dynamics concurrently with electrophysiology in mice engaged in various tasks. Our results demonstrated that memory processes related to both familiar and novel experiences did not occur uniformly during sleep; rather, they fluctuated between two sub-states characterized by contracted or dilated pupils on a minute timescale. This temporal differentiation may assist in mitigating catastrophic forgetting and indicates that non-invasive, pupillometry-guided brain modulation in humans could facilitate high-resolution control of cognitive processes.
+I am a developmental neurobiologist with a strong interest in understanding how functional neuronal circuits are built during development. My research focuses on sensory systems, which enable animals to detect environmental stimuli and drive appropriate behaviors. During development, sensory neurons adopt the correct cell fates and establish precise connections with their targets to form functional circuits. While much progress has been made in understanding sensory processing and behavior through the identification of sensory receptors and the manipulation of neuronal activity, relatively little is known about how diverse sensory neurons are specified and how they establish appropriate connections during development. A major limitation in studying these processes has been the lack of tools for manipulating neurons during development. In the first part of my seminar, I will introduce developmental genetic tools I have developed in Drosophila, which allows for cell-type-specific targeting of neurons from early development through adulthood. This toolkit offers a unique approach to uncovering the principles that developing neurons use to establish and maintain proper connectivity. In the second part, I will outline a practical and efficient framework that my future research group will use to investigate the molecular regulators driving the wiring of sensory circuits. This work aims to uncover fundamental principles of neuronal circuit development and provide new tools for understanding how the brain is built.
 
-![DynamicsClub](/images/DynamicsClub_Aug2025_1.pdf)
+![DynamicsClub](/images/DynamicsClub_Aug2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,6 @@ A significant challenge in both biological and artificial neural networks is pre
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**Dr. David Chen**](https://ycdavidchen.com) <br /> (Temple University) |
 | Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 | Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
@@ -66,6 +65,7 @@ A significant challenge in both biological and artificial neural networks is pre
 | Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
 | May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
+| Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
 
 &nbsp;
 &nbsp; 
