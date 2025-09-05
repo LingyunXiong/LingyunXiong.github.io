@@ -65,7 +65,7 @@ Insulin is secreted in pulses by beta-cells located within cell clusters in the 
 | May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
 | Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
-| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
+| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
 
 &nbsp;
 &nbsp; 
