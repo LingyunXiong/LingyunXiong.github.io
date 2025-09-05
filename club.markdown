@@ -28,20 +28,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Interoception Dynamics in August: 
+# Dynamics Club in September: 
 
-### [**Building the Blueprint of the Brain: Genetic and Molecular Strategies for Unraveling Sensory Circuit Development**](https://pubmed.ncbi.nlm.nih.gov/37523539/)
+### [**Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets**](https://pubmed.ncbi.nlm.nih.gov/39066476/)
 
-Speaker: [**David YC Chen, PhD**](https://ycdavidchen.com) (Assistant Professor; Temple University)
+Speaker: [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (Postdoctoral Scholar; University of Tennessee)
 
-Date and Time: **Aug 21 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **September 16 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 991 2570 8299; Passcode: 320880)	
+Virtual Event on **Zoom** (Meeting ID: 925 8187 7068; Passcode: 215211)	
 
 Abstract:\
-I am a developmental neurobiologist with a strong interest in understanding how functional neuronal circuits are built during development. My research focuses on sensory systems, which enable animals to detect environmental stimuli and drive appropriate behaviors. During development, sensory neurons adopt the correct cell fates and establish precise connections with their targets to form functional circuits. While much progress has been made in understanding sensory processing and behavior through the identification of sensory receptors and the manipulation of neuronal activity, relatively little is known about how diverse sensory neurons are specified and how they establish appropriate connections during development. A major limitation in studying these processes has been the lack of tools for manipulating neurons during development. In the first part of my seminar, I will introduce developmental genetic tools I have developed in Drosophila, which allows for cell-type-specific targeting of neurons from early development through adulthood. This toolkit offers a unique approach to uncovering the principles that developing neurons use to establish and maintain proper connectivity. In the second part, I will outline a practical and efficient framework that my future research group will use to investigate the molecular regulators driving the wiring of sensory circuits. This work aims to uncover fundamental principles of neuronal circuit development and provide new tools for understanding how the brain is built.
+Insulin is secreted in pulses by beta-cells located within cell clusters in the pancreas called islets of Langerhans. The pulsatility is evident in blood insulin measurements, indicating that the islet population is synchronized. While the exact mechanism for this synchronization is unknown, one possibility is that synchronization is achieved through a negative feedback loop between the pancreas and liver hepatocytes. Specifically, the action of hepatocytes to adjust blood glucose in response to insulin secretion from beta-cells acts as a global coordinating signal to the islets. Previously, we have tested this mechanism using mathematical modeling and microfluidic experiments, focusing on incorporating a time delay between when the liver cells uptake glucose and when this change in glucose concentration is sensed by the islets. With a nonzero time delay, the closed loop system is bistable, able to produce both fast and slow coordinated oscillations. In this presentation, we investigate the origin of this bistability. Do the same oscillation patterns persist for larger islet populations and larger time delays? Can we capture and explain the dynamics of the closed loop system using a reduced mathematical model?
 
-![DynamicsClub](/images/DynamicsClub_Aug2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Sep2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,9 +49,8 @@ I am a developmental neurobiologist with a strong interest in understanding how 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep | A mechanism for slow rhythms in coordinated pancreatic islet activity | [**Dr. Nicole Bruce**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) |
 | Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
-| Oct | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
+| Nov | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2025 | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | 2025 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
@@ -66,6 +65,7 @@ I am a developmental neurobiologist with a strong interest in understanding how 
 | May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
 | Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
+| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
 
 &nbsp;
 &nbsp; 
