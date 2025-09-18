@@ -5,8 +5,9 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
-- Connecting the dots through biological rhythms \
-**Lingyun Xiong** (*Essay Under Review*)
+- [Functional coupling of cellular metabolism and renal hemodynamics underlies kidney sex differences](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.0755) \
+**Lingyun Xiong**\#, Alan Garfinkel, Kate Barrows, Lauryn Brown, Natalie Porat-Shliom, and Eric J. Deeds. \
+**Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
 
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
@@ -57,6 +58,10 @@ Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu. \
 **Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265 ([PDF](https://drive.google.com/file/d/1MGa-miXqfzq_SPGNlr0Wq2KIB4EBN5Fj/view?usp=sharing))
 
 ## Preprints ##
+
+- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v1) \
+**Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
+bioRxiv, 2025. DOI: 10.1101/2025.09.12.675896
 
 - [Learning feedback loops in transcriptome network during cell fate transition](https://www.biorxiv.org/content/10.1101/2020.06.24.169490v2) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
