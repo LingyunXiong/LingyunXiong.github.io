@@ -28,20 +28,22 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in September: 
+# Dynamics Club in October: 
 
-### [**Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets**](https://pubmed.ncbi.nlm.nih.gov/39066476/)
+### [**Self-organized tissue mechanics underlie embryonic regulation**](https://pubmed.ncbi.nlm.nih.gov/39261736/)
 
-Speaker: [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (Postdoctoral Scholar; University of Tennessee)
+Speaker: [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech)
 
-Date and Time: **September 16 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **October 27 (Monday)** at <ins>9am Pacific Time / 12noon Eastern Time / 5pm Central European Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 925 8187 7068; Passcode: 215211)	
+Virtual Event on **Zoom** (Meeting ID: 987 1110 7169; Passcode: 197917)	
 
 Abstract:\
-Insulin is secreted in pulses by beta-cells located within cell clusters in the pancreas called islets of Langerhans. The pulsatility is evident in blood insulin measurements, indicating that the islet population is synchronized. While the exact mechanism for this synchronization is unknown, one possibility is that synchronization is achieved through a negative feedback loop between the pancreas and liver hepatocytes. Specifically, the action of hepatocytes to adjust blood glucose in response to insulin secretion from beta-cells acts as a global coordinating signal to the islets. Previously, we have tested this mechanism using mathematical modeling and microfluidic experiments, focusing on incorporating a time delay between when the liver cells uptake glucose and when this change in glucose concentration is sensed by the islets. With a nonzero time delay, the closed loop system is bistable, able to produce both fast and slow coordinated oscillations. In this presentation, we investigate the origin of this bistability. Do the same oscillation patterns persist for larger islet populations and larger time delays? Can we capture and explain the dynamics of the closed loop system using a reduced mathematical model?
+Early amniote development is highly self-organized, capable of adapting to interference through local and long-range cell–cell interactions. This process, called embryonic regulation, has been well illustrated in experiments on avian embryos, in which subdividing the epiblast disk into different parts not only redirects cell fates to eventually form a complete and well-proportioned embryo at its original location, but also leads to the self-organization of additional, fully formed embryos in the other separated parts. The cellular interactions underlying embryonic self-organization are widely believed to be mediated by molecular signals, yet the identity of such signals is unclear. Here, by analysing intact and mechanically perturbed quail embryos, we show that the mechanical forces that drive embryogenesis self-organize, with
+contractility locally self-activating and the ensuing tension acting as a long-range inhibitor. This mechanical feedback governs the persistent pattern of tissue flows that shape the embryo and also steers the concomitant emergence of embryonic territories by modulating gene expression, ensuring the formation of a single embryo under normal conditions, yet allowing the emergence of multiple, well-proportioned
+embryos after perturbations. Thus, mechanical forces act at the core of embryonic self-organization, shaping both tissues and gene expression to robustly yet plastically canalize early development.
 
-![DynamicsClub](/images/DynamicsClub_Sep2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -49,9 +51,8 @@ Insulin is secreted in pulses by beta-cells located within cell clusters in the 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct | Self-organized tissue mechanics underlie embryonic regulation | [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech) |
 | Nov | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
-| 2025 | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
+| Dec | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | 2025 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2025:
@@ -66,6 +67,7 @@ Insulin is secreted in pulses by beta-cells located within cell clusters in the 
 | Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
 | Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
 | Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
+| Sep 16 | Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets | [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39066476/) |
 
 &nbsp;
 &nbsp; 
