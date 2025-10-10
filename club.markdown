@@ -30,7 +30,7 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 
 # Dynamics Club in October: 
 
-### [**Forces that shape the embryo: Mechanical control of gastrulation dynamics **](https://pubmed.ncbi.nlm.nih.gov/39261736/)
+### [**Forces that shape the embryo: Mechanical control of gastrulation dynamics**](https://pubmed.ncbi.nlm.nih.gov/39261736/)
 
 Speaker: [**Dr. Paolo Caldarelli**](https://www.linkedin.com/in/paolo-caldarelli-b25b0b1b0/) (Caltech)
 
