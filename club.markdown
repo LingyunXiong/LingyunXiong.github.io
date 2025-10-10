@@ -30,18 +30,16 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 
 # Dynamics Club in October: 
 
-### [**Self-organized tissue mechanics underlie embryonic regulation**](https://pubmed.ncbi.nlm.nih.gov/39261736/)
+### [**Forces that shape the embryo: Mechanical control of gastrulation dynamics **](https://pubmed.ncbi.nlm.nih.gov/39261736/)
 
-Speaker: [**Dr. Paolo Caldarelli**](https://directory.caltech.edu/personnel/pcaldare) (Caltech)
+Speaker: [**Dr. Paolo Caldarelli**](https://www.linkedin.com/in/paolo-caldarelli-b25b0b1b0/) (Caltech)
 
 Date and Time: **October 27 (Monday)** at <ins>9am Pacific Time / 12noon Eastern Time / 5pm Central European Time</ins>
 
 Virtual Event on **Zoom** (Meeting ID: 987 1110 7169; Passcode: 197917)	
 
 Abstract:\
-Early amniote development is highly self-organized, capable of adapting to interference through local and long-range cell–cell interactions. This process, called embryonic regulation, has been well illustrated in experiments on avian embryos, in which subdividing the epiblast disk into different parts not only redirects cell fates to eventually form a complete and well-proportioned embryo at its original location, but also leads to the self-organization of additional, fully formed embryos in the other separated parts. The cellular interactions underlying embryonic self-organization are widely believed to be mediated by molecular signals, yet the identity of such signals is unclear. Here, by analysing intact and mechanically perturbed quail embryos, we show that the mechanical forces that drive embryogenesis self-organize, with
-contractility locally self-activating and the ensuing tension acting as a long-range inhibitor. This mechanical feedback governs the persistent pattern of tissue flows that shape the embryo and also steers the concomitant emergence of embryonic territories by modulating gene expression, ensuring the formation of a single embryo under normal conditions, yet allowing the emergence of multiple, well-proportioned
-embryos after perturbations. Thus, mechanical forces act at the core of embryonic self-organization, shaping both tissues and gene expression to robustly yet plastically canalize early development.
+Gastrulation marks one of the most dynamic transitions in animal development, transforming a simple epithelial sheet (the epiblast) into the body plan of the embryo. How such complex organization emerges robustly from local cellular behaviors remains a central question in developmental biology. In this talk, I will discuss how mechanical feedback governs this process across species. Using the chick embryo as a model, we showed that tissue-scale forces are sufficient to self-organize the body axis—even when the embryo is bisected—demonstrating that mechanics alone can drive large-scale pattern formation. Building on these findings, I will present new results from mouse embryos imaged using multiview light-sheet microscopy, which reveal the three-dimensional coordination of epiblast morphogenesis during mammalian gastrulation. Together, these studies uncover conserved physical principles that couple tissue mechanics with fate specification during early development.
 
 ![DynamicsClub](/images/DynamicsClub_Oct2025.pdf)
 
