@@ -14,7 +14,8 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
-- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
+- 2 PhD positions are available with [**Dr. Eder Zavala**](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/zavala-eder) at University of Manchester ([Link1](https://www.findaphd.com/phds/project/epsrc-case-modelling-hormonal-dynamics-in-the-human-hpa-axis/?p188091), [Link2](https://www.findaphd.com/phds/project/bicentenary-identifying-surrogates-of-endocrine-function-using-wearable-device-signals/?p187506))
+- - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
 - A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 
