@@ -5,7 +5,11 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
-- [Functional coupling of cellular metabolism and renal hemodynamics underlies kidney sex differences](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.0755) \
+- Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
+**Lingyun Xiong**\#, Alicia A. McDonough. \
+**Hypertension**, 2025;82(Suppl_1):093. DOI: 10.1161/hyp.82.suppl_1.093
+
+- Abstract: [Functional coupling of cellular metabolism and renal hemodynamics underlies kidney sex differences](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.0755) \
 **Lingyun Xiong**\#, Alan Garfinkel, Kate Barrows, Lauryn Brown, Natalie Porat-Shliom, and Eric J. Deeds. \
 **Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
 
@@ -13,7 +17,7 @@ permalink: /Publications/
 Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
 **Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
 
-- [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
+- Abstract: [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
 **Lingyun Xiong**\#, Alan Garfinkel, Eric J. Deeds. \
 **Physiology**, 2024;39(S1):1234. DOI: 10.1152/physiol.2024.39.S1.1234
   
@@ -29,7 +33,7 @@ Alicia A. McDonough\#, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Lingyun Xiong**, Alan Garfinkel\#. \
 **J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
   
-- [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
+- Abstract: [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. \
 **Physiology**, 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
 
@@ -59,8 +63,8 @@ Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu\#. \
 
 ## Preprints ##
 
-- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v1) \
-**Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
+- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v3) \
+**Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
 bioRxiv, 2025. DOI: 10.1101/2025.09.12.675896
 
 - [Learning feedback loops in transcriptome network during cell fate transition](https://www.biorxiv.org/content/10.1101/2020.06.24.169490v2) \
