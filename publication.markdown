@@ -10,7 +10,7 @@ permalink: /Publications/
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
 **Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing)) \
 Highlighted by: [Multimodal characterization of sexual dimor-
-phism in the mammalian kidney](https://doi.org/10.1016/j.kint.2023.11.017). Haikuo Li, & Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
+phism in the mammalian kidney](https://doi.org/10.1016/j.kint.2023.11.017). Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun Xiong**, Alan Garfinkel\#. \
