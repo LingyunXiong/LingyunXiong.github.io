@@ -5,6 +5,22 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
+# Selected Publications #
+- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
+**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
+**Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing))
+-- Highlighted by: [Multimodal characterization of sexual dimor-
+phism in the mammalian kidney](https://doi.org/10.1016/j.kint.2023.11.017). Haikuo Li, & Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
+
+- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
+**Lingyun Xiong**, Alan Garfinkel\#. \
+**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
+
+- [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
+**Lingyun Xiong**, Alan Garfinkel\#. \
+**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
+
+# Additional Publications #
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
 **Lingyun Xiong**\#, Alicia A. McDonough. \
 **Hypertension**, 2025;82(Suppl_1):093. DOI: 10.1161/hyp.82.suppl_1.093
@@ -25,14 +41,6 @@ Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **
 Alicia A. McDonough\#, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 **Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
 
-- [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
-**Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
-**Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing))
-
-- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
-**Lingyun Xiong**, Alan Garfinkel\#. \
-**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
-  
 - Abstract: [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. \
 **Physiology**, 2023;38(S1):5731763. DOI: 10.1152/physiol.2023.38.S1.5731763
@@ -40,10 +48,6 @@ Alicia A. McDonough\#, Autumn N. Harris, **Lingyun Xiong**, Anita T. Layton. \
 - [Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4) \
 Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, Mario Parreno-Centeno, Lucie E. Gourmet, Guidantonio Malagoli Tagliazucchi, Daniel H. Jacobson, Ping Zhang, **Lingyun Xiong**, Gareth Bond, Alexis R. Barr, Maria Secrier\#. \
 **Genome Biol**, 2023;24(1):128.  DOI: 10.1186/s13059-023-02963-4 ([PDF](https://drive.google.com/file/d/1B3PlFbjicaNKBc5bf_-K6fh4MU9_73F1/view?usp=sharing))
-
-- [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
-**Lingyun Xiong**, Alan Garfinkel\#. \
-**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))
 
 - [Influence of inherited genetic variants on risk, biology and prognosis of common cancers](https://ora.ox.ac.uk/objects/uuid:feb0efe8-d01c-4758-976a-fb3ac031f061) \
 **Lingyun Xiong**\
