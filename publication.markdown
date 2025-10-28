@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
-# Selected Publications #
+### Selected Publications ###
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
 **Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing)) \
@@ -20,7 +20,7 @@ phism in the mammalian kidney](https://doi.org/10.1016/j.kint.2023.11.017). Haik
 **Lingyun Xiong**, Alan Garfinkel\#. \
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
-# Additional Publications #
+### Additional Publications ###
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
 **Lingyun Xiong**\#, Alicia A. McDonough. \
 **Hypertension**, 2025;82(Suppl_1):093. DOI: 10.1161/hyp.82.suppl_1.093
