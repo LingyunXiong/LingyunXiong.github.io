@@ -5,7 +5,11 @@ permalink: /Publications/
 ---
 § Equal contribution, \# Corresponding author
 
-### Selected Publications ###
+### Selected Articles ###
+- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v3) \
+**Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
+bioRxiv, 2025. DOI: 10.1101/2025.09.12.675896
+
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
 **Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing)) \
@@ -66,11 +70,6 @@ Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu\#. \
 **Oncogene**, 2017;36(46):6472–6479. DOI: 10.1038/onc.2017.265 ([PDF](https://drive.google.com/file/d/1MGa-miXqfzq_SPGNlr0Wq2KIB4EBN5Fj/view?usp=sharing))
 
 ## Preprints ##
-
-- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v3) \
-**Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
-bioRxiv, 2025. DOI: 10.1101/2025.09.12.675896
-
 - [Learning feedback loops in transcriptome network during cell fate transition](https://www.biorxiv.org/content/10.1101/2020.06.24.169490v2) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
 bioRxiv, 2024. DOI: 10.1101/2020.06.24.169490v2
