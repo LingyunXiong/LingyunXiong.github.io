@@ -29,20 +29,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in October: 
+# Dynamics Club in November: 
 
-### [**Forces that shape the embryo: Mechanical control of gastrulation dynamics**](https://pubmed.ncbi.nlm.nih.gov/39261736/)
+### [**Robust and resource-optimal dynamic pattern formation of Min proteins in vivo**](https://pubmed.ncbi.nlm.nih.gov/40678616/)
 
-Speaker: [**Dr. Paolo Caldarelli**](https://scholar.google.it/citations?user=W4-8UAkAAAAJ&hl=en) (Postdoctoral Researcher; Caltech)
+Speaker: [**Michael Sandler**](https://jun.ucsd.edu) (Graduate Student, Jun Lab; UCSD)
 
-Date and Time: **October 27 (Monday)** at <ins>9am Pacific Time / 12noon Eastern Time / 5pm Central European Time</ins>
+Date and Time: **Nov 4 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 987 1110 7169; Passcode: 197917)	
+Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 988 1031 5215; Passcode: 622638)	
 
 Abstract:\
-Gastrulation marks one of the most dynamic transitions in animal development, transforming a simple epithelial sheet (the epiblast) into the body plan of the embryo. How such complex organization emerges robustly from local cellular behaviors remains a central question in developmental biology. In this talk, I will discuss how mechanical feedback governs this process across species. Using the chick embryo as a model, we showed that tissue-scale forces are sufficient to self-organize the body axis—even when the embryo is bisected—demonstrating that mechanics alone can drive large-scale pattern formation. Building on these findings, I will present new results from mouse embryos imaged using multiview light-sheet microscopy, which reveal the three-dimensional coordination of epiblast morphogenesis during mammalian gastrulation. Together, these studies uncover conserved physical principles that couple tissue mechanics with fate specification during early development.
+The Min protein system prevents abnormal cell division in bacteria by forming oscillatory, reaction-diffusion patterns between cell poles. Typically, such systems are sensitive to concentrations; but, we show that Min dynamic pattern formation is robust across a wide range of Min protein levels. Using genetically engineered Escherichia coli strains, we modulate the expression of *minCD* and *minE* under fast- and slow-growth conditions and build a MinD versus MinE phase diagram that reveals dynamic patterns, including travelling and standing waves. We also find that the natural expression level of Min proteins is resource-optimal. In addition, we observe an invariant wavelength of dynamic Min patterns across the phase diagram. We explain the experimental findings quantitatively with biophysical theory based on a model that considers the switching of MinE between its latent and active states, indicating its essential role as a robustness module for Min oscillation in vivo.
 
-![DynamicsClub](/images/DynamicsClub_Oct2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Nov2025.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,7 +50,6 @@ Gastrulation marks one of the most dynamic transitions in animal development, tr
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) <br /> (UCSD) |
 | Dec 2 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
@@ -67,6 +66,7 @@ Gastrulation marks one of the most dynamic transitions in animal development, tr
 | Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
 | Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
 | Sep 16 | Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets | [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39066476/) |
+| Oct 27 | Forces that shape the embryo: Mechanical control of gastrulation dynamics | [**Paolo Caldarelli, PhD**](https://scholar.google.it/citations?user=W4-8UAkAAAAJ&hl=en) (Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39261736/) |
 
 &nbsp;
 &nbsp; 
