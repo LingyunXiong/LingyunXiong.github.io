@@ -29,20 +29,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in November: 
+# Dynamics Club in November (SfN): 
 
-### [**Robust and resource-optimal dynamic pattern formation of Min proteins in vivo**](https://pubmed.ncbi.nlm.nih.gov/40678616/)
+### [**Falling asleep follows a predictable bifurcation dynamic**](https://pubmed.ncbi.nlm.nih.gov/41152637/)
 
-Speaker: [**Michael Sandler**](https://jun.ucsd.edu) (Graduate Student, Jun Lab; UCSD)
+Speaker: [**Junheng Li, PhD**](https://www.linkedin.com/in/junheng-li-8993b7166/?originalSubdomain=uk) (Postdoctoral Researcher; Imperial College London)
 
-Date and Time: **Nov 4 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Nov 20 (Thursday)** at <ins>3pm Pacific Time / 6pm Eastern Time</ins>
 
-Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 988 1031 5215; Passcode: 622638)	
+Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 910 1626 6547; Passcode: 721030)	
 
 Abstract:\
-The Min protein system prevents abnormal cell division in bacteria by forming oscillatory, reaction-diffusion patterns between cell poles. Typically, such systems are sensitive to concentrations; but, we show that Min dynamic pattern formation is robust across a wide range of Min protein levels. Using genetically engineered Escherichia coli strains, we modulate the expression of *minCD* and *minE* under fast- and slow-growth conditions and build a MinD versus MinE phase diagram that reveals dynamic patterns, including travelling and standing waves. We also find that the natural expression level of Min proteins is resource-optimal. In addition, we observe an invariant wavelength of dynamic Min patterns across the phase diagram. We explain the experimental findings quantitatively with biophysical theory based on a model that considers the switching of MinE between its latent and active states, indicating its essential role as a robustness module for Min oscillation in vivo.
+Sleep is a fundamental part of our lives; yet, how our brain falls asleep remains one of the most enduring mysteries of neuroscience. Here we report a new conceptual framework to analyze and model this phenomenon. The framework represents the changes in brain electroencephalogram activity during the transition into sleep as a trajectory in a normalized feature space. We use the framework to show that the brain’s wake-to-sleep transition follows bifurcation dynamics with a distinct tipping point preceded by a critical slowing down. We validate the bifurcation dynamics in two independent datasets, which include more than 1,000 human participants. Finally, we demonstrate the framework’s utility by predicting a person’s progression into sleep in real time with seconds temporal resolution and over 0.95 average accuracy.
 
-![DynamicsClub](/images/DynamicsClub_Nov2025.pdf)
+![DynamicsClub](/images/DynamicsClub_Nov2025_SfN.pdf)
 
 &nbsp;
 &nbsp;
@@ -51,6 +51,7 @@ The Min protein system prevents abnormal cell division in bacteria by forming os
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Dec 2 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
+| 2026 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2025:
@@ -67,6 +68,7 @@ The Min protein system prevents abnormal cell division in bacteria by forming os
 | Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
 | Sep 16 | Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets | [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39066476/) |
 | Oct 27 | Forces that shape the embryo: Mechanical control of gastrulation dynamics | [**Paolo Caldarelli, PhD**](https://scholar.google.it/citations?user=W4-8UAkAAAAJ&hl=en) (Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39261736/) |
+| Nov 4 | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) (Jun Lab; UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40678616/) |
 
 &nbsp;
 &nbsp; 
