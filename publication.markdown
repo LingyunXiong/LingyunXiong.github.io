@@ -25,6 +25,11 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
+- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
+Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
+**Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean\#. \
+**iScience**, 2025 (*In Press*). DOI: 10.1101/2023.04.18.537360
+
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
 **Lingyun Xiong**\#, Alicia A. McDonough. \
 **Hypertension**, 2025;82(Suppl_1):093. DOI: 10.1161/hyp.82.suppl_1.093
@@ -73,10 +78,5 @@ Jinchul Kim, Shuxiang Xu, **Lingyun Xiong**, Lily Yu, Xuemei Fu, Yang Xu\#. \
 - [Learning feedback loops in transcriptome network during cell fate transition](https://www.biorxiv.org/content/10.1101/2020.06.24.169490v2) \
 **Lingyun Xiong**\#, William A. Schoenberg, Jeremy D. Swartz. \
 bioRxiv, 2024. DOI: 10.1101/2020.06.24.169490v2
-
-- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://www.biorxiv.org/content/10.1101/2023.04.18.537360v1) \
-Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Martin Bens, \
-**Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean\#. \
-bioRxiv, 2023. DOI: 10.1101/2023.04.18.537360 
 
 **Complete List of Published Work in My Bibliography**: [https://www.ncbi.nlm.nih.gov/myncbi/lingyun.xiong.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/lingyun.xiong.1/bibliography/public/)
