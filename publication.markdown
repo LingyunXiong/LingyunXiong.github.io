@@ -25,9 +25,9 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
-- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence](https://doi.org/10.1016/j.isci.2025.114010) \
+- [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence](https://www.cell.com/iscience/fulltext/S2589-0042(25)02271-0) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Nikith Kurella, \
-Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, K Lenhard Rudolph, Adam L. MacLean\#. \
+Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, Zijin Xiang, K Lenhard Rudolph, Adam L. MacLean\#. \
 **iScience**, 2025 Nov 11 (*In Press*). DOI: 10.1016/j.isci.2025.114010
 
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
@@ -39,7 +39,7 @@ Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, K Lenhard Rudolph,
 **Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
 
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
-Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, **Lingyun Xiong**, Ying Zhang. \
+Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, \ **Lingyun Xiong**, Ying Zhang. \
 **Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
 
 - Abstract: [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
