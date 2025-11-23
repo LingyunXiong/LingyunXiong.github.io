@@ -50,8 +50,8 @@ Sleep is a fundamental part of our lives; yet, how our brain falls asleep remain
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Dec 2 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
-| 2026 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
+| Jan | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
+| Feb | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2025:
@@ -69,6 +69,7 @@ Sleep is a fundamental part of our lives; yet, how our brain falls asleep remain
 | Sep 16 | Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets | [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39066476/) |
 | Oct 27 | Forces that shape the embryo: Mechanical control of gastrulation dynamics | [**Paolo Caldarelli, PhD**](https://scholar.google.it/citations?user=W4-8UAkAAAAJ&hl=en) (Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39261736/) |
 | Nov 4 | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) (Jun Lab; UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40678616/) |
+| Nov 20 | Falling asleep follows a predictable bifurcation dynamic | [**Junheng Li, PhD**](https://www.linkedin.com/in/junheng-li-8993b7166/?originalSubdomain=uk) (Imperial College) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41152637/) |
 
 &nbsp;
 &nbsp; 
