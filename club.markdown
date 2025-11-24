@@ -52,8 +52,7 @@ Sleep is a fundamental part of our lives; yet, how our brain falls asleep remain
 | **Date** | **Topic** | **Speaker(s)** |
 | Jan | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | Feb | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
-| March | Neural heterogeneity controls computations in spiking
-neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
+| March | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2025:
