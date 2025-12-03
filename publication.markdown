@@ -8,7 +8,7 @@ permalink: /Publications/
 ### Selected Articles ###
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v3) \
 **Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
-bioRxiv, 2025 (*Under Review*). DOI: 10.1101/2025.09.12.675896
+bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
