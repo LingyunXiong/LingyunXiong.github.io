@@ -29,20 +29,20 @@ Currently, we have **332** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in November - SfN: 
+# Dynamics Club in January: 
 
-### [**Falling asleep follows a predictable bifurcation dynamic**](https://pubmed.ncbi.nlm.nih.gov/41152637/)
+### [**Microdomain Metabolism in Pacemaker Myocytes: The Ca2+ Clock Drives the ATP Clock**](https://pubmed.ncbi.nlm.nih.gov/40894732/)
 
-Speaker: [**Junheng Li, PhD**](https://www.linkedin.com/in/junheng-li-8993b7166/?originalSubdomain=uk) (Postdoctoral Researcher; Imperial College London)
+Speaker: [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (Postdoctoral Researcher; UC Davis)
 
-Date and Time: **Nov 20 (Thursday)** at <ins>3pm Pacific Time / 6pm Eastern Time</ins>
+Date and Time: **Jan 12 (Monday)** at <ins>9am Pacific Time / 12pm Eastern Time</ins>
 
-Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 910 1626 6547; Passcode: 721030)	
+Virtual Event on **Zoom** (Meeting ID: 925 8202 5358; Passcode: 232803)	
 
 Abstract:\
-Sleep is a fundamental part of our lives; yet, how our brain falls asleep remains one of the most enduring mysteries of neuroscience. Here we report a new conceptual framework to analyze and model this phenomenon. The framework represents the changes in brain electroencephalogram activity during the transition into sleep as a trajectory in a normalized feature space. We use the framework to show that the brain’s wake-to-sleep transition follows bifurcation dynamics with a distinct tipping point preceded by a critical slowing down. We validate the bifurcation dynamics in two independent datasets, which include more than 1,000 human participants. Finally, we demonstrate the framework’s utility by predicting a person’s progression into sleep in real time with seconds temporal resolution and over 0.95 average accuracy.
+Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses on how energy metabolism, microvascular architecture, and ion channel function integrate to generate rhythmic activity in the sinoatrial node. His long-term goal is to establish a multiscale research program that explains how pacemaker cells initiate and sustain reliable impulses under tight energetic constraints. To address critical gaps in current models, he developed the capillary–mitochondria–ion-channel (CMIC) framework, proposing that pacemaker timing and stability emerge from local interactions among vascular supply, mitochondrial ATP production, and channel excitability. During his postdoctoral training in the Santana laboratory, he discovered that ATP in sinoatrial node myocytes fluctuates on a beat-to-beat basis. Using AAV-based ATP biosensors, two-photon imaging, and simultaneous Ca2+ measurements in intact tissue, he demonstrated that ATP levels rise and fall with each Ca2+ transient, supporting a “paycheck-to-paycheck” model of cardiac energetics. These studies also revealed heterogeneous CMIC microdomains across the node, showing that capillary density and mitochondrial organization determine the energetic bandwidth of pacemaker regions and constrain where rhythmic activity can emerge. His future program will integrate genetically encoded biosensors, advanced optical imaging, microvascular reconstruction, and high-resolution mapping to link subcellular energetic signals to whole-organ rhythm. His earlier work in Dr. Jorge Contreras’s laboratory, supported by an American Heart Association fellowship, established his expertise in connexin-43 hemichannels, mouse models, and cardiac disease mechanisms. Together, these contributions define a coherent trajectory centered on the interplay between cellular energetics and ion channel function and position him to lead an innovative research program in cardiac physiology.
 
-![DynamicsClub](/images/DynamicsClub_Nov2025_SfN.pdf)
+![DynamicsClub](/images/DynamicsClub_Jan2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -53,7 +53,6 @@ Sleep is a fundamental part of our lives; yet, how our brain falls asleep remain
 | Jan | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | Feb | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
 | Mar | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
-| 2026 | Beat–locked ATP Microdomains in the Sinoatrial Node | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2025:
