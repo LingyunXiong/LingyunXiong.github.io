@@ -6,7 +6,7 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
-- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://www.biorxiv.org/content/10.1101/2025.09.12.675896v3) \
+- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun Xiong**\#, Alan Garfinkel, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
 bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
 
