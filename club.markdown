@@ -35,14 +35,14 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 
 Speaker: [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (Postdoctoral Researcher; UC Davis)
 
-Date and Time: **Jan 12 (Monday)** at <ins>9am Pacific Time / 12pm Eastern Time</ins>
+Date and Time: **Jan 20 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
 Virtual Event on **Zoom** (Meeting ID: 925 8202 5358; Passcode: 232803)	
 
 Abstract:\
 Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses on how energy metabolism, microvascular architecture, and ion channel function integrate to generate rhythmic activity in the sinoatrial node. His long-term goal is to establish a multiscale research program that explains how pacemaker cells initiate and sustain reliable impulses under tight energetic constraints. To address critical gaps in current models, he developed the capillary–mitochondria–ion-channel (CMIC) framework, proposing that pacemaker timing and stability emerge from local interactions among vascular supply, mitochondrial ATP production, and channel excitability. During his postdoctoral training in the Santana laboratory, he discovered that ATP in sinoatrial node myocytes fluctuates on a beat-to-beat basis. Using AAV-based ATP biosensors, two-photon imaging, and simultaneous Ca2+ measurements in intact tissue, he demonstrated that ATP levels rise and fall with each Ca2+ transient, supporting a “paycheck-to-paycheck” model of cardiac energetics. These studies also revealed heterogeneous CMIC microdomains across the node, showing that capillary density and mitochondrial organization determine the energetic bandwidth of pacemaker regions and constrain where rhythmic activity can emerge. His future program will integrate genetically encoded biosensors, advanced optical imaging, microvascular reconstruction, and high-resolution mapping to link subcellular energetic signals to whole-organ rhythm. His earlier work in Dr. Jorge Contreras’s laboratory, supported by an American Heart Association fellowship, established his expertise in connexin-43 hemichannels, mouse models, and cardiac disease mechanisms. Together, these contributions define a coherent trajectory centered on the interplay between cellular energetics and ion channel function and position him to lead an innovative research program in cardiac physiology.
 
-![DynamicsClub](/images/DynamicsClub_Jan2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Jan2026re.pdf)
 
 &nbsp;
 &nbsp;
@@ -56,25 +56,10 @@ Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses 
 | 2026 | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
-# Past Events in 2025:
-
-| **Date** | **Topic** | **Speaker(s)** | **Materials** |
-| Jan 22 | Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time | [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36662864/) |
-| Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
-| Mar 5 | Cell signaling in “4D”: Dynamic p53 post-translational modifications regulate cell fate | [**Dan Lu, PhD**](https://www.lahavlab.com/dan-lu) (Harvard Medical School) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39454005/) |
-| Mar 20 | Exploring the developmental roles of glia in the heart | [**Sarah Light, PhD**](http://smithneurallab.weebly.com/people.html) (Notre Dame) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34793438/) |
-| Apr 30 | Detecting patterns and disruptions in spontaneous physiological fluctuations in the kidney using MRI | [**Edwin Baldelomar, PhD**](https://www.mir.wustl.edu/employees/edwin-baldelomar/) (WashU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38660712/) |
-| May 7 | Sleep is for brain cleaning: investigating drivers of the glymphatic system | [**Natalie Hauglund, PhD**](https://www.dpag.ox.ac.uk/team/natalie-hauglund-1) (Oxford) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39788123/) |
-| Jun 12 | Mechano-Electro-Chemical Coupling in Neuromodulation and Neuronal Injury | [**Casey Adam, DPhil**](https://vet.purdue.edu/cpr/team.php) (Purdue) | [Link](https://www.nature.com/articles/s42005-023-01252-7) |
-| Aug 12 | Sleep microstructure organizes memory replay | [**Wenbo Tang, PhD**](https://braincomputation.org/people/) (Cornell) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39743590/) |
-| Aug 21 | Genetic and Molecular Strategies for Unraveling Sensory Circuit Development | [**David YC Chen, PhD**](https://ycdavidchen.com) (Temple) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37523539/) |
-| Sep 16 | Investigating the Bistability in Coordinated Oscillations of Pancreatic Islets | [**Nicole Bruce, PhD**](https://uthsc.edu/graduate-health-sciences/postdoc/current-scholars.php) (University of Tennessee) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39066476/) |
-| Oct 27 | Forces that shape the embryo: Mechanical control of gastrulation dynamics | [**Paolo Caldarelli, PhD**](https://scholar.google.it/citations?user=W4-8UAkAAAAJ&hl=en) (Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39261736/) |
-| Nov 4 | Robust and resource-optimal dynamic pattern formation of Min proteins in vivo | [**Michael Sandler**](https://jun.ucsd.edu) (Jun Lab; UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40678616/) |
-| Nov 20 | Falling asleep follows a predictable bifurcation dynamic | [**Junheng Li, PhD**](https://www.linkedin.com/in/junheng-li-8993b7166/?originalSubdomain=uk) (Imperial College) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41152637/) |
-
 &nbsp;
 &nbsp; 
+
+# [Past Events in 2025](https://lingyunxiong.github.io/2025/12/30/DynamicsClub.html)
 
 # [Past Events in 2024](https://lingyunxiong.github.io/2024/12/30/DynamicsClub.html)
 
