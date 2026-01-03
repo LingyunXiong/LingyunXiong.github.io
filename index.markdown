@@ -9,11 +9,11 @@ layout: home
 
 ## **Homeodynamics in Health and Disease**
 
-I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My current research addresses this gap by focusing on physiological oscillations in the mammalian kidney. I take a multi-scale approach to investigate how tubular fluid flow and cellular metabolic dynamics are coupled to facilitate normal physiology in the kidney, how oscillatory flow in 1 million renal tubules coordiantes to achieve organ-level temporal synchronization, and more broadly how oscillatory signals can organize multi-organ communication. Combining quantitative imaging and mathematical modeling, my onging research evaluates the mathematical structures underlying the transition from health to disease. 
+I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My current development addresses this gap by focusing on physiological oscillations in the mammalian kidney. Combining quantitative imaging, timeseries data analysis and mathematical modeling, my research evaluates the mathematical structures underlying the transition from health to disease. 
 
 ## **Current Research Focus**
 - Physiological dynamics via *in vivo* imaging and telemetry
-- Computational modeling of fluid dynamics
+- Computational modeling of fluid dynamics in physiology
 - Comparative studies of cardio-renal physiology
 
 ## **Qualifications** 
