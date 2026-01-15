@@ -50,10 +50,10 @@ Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jan | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | Feb | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
-| Mar | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
+| Mar 6 | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
 | 2026 | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
+| 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 &nbsp;
