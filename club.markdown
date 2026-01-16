@@ -15,8 +15,8 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 
 # Job opportunities:
 - A PhD position is available with [**Dr. Eder Zavala**](https://research.manchester.ac.uk/en/persons/eder-zavala/) at University of Manchester ([Details](https://www.findaphd.com/phds/project/mathematical-modelling-of-the-cross-talk-interactions-between-the-hpa-axis-and-the-renin-angiotensin-system/?p193226))
+- A postdoctoral position is available with [**Dr. Eder Zavala**](https://research.manchester.ac.uk/en/persons/eder-zavala/) at University of Manchester ([Details](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=33961))
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
-- A postdoctoral position is available with [**Dr. Catera Wilder**](https://pharm.ucsf.edu/wilder) at UCSF ([Details](https://opportunities.ucsf.edu/content/postdoctoral-scholar-research-position-computational-modeling-dynamic-cell-systems))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 
 &nbsp;
