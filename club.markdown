@@ -58,7 +58,7 @@ Oscillatory p53 expression occurs in individual cells responding to DNA breaks. 
 # Past Events in 2026:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
-| Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca2+ Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
+| Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
 
 &nbsp;
 &nbsp; 
