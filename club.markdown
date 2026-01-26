@@ -29,20 +29,20 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in January: 
+# Dynamics Club in February: 
 
-### [**Microdomain Metabolism in Pacemaker Myocytes: The Ca2+ Clock Drives the ATP Clock**](https://pubmed.ncbi.nlm.nih.gov/40894732/)
+### [**Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/40033003/)
 
-Speaker: [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (Postdoctoral Researcher; UC Davis)
+Speaker: [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (Postdocotral Fellow; UMN)
 
-Date and Time: **Jan 20 (Tuesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Feb XX** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 925 8202 5358; Passcode: 232803)	
+Virtual Event on **Zoom** (Meeting ID: --; Passcode: --)	
 
 Abstract:\
-Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses on how energy metabolism, microvascular architecture, and ion channel function integrate to generate rhythmic activity in the sinoatrial node. His long-term goal is to establish a multiscale research program that explains how pacemaker cells initiate and sustain reliable impulses under tight energetic constraints. To address critical gaps in current models, he developed the capillary–mitochondria–ion-channel (CMIC) framework, proposing that pacemaker timing and stability emerge from local interactions among vascular supply, mitochondrial ATP production, and channel excitability. During his postdoctoral training in the Santana laboratory, he discovered that ATP in sinoatrial node myocytes fluctuates on a beat-to-beat basis. Using AAV-based ATP biosensors, two-photon imaging, and simultaneous Ca2+ measurements in intact tissue, he demonstrated that ATP levels rise and fall with each Ca2+ transient, supporting a “paycheck-to-paycheck” model of cardiac energetics. These studies also revealed heterogeneous CMIC microdomains across the node, showing that capillary density and mitochondrial organization determine the energetic bandwidth of pacemaker regions and constrain where rhythmic activity can emerge. His future program will integrate genetically encoded biosensors, advanced optical imaging, microvascular reconstruction, and high-resolution mapping to link subcellular energetic signals to whole-organ rhythm. His earlier work in Dr. Jorge Contreras’s laboratory, supported by an American Heart Association fellowship, established his expertise in connexin-43 hemichannels, mouse models, and cardiac disease mechanisms. Together, these contributions define a coherent trajectory centered on the interplay between cellular energetics and ion channel function and position him to lead an innovative research program in cardiac physiology.
+Oscillatory p53 expression occurs in individual cells responding to DNA breaks. While the majority of cells exhibit the same qualitative response, quantitative features of the oscillations (e.g., amplitude or period) can be highly variable between cells, generating heterogeneity in downstream cell fate responses. Since heterogeneity can be detrimental to therapies based on DNA damage, methods to induce synchronization of p53 oscillations across cells in a population have the potential to generate more predictable responses to DNA-damaging treatments. Using mathematical modeling and time-lapse microscopy, we demonstrated that p53 oscillations can be synchronized through the phenomenon of phase resetting. Surprisingly, p53 oscillations were synchronized over a wider range of damage-induction frequencies than predicted computationally. Recapitulating the range of synchronizing frequencies required, non-intuitively, a less robust oscillator. We showed that p53 phase resetting altered the expression of downstream targets responsible for cell fate depending on target mRNA stability. This study demonstrates that p53 oscillations can be phase reset and highlights the potential of driving p53 dynamics to reduce cellular variability and synchronize cell fate responses to DNA damage.
 
-![DynamicsClub](/images/DynamicsClub_Jan2026re.pdf)
+![DynamicsClub](/images/DynamicsClub_Feb2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,11 +50,15 @@ Dr. Manuel Muñoz Camus is a cardiovascular physiologist whose research focuses 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Feb | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) |
 | Mar 6 | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
 | 2026 | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
+
+# Past Events in 2026:
+
+| **Date** | **Topic** | **Speaker(s)** | **Materials** |
+| Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca2+ Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
 
 &nbsp;
 &nbsp; 
