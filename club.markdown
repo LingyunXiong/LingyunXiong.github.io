@@ -33,11 +33,11 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 
 ### [**Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/40033003/)
 
-Speaker: [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (Postdocotral Fellow; UMN)
+Speaker: [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (Batchelor Lab; UMN)
 
-Date and Time: **Feb XX** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Feb 13 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: --; Passcode: --)	
+Virtual Event on **Zoom** (Meeting ID: 927 8255 7024; Passcode: 198819)	
 
 Abstract:\
 Oscillatory p53 expression occurs in individual cells responding to DNA breaks. While the majority of cells exhibit the same qualitative response, quantitative features of the oscillations (e.g., amplitude or period) can be highly variable between cells, generating heterogeneity in downstream cell fate responses. Since heterogeneity can be detrimental to therapies based on DNA damage, methods to induce synchronization of p53 oscillations across cells in a population have the potential to generate more predictable responses to DNA-damaging treatments. Using mathematical modeling and time-lapse microscopy, we demonstrated that p53 oscillations can be synchronized through the phenomenon of phase resetting. Surprisingly, p53 oscillations were synchronized over a wider range of damage-induction frequencies than predicted computationally. Recapitulating the range of synchronizing frequencies required, non-intuitively, a less robust oscillator. We showed that p53 phase resetting altered the expression of downstream targets responsible for cell fate depending on target mRNA stability. This study demonstrates that p53 oscillations can be phase reset and highlights the potential of driving p53 dynamics to reduce cellular variability and synchronize cell fate responses to DNA damage.
