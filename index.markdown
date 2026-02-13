@@ -12,9 +12,9 @@ layout: home
 I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My ongoing work addresses this gap by focusing on physiological oscillations in the mammalian kidney. Combining quantitative imaging, timeseries data analysis and mathematical modeling, my research evaluates the mathematical structures underlying the transition from health to disease. 
 
 ## **Current Research Focus**
-- Physiological dynamics via *in vivo* imaging and telemetry
-- Modeling fluid dynamics in development and physiology
-- Comparative studies of multi-organ function
+- Multi-scale dynamics via *in vivo* imaging and telemetry
+- Fluid dynamics in development and physiology
+- Comparative studies of organ functions
 
 ## **Qualifications** 
 * D.Phil. in Systems Biology, University of Oxford (2021)
