@@ -29,20 +29,20 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in February: 
+# Dynamics Club in March: 
 
-### [**Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate**](https://pubmed.ncbi.nlm.nih.gov/40033003/)
+### [**How Neural Heterogeneity Controls Network Function**](https://pubmed.ncbi.nlm.nih.gov/38198531/)
 
-Speaker: [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (Batchelor Lab; UMN)
+Speaker: [**Dr. Richard Gast**](https://www.richardgast.me) (Postdoctoral Researcher; Scripps Research)
 
-Date and Time: **Feb 13 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **Mar 6 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 927 8255 7024; Passcode: 198819)	
+Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 962 3517 5902; Passcode: 443928)	
 
 Abstract:\
-Oscillatory p53 expression occurs in individual cells responding to DNA breaks. While the majority of cells exhibit the same qualitative response, quantitative features of the oscillations (e.g., amplitude or period) can be highly variable between cells, generating heterogeneity in downstream cell fate responses. Since heterogeneity can be detrimental to therapies based on DNA damage, methods to induce synchronization of p53 oscillations across cells in a population have the potential to generate more predictable responses to DNA-damaging treatments. Using mathematical modeling and time-lapse microscopy, we demonstrated that p53 oscillations can be synchronized through the phenomenon of phase resetting. Surprisingly, p53 oscillations were synchronized over a wider range of damage-induction frequencies than predicted computationally. Recapitulating the range of synchronizing frequencies required, non-intuitively, a less robust oscillator. We showed that p53 phase resetting altered the expression of downstream targets responsible for cell fate depending on target mRNA stability. This study demonstrates that p53 oscillations can be phase reset and highlights the potential of driving p53 dynamics to reduce cellular variability and synchronize cell fate responses to DNA damage.
+Recent advances in transcriptomics, projection tracing, and multi-neuron recordings reveal that neural heterogeneity — the continuous diversity of cellular, synaptic, and circuit properties — is a pervasive feature of brains. But what is the functional relevance of this heterogeneity? In the traditional view, differences between cell types are considered as the functionally relevant aspect of neural heterogeneity, whereas the contribution of additional heterogeneity within cell types is considered negligible. In this talk, I will argue that the continuously distributed physiological properties existing within cell types play an important functional role that is complementary to the role of discrete cell types. In the first part of the talk, I will introduce a mathematical framework that allows to derive an analytical relationship between neural heterogeneity and emergent neural population dynamics. In the second part, I will discuss various numerical results that reveal how neural heterogeneity controls the function and development of recurrent neural networks.
 
-![DynamicsClub](/images/DynamicsClub_Feb2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Mar2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,7 +50,6 @@ Oscillatory p53 expression occurs in individual cells responding to DNA breaks. 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Mar 6 | Neural heterogeneity controls computations in spiking neural networks | [**Dr. Richard Gast**](https://www.richardgast.me) <br /> (Scripps Research) |
 | 2026 | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
@@ -59,6 +58,7 @@ Oscillatory p53 expression occurs in individual cells responding to DNA breaks. 
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
+| Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
 
 &nbsp;
 &nbsp; 
