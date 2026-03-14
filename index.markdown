@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![profile](/images/Portrait_Xiong_272x272.png) | **Lingyun (Ivy) Xiong, D.Phil.** <br /><br /> Postdoctoral Fellow at UCLA <br /> Integrative Biology and Physiology <br /> Quantitative and Computational Biosciences <br /><br /> Research Collaborator at NIH/NCI <br /><br /> Founder and Host of the [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> [CV](https://drive.google.com/file/d/1zOBjmKlzsq1wnQeEepXZeocNx7c6YW-5/view?usp=sharing) \| [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Bluesky](https://bsky.app/profile/ivyxiong.bsky.social) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [ivyxiong@ucla.edu](mailto:ivyxiong@ucla.edu)|
+| ![profile](/images/Portrait_Xiong_272x272.png) | **Lingyun (Ivy) Xiong, D.Phil.** <br /><br /> Postdoctoral Fellow at UCLA <br /> Integrative Biology and Physiology <br /> Quantitative and Computational Biosciences <br /><br /> Research Collaborator at NIH/NCI <br /><br /> Founder and Host of the [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> [CV](https://drive.google.com/file/d/1CK4phoSF7-uk_QvWkt_lEnSnv2y_ir_6/view?usp=sharing) \| [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Bluesky](https://bsky.app/profile/ivyxiong.bsky.social) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [ivyxiong@ucla.edu](mailto:ivyxiong@ucla.edu)|
 
 ## **Homeodynamics in Health and Disease**
 
