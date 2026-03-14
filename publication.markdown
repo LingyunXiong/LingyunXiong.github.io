@@ -29,7 +29,7 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Nikith Kurella, \
 Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, Zijin Xiang, K Lenhard Rudolph, \
 Adam L. MacLean\#. \
-**iScience**, 2025 Nov 11 (Online ahead of print). DOI: 10.1016/j.isci.2025.114010
+**iScience**, 2025;28(12):114010. DOI: 10.1016/j.isci.2025.114010 ([PDF](https://drive.google.com/file/d/1_oIolfZECnEgL9IS0355nidyDr4_VW2O/view?usp=sharing))
 
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
 **Lingyun Xiong**\#, Alicia A. McDonough. \
