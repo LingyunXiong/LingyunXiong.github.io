@@ -29,20 +29,20 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in March: 
+# Dynamics Club in April (LNE Seminar): 
 
-### [**How Neural Heterogeneity Controls Network Function**](https://pubmed.ncbi.nlm.nih.gov/38198531/)
+### **A tale of two signals: leveraging small but persistent differences for detection in human health**
 
-Speaker: [**Dr. Richard Gast**](https://www.richardgast.me) (Postdoctoral Researcher; Scripps Research)
+Speaker: [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (Assistant Professor; UCSD)
 
-Date and Time: **Mar 6 (Friday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **April 10 (Friday)** at <ins>12am Pacific Time / 3pm Eastern Time</ins>
 
-Hybrid Event: **Boyer Hall 554** and on **Zoom** (Meeting ID: 962 3517 5902; Passcode: 443928)	
+In-person Event: **Terasaki life Science Building 1100** 
 
 Abstract:\
 Recent advances in transcriptomics, projection tracing, and multi-neuron recordings reveal that neural heterogeneity — the continuous diversity of cellular, synaptic, and circuit properties — is a pervasive feature of brains. But what is the functional relevance of this heterogeneity? In the traditional view, differences between cell types are considered as the functionally relevant aspect of neural heterogeneity, whereas the contribution of additional heterogeneity within cell types is considered negligible. In this talk, I will argue that the continuously distributed physiological properties existing within cell types play an important functional role that is complementary to the role of discrete cell types. In the first part of the talk, I will introduce a mathematical framework that allows to derive an analytical relationship between neural heterogeneity and emergent neural population dynamics. In the second part, I will discuss various numerical results that reveal how neural heterogeneity controls the function and development of recurrent neural networks.
 
-![DynamicsClub](/images/DynamicsClub_Mar2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Apr2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -53,13 +53,14 @@ Recent advances in transcriptomics, projection tracing, and multi-neuron recordi
 | Jun | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) |
 | Aug | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
-| 2026 | Longitudinal monitoring of developmental plasticity in the mouse auditory cortex | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
+| 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2026:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
 | Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
+| Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Richard Gast**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
 
 &nbsp;
 &nbsp; 
