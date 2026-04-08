@@ -29,13 +29,13 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in April (LNE Seminar): 
+# LNE Seminar / Dynamics Club in April: 
 
-### **A tale of two signals: leveraging small but persistent differences for detection in human health**
+### [**A tale of two signals: leveraging small but persistent differences for detection in human health**](https://pubmed.ncbi.nlm.nih.gov/39134787/)
 
 Speaker: [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (Assistant Professor; UCSD)
 
-Date and Time: **April 10 (Friday)** at <ins>12am Pacific Time / 3pm Eastern Time</ins>
+Date and Time: **April 10 (Friday)** at <ins>12pm Pacific Time / 3pm Eastern Time</ins>
 
 In-person Event: **Terasaki life Science Building 1100** 
 
