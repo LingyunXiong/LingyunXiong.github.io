@@ -6,8 +6,8 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
-- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats (*In Submission*)\
-**Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\#.
+- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
+**Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\# (*In Submission*).
   
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. \
