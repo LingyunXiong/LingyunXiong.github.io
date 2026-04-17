@@ -31,6 +31,10 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
+- [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
+Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
+**AJP Renal Physiol**, 2026 (*In Press*). DOI: 10.1152/ajprenal.00088.2026 
+
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence](https://www.cell.com/iscience/fulltext/S2589-0042(25)02271-0) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Nikith Kurella, \
 Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, Zijin Xiang, K Lenhard Rudolph, \
