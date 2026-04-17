@@ -12,6 +12,10 @@ permalink: /Publications/
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
 
+- [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
+Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layton. \
+**Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
+
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
 **Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing)) \
@@ -49,10 +53,6 @@ Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, \
 - Abstract: [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
 **Lingyun Xiong**\#, Alan Garfinkel, Eric J. Deeds. \
 **Physiology**, 2024;39(S1):1234. DOI: 10.1152/physiol.2024.39.S1.1234
-  
-- [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
-Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layton. \
-**Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
 
 - Abstract: [Sex differences in proximal tubule metabolism influence hemodynamics and salt reabsorption to mediate dimorphic susceptibility to kidney diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731763) \
 **Lingyun Xiong**\#, Adam L. MacLean, Andrew P. McMahon. \
