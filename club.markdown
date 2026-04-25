@@ -52,6 +52,7 @@ HealthAI continues to expand, dominated by image or omics analysis. But millions
 | **Date** | **Topic** | **Speaker(s)** |
 | Jun | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) |
 | Aug | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
+| Sep | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
