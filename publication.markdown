@@ -8,7 +8,11 @@ permalink: /Publications/
 ### Selected Articles ###
 - Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
 **Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\# (*In Submission*).
-  
+
+- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
+**Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
+**J Physiol**, 2026:604(9):3672-3693. DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
+
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
 
@@ -21,10 +25,6 @@ Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layto
 **Dev Cell**, 2023;58(21):2338-2358.e5. DOI: 10.1016/j.devcel.2023.08.010 ([PDF](https://drive.google.com/drive/folders/1bmRs2yOYdQAZdW10FjYbpe_ZHB7KQHkf?usp=sharing)) \
 ^Highlighted by: [Multimodal characterization of sexual dimorphism in the mammalian kidney](https://doi.org/10.1016/j.kint.2023.11.017). \
 Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
-
-- [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
-**Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
-**J Physiol**, 2023 Aug 25 (Online ahead of print). DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
