@@ -6,12 +6,9 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
-- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
-**Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\# (*In Submission*).
-
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
-**J Physiol**, 2026:604(9):3672-3693. DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
+**J Physiol**, 2026;604(9):3672-3693. DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
 
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
@@ -31,6 +28,9 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
+- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
+**Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\# (*In Submission*).
+
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
 **AJP Renal Physiol**, 2026 (*In Press*). DOI: 10.1152/ajprenal.00088.2026 
