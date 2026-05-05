@@ -28,9 +28,6 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
-- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
-**Lingyun (Ivy) Xiong**§, Ariel Finch§, Donna L. Ralph, Babatunde D. Anidu, Louise C. Evans\#, Alicia A. McDonough\# (*In Submission*).
-
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
 **AJP Renal Physiol**, 2026 (*In Press*). DOI: 10.1152/ajprenal.00088.2026 
