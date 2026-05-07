@@ -25,12 +25,12 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 
 - [A common pathway to cancer: Oncogenic mutations abolish p53 oscillations](https://doi.org/10.1016/j.pbiomolbio.2022.06.002) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
-**Prog Biophys Mol Biol**, 2022 Oct;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
+**Prog Biophys Mol Biol**, 2022;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
-**AJP Renal Physiol**, 2026 (*In Press*). DOI: 10.1152/ajprenal.00088.2026 
+**AJP Renal Physiol**, 2026;330(6):F643-F652. DOI: 10.1152/ajprenal.00088.2026 ([PDF](https://drive.google.com/file/d/1nNoCWae6WyTuiVknrP1ICwoXtSxWcDdL/view?usp=sharing))
 
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence](https://www.cell.com/iscience/fulltext/S2589-0042(25)02271-0) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Nikith Kurella, \
