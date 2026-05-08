@@ -35,16 +35,14 @@ Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie
 - [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence](https://www.cell.com/iscience/fulltext/S2589-0042(25)02271-0) \
 Megan K Rommelfanger, Marthe Behrends, Yulin Chen, Jonathan Martinez, Nikith Kurella, \
 Nino Geisler, Deepthi Guturu, Martin Bens, **Lingyun Xiong**, Zijin Xiang, K Lenhard Rudolph, \
-Adam L. MacLean\#. \
-**iScience**, 2025;28(12):114010. DOI: 10.1016/j.isci.2025.114010 ([PDF](https://drive.google.com/file/d/1_oIolfZECnEgL9IS0355nidyDr4_VW2O/view?usp=sharing))
+Adam L. MacLean\#. **iScience**, 2025;28(12):114010. DOI: 10.1016/j.isci.2025.114010 ([PDF](https://drive.google.com/file/d/1_oIolfZECnEgL9IS0355nidyDr4_VW2O/view?usp=sharing))
 
 - Abstract: [Tubuloglomerular feedback system dynamically regulates cardiorenal crosstalk](https://www.ahajournals.org/doi/10.1161/hyp.82.suppl_1.093) \
 **Lingyun Xiong**\#, Alicia A. McDonough. \
 **Hypertension**, 2025;82(Suppl_1):093. DOI: 10.1161/hyp.82.suppl_1.093
 
 - Abstract: [Functional coupling of cellular metabolism and renal hemodynamics underlies kidney sex differences](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.0755) \
-**Lingyun Xiong**\#, Alan Garfinkel, Kate Barrows, Lauryn Brown, Natalie Porat-Shliom, and Eric J. Deeds. \
-**Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
+**Lingyun Xiong**\#, Alan Garfinkel, Kate Barrows, Lauryn Brown, Natalie Porat-Shliom, and Eric J. Deeds. **Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
 
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, \
