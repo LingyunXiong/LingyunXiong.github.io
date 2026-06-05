@@ -14,7 +14,6 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
-- A PhD position is available with [**Dr. Eder Zavala**](https://research.manchester.ac.uk/en/persons/eder-zavala/) at University of Manchester ([Details](https://www.findaphd.com/phds/project/mathematical-modelling-of-the-cross-talk-interactions-between-the-hpa-axis-and-the-renin-angiotensin-system/?p193226))
 - A postdoctoral position is available with [**Dr. Eder Zavala**](https://research.manchester.ac.uk/en/persons/eder-zavala/) at University of Manchester ([Details](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=33961))
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
@@ -29,20 +28,20 @@ Currently, we have **336** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# LNE Seminar / Dynamics Club in April: 
+# Dynamics Club in June: 
 
-### [**A tale of two signals: leveraging small but persistent differences for detection in human health**](https://pubmed.ncbi.nlm.nih.gov/39134787/)
+### **Epinephrine oscillation enhances the alertness of target cells to stress**
 
-Speaker: [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (Assistant Professor; UCSD)
+Speaker: [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Postdoctoral Fellow; Whitehead Institute)
 
-Date and Time: **April 10 (Friday)** at <ins>12pm Pacific Time / 3pm Eastern Time</ins>
+Date and Time: **June 25 (Thursday)** at <ins>11pm Pacific Time / 2pm Eastern Time</ins>
 
-In-person Event: **Terasaki life Science Building 1100** 
+Virtual Event on **Zoom** (Meeting ID: TBA) 
 
 Abstract:\
-HealthAI continues to expand, dominated by image or omics analysis. But millions of people generate continuous data on their physiology and behavior through apps and wearables outside the clinic. At the Smarr Lab, we imagine a future where such "digital trails" are ubiquitous, and design analytics to turn those signals into actionable health insights. In this talk I focus on two recent publications in which the uniting theme is identifying individuals at risk for low-amplitude but chronic health challenges through subtle but persistent aberrations in their physiology only visible through long-term recordings. 
+TBA
 
-![DynamicsClub](/images/DynamicsClub_Apr2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Jun2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -50,7 +49,6 @@ HealthAI continues to expand, dominated by image or omics analysis. But millions
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Jun | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) |
 | Aug | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | Sep | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
@@ -62,6 +60,7 @@ HealthAI continues to expand, dominated by image or omics analysis. But millions
 | Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
 | Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
 | Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Richard Gast**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
+| Apr 10 | LNE Seminar: Leveraging small but persistent differences for detection in human health | [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39134787/) |
 
 &nbsp;
 &nbsp; 
