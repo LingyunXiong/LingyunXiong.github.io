@@ -7,7 +7,7 @@ permalink: /Publications/
 
 ### Selected Articles ###
 - Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
-**Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#.
+**Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#. \
 **AJP Cell Physiol** (*In Press*).
 
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
