@@ -6,16 +6,16 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
+- Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats \
+**Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#.
+**AJP Cell Physiol** (*In Press*).
+
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
 **J Physiol**, 2026;604(9):3672-3693. DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
 
 - [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
 **Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
-
-- [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
-Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layton. \
-**Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
@@ -44,6 +44,10 @@ Adam L. MacLean\#. **iScience**, 2025;28(12):114010. DOI: 10.1016/j.isci.2025.11
 - Abstract: [Functional coupling of cellular metabolism and renal hemodynamics underlies kidney sex differences](https://journals.physiology.org/doi/abs/10.1152/physiol.2025.40.S1.0755) \
 **Lingyun Xiong**\#, Alan Garfinkel, Kate Barrows, Lauryn Brown, Natalie Porat-Shliom, and Eric J. Deeds. **Physiology**, 2025;40(S1):0755. DOI: 10.1152/physiol.2025.40.S1.0755
 
+- [Sex differences in renal transporters: assessment and functional consequences](https://www.nature.com/articles/s41581-023-00757-2) \
+Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layton. \
+**Nat Rev Nephrol**, 2024;20(1):21-36. DOI: 10.1038/s41581-023-00757-2 ([PDF](https://drive.google.com/file/d/10iL5yjxaF-OlAcormAlQId8cN66IFYFi/view?usp=sharing))
+  
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, \
 **Lingyun Xiong**, Ying Zhang. \
