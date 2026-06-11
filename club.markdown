@@ -8,7 +8,7 @@ Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to d
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
 
-Currently, we have **336** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **338** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -36,10 +36,10 @@ Speaker: [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (P
 
 Date and Time: **June 25 (Thursday)** at <ins>11pm Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: TBA) 
+Virtual Event on **Zoom** (Meeting ID: 941 8865 7435; Passcode: 214768) 
 
 Abstract:\
-TBA
+Mammals constantly face stressors of varying intensity, and their cells must mount responses that scale accurately with severity. Stress hormones are central to this, yet sustained hormonal signaling drives desensitization. So how do cells stay alert and responsive to changing stress levels over time? In this talk, I'll describe how natural ultradian oscillations of epinephrine, a major stress hormone, are key to maintaining cellular alertness and tunability. Using live single-cell imaging of human airway smooth muscle cells with a cAMP biosensor, receptor kinetic measurements, and mathematical modeling, we found that constant hormone stimulation blunts receptor signaling during acute stress. Oscillatory stimulation, by contrast, preserves alertness: receptors resensitize between cycles, replenishing the surface free-receptor pool. These oscillations also widen the signaling dynamic range, sharpening the cell's ability to distinguish different stress intensities. Knocking out canonical desensitization machinery (GRK and β-arrestin) restored alertness even under constant stimulation, confirming the mechanism. Together, these findings reveal that hormone oscillations preserve cellular alertness while optimizing the tunability of stress signaling, enabling effective responses during both homeostasis and stress.
 
 ![DynamicsClub](/images/DynamicsClub_Jun2026.pdf)
 
