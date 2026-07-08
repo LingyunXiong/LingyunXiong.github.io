@@ -6,9 +6,9 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
-- [Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats](https://pubmed.ncbi.nlm.nih.gov/42290570/) \
+- [Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats](https://doi.org/10.1152/ajpcell.00256.2026) \
 **Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#. \
-**AJP Cell Physiol** (*In Press*). DOI: 10.1152/ajpcell.00256.2026
+**AJP Cell Physiol**, 2026;331(2):C293-C300. DOI: 10.1152/ajpcell.00256.2026 ([PDF](https://drive.google.com/file/d/1bV-HhL6HNf1nzXg-hUEkXsOxqSOEBLjX/view?usp=sharing))
 
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
