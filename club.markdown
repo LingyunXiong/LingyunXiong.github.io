@@ -27,20 +27,20 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in June: 
+# Dynamics Club in August: 
 
-### **Epinephrine oscillation enhances the alertness of target cells to stress**
+### [**Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis**](https://pubmed.ncbi.nlm.nih.gov/42242219/)
 
-Speaker: [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Postdoctoral Fellow; Whitehead Institute)
+Speaker: [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (MD-PhD Candidate; NYU)
 
-Date and Time: **June 25 (Thursday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **August 26 (Wednesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 941 8865 7435; Passcode: 214768) 
+Virtual Event on **Zoom** (Meeting ID: 941 3047 4593; Passcode: 964790) 
 
 Abstract:\
-Mammals constantly face stressors of varying intensity, and their cells must mount responses that scale accurately with severity. Stress hormones are central to this, yet sustained hormonal signaling drives desensitization. So how do cells stay alert and responsive to changing stress levels over time? In this talk, I'll describe how natural ultradian oscillations of epinephrine, a major stress hormone, are key to maintaining cellular alertness and tunability. Using live single-cell imaging of human airway smooth muscle cells with a cAMP biosensor, receptor kinetic measurements, and mathematical modeling, we found that constant hormone stimulation blunts receptor signaling during acute stress. Oscillatory stimulation, by contrast, preserves alertness: receptors resensitize between cycles, replenishing the surface free-receptor pool. These oscillations also widen the signaling dynamic range, sharpening the cell's ability to distinguish different stress intensities. Knocking out canonical desensitization machinery (GRK and β-arrestin) restored alertness even under constant stimulation, confirming the mechanism. Together, these findings reveal that hormone oscillations preserve cellular alertness while optimizing the tunability of stress signaling, enabling effective responses during both homeostasis and stress.
+De novo protein synthesis is required for long-lasting synaptic plasticity and memory, but it comes with a great metabolic cost. In the mammalian brain, it remains unclear which cell types and biological mechanisms are critical for sensing and responding to increased metabolic demand. Here, we demonstrate that microglia, the resident macrophages of the brain, are required for metabolic coupling between endothelial cells, astrocytes, and neurons, which fuels protein synthesis in active neurons. Increasing metabolic demand via a motor task stimulates microglia to secrete the hypoxia-responsive protein CYR61, which increases glucose transporter expression in brain vasculature. Depleting microglia reduces training-induced metabolic fluxes and neuronal protein synthesis, which can be reproduced by blocking CYR61 signaling. Thus, we define a neuroimmune metabolic circuit that is required for on-demand protein synthesis in mouse motor cortex.
 
-![DynamicsClub](/images/DynamicsClub_Jun2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Aug2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,6 @@ Mammals constantly face stressors of varying intensity, and their cells must mou
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Aug | Microglia coordinate activity-dependent protein synthesis in neurons through metabolic coupling | [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) |
 | Sep | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
@@ -60,6 +59,7 @@ Mammals constantly face stressors of varying intensity, and their cells must mou
 | Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
 | Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Richard Gast**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
 | Apr 10 | LNE Seminar: Leveraging small but persistent differences for detection in human health | [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39134787/) |
+| Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
 
 &nbsp;
 &nbsp; 
