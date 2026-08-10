@@ -28,6 +28,10 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
+- Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy
+Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, MPH, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. \
+** Hypertension**, 2026 (*Accepted*). 
+
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
 **AJP Renal Physiol**, 2026;330(6):F643-F652. DOI: 10.1152/ajprenal.00088.2026 ([PDF](https://drive.google.com/file/d/1nNoCWae6WyTuiVknrP1ICwoXtSxWcDdL/view?usp=sharing))
