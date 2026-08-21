@@ -28,9 +28,13 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
+- Perifusate metabolomics interrogates nutrient exposure and oxidative stress response in kidney tubules \
+Vera C. Wulfmeyer, Marlon Gernemann, Xavier de la Rosa, Anders M. Kristensen, Peder Berg, **Lingyun Xiong**, Oliver Kretz, Imke A. K. Fiedler, Johannes Jaegers, Anja M. Billing, Nikolaj Bøgh, Johanna Hoyer-Allo, Franziska Grundmann, Volker Burst, Christoffer Laustsen, Ina M. Schiessl, Roman-Ulrich Müller, Fatih Demir, Markus M. Rinschen\#. \
+**Cell Reports**, 2026 (*Accepted*).
+
 - Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy \
 Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. \
-**Hypertension**, 2026 (*Accepted*). 
+**Hypertension**, 2026 (*In Press*). 
 
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
