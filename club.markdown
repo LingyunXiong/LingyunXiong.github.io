@@ -27,20 +27,20 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in August: 
+# Dynamics Club in September: 
 
-### [**Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis**](https://pubmed.ncbi.nlm.nih.gov/42242219/)
+### [**Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature**](https://pubmed.ncbi.nlm.nih.gov/42335226/)
 
-Speaker: [**Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (MD-PhD Candidate; NYU)
+Speaker: [**Anush Swaminathan**](https://medicine.yale.edu/profile/anush-swaminathan/) (MD-PhD Candidate; Yale University)
 
-Date and Time: **August 26 (Wednesday)** at <ins>11am Pacific Time / 2pm Eastern Time</ins>
+Date and Time: **September 9 (Wednesday)** at <ins>1pm Pacific Time / 4pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 941 3047 4593; Passcode: 964790) 
+Virtual Event on **Zoom** (Meeting ID: 932 4198 3467; Passcode: 290991) 
 
 Abstract:\
-De novo protein synthesis is required for long-lasting synaptic plasticity and memory, but it comes with a great metabolic cost. In the mammalian brain, it remains unclear which cell types and biological mechanisms are critical for sensing and responding to increased metabolic demand. Here, we demonstrate that microglia, the resident macrophages of the brain, are required for metabolic coupling between endothelial cells, astrocytes, and neurons, which fuels protein synthesis in active neurons. Increasing metabolic demand via a motor task stimulates microglia to secrete the hypoxia-responsive protein CYR61, which increases glucose transporter expression in brain vasculature. Depleting microglia reduces training-induced metabolic fluxes and neuronal protein synthesis, which can be reproduced by blocking CYR61 signaling. Thus, we define a neuroimmune metabolic circuit that is required for on-demand protein synthesis in mouse motor cortex.
+Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell (EC) function and signaling. Yet, the spatiotemporal organization of Ca<sup>2+</sup> activity and its regulation across a vascular plexus is poorly understood in an in vivo mammalian context. To overcome this gap in knowledge, we developed an intravital imaging approach to resolve Ca<sup>2+</sup> activity with single-cell resolution in skin vasculature of adult mice via multiphoton microscopy. Here, we tracked thousands of Ca<sup>2+</sup> events in the skin capillary plexus during homeostasis and observed signaling heterogeneity between ECs, with just over half displaying Ca<sup>2+</sup> activity at any given time. Longitudinal tracking of the same mice revealed that the same capillary ECs maintain Ca<sup>2+</sup> activity over days to weeks. Interestingly, activity dynamics, such as frequency and event duration, are not conserved at a single-cell level but are maintained at an EC population level. Molecularly, conditional deletion of the gap junction protein Connexin 43 (Cx43cKO) in ECs leads to a subset of ECs displaying sustained Ca<sup>2+</sup> activity, biasing signaling dynamics of the whole network toward chronically persistent activity over time. Sustained capillary Ca<sup>2+</sup> activity results in vascular permeability and flow dysregulation. Last, through pharmacological targeting of known agonists/antagonists, we showed that inhibition of L-type Voltage Gated Ca<sup>2+</sup> channels non-cell-autonomously restores Ca<sup>2+</sup> activity, blood flow, and barrier function in Cx43cKO mice. Collectively, our work provides insight into the spatial and temporal characteristics, extent, and regulation of Ca<sup>2+</sup> activity in skin capillaries of live mice.
 
-![DynamicsClub](/images/DynamicsClub_Aug2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Sep2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,6 @@ De novo protein synthesis is required for long-lasting synaptic plasticity and m
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep 9 | Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature | [**Anush Swaminathan**](https://medicine.yale.edu/profile/anush-swaminathan/) (Yale University) |
 | Sep | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
@@ -61,6 +60,7 @@ De novo protein synthesis is required for long-lasting synaptic plasticity and m
 | Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Richard Gast**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
 | Apr 10 | LNE Seminar: Leveraging small but persistent differences for detection in human health | [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39134787/) |
 | Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
+| Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Dr. Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
 
 &nbsp;
 &nbsp; 
