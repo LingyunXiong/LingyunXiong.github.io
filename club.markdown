@@ -49,7 +49,7 @@ Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell 
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Oct | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
-| 2026 | Pericyte KATP channel hyperactivity redistributes cortical blood flow | [**Dr. Danielle Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) |
+| 2026 | Pericyte KATP channel hyperactivity redistributes cortical blood flow | [**Dr. Danielle A. Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
