@@ -36,9 +36,9 @@ Vera C. Wulfmeyer, Marlon Gernemann, Xavier de la Rosa, Anders M. Kristensen, Pe
 Laura R. Cortes, **Lingyun Xiong**, Adriana R. Vree, Fernando M.C.V. Reis, Natalie Kim, Bing Feng, Mia R. Hansen, Sakina Rashid, Julissa Lopez, Norma P. Sandoval, Eric Deeds, Alan Garfinkel, Yanlin He, Avishek Adhikari, J. Edward van Veen, Christopher S. Colwell, and Stephanie M. Correa\#. \
 **Proc Natl Acad Sci U S A**, 2026 (*In Press*).
 
-- Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy \
+- [Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy](https://www.ovid.com/jnls/hyper/abstract/10.1161/hypertensionaha.126.27712~intrarenal-determinants-of-gfr-decline-during-loop-diuretic?redirectionsource=fulltextview) \
 Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. \
-**Hypertension**, 2026 (*In Press*). 
+**Hypertension**, 2026 (Publish Ahead of Print). DOI: 10.1161/HYPERTENSIONAHA.126.27712
 
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
