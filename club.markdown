@@ -49,19 +49,19 @@ Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell 
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Oct | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
-| 2026 | Pericyte KATP channel hyperactivity redistributes cortical blood flow | [**Danielle Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) |
+| 2026 | Pericyte KATP channel hyperactivity redistributes cortical blood flow | [**Dr. Danielle Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
 # Past Events in 2026:
 
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
-| Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Dr. Manuel Munoz Camus**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
-| Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Harish Venkatachalapathy**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
-| Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Dr. Richard Gast**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
+| Jan 20 | Microdomain Metabolism in Pacemaker Myocytes: The Ca<sup>2+</sup> Clock Drives the ATP Clock | [**Manuel Munoz Camus, PhD**](https://health.ucdavis.edu/physiology/postdocs/index.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40894732/) |
+| Feb 13 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Harish Venkatachalapathy, PhD**](https://batchelorlab.umn.edu/lab-members/current-members) (UMN) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40033003/) |
+| Mar 6 | Pulsed stimuli enable p53 phase resetting to synchronize single cells and modulate cell fate | [**Richard Gast, PhD**](https://www.richardgast.me) (Scripps Research) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38198531/) |
 | Apr 10 | LNE Seminar: Leveraging small but persistent differences for detection in human health | [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39134787/) |
-| Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Dr. Mark Greenwood**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
-| Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Dr. Drew Adler**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
+| Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Mark Greenwood, PhD**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
+| Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Drew Adler, PhD**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
 
 &nbsp;
 &nbsp; 
