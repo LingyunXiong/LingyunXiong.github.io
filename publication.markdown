@@ -6,16 +6,16 @@ permalink: /Publications/
 § Equal contribution, \# Corresponding author
 
 ### Selected Articles ###
-- [Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats](https://doi.org/10.1152/ajpcell.00256.2026) \
-**Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#. \
-**AJP Cell Physiol**, 2026;331(2):C293-C300. DOI: 10.1152/ajpcell.00256.2026 ([PDF](https://drive.google.com/file/d/1bV-HhL6HNf1nzXg-hUEkXsOxqSOEBLjX/view?usp=sharing))
-
+- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
+**Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
+  
 - [Are physiological oscillations *physiological*?](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP285015) \
 **Lingyun (Ivy) Xiong**, Alan Garfinkel\#. \
 **J Physiol**, 2026;604(9):3672-3693. DOI: 10.1113/JP285015 ([PDF](https://drive.google.com/file/d/18ffp2JNnWBcq6jo2Dk6LarcLLquD7PI8/view?usp=sharing))
 
-- [Life in the fast lane: Functional consequences of male-female dynamic differences in the renal autoregulation of flow](https://pubmed.ncbi.nlm.nih.gov/41000627/) \
-**Lingyun (Ivy) Xiong**\#, Alan Garfinkel\#, Kevin M. Bennett, Edwin J. Baldelomar, Lauryn Brown, Kate Barrows, Volker Vallon, Aurelie Edwards, Alicia A. McDonough, Natalie Porat-Shliom\#, Eric J. Deeds\#. bioRxiv, 2025 (*Under Revision*). DOI: 10.1101/2025.09.12.675896
+- [Sexual dimorphic pattern of renal transporters and channels in spontaneously hypertensive rats](https://doi.org/10.1152/ajpcell.00256.2026) \
+**Lingyun (Ivy) Xiong**§, Ariel M. Finch§, Donna L. Ralph, Babatunde S. Anidu, Louise C. Evans\#, Alicia A. McDonough\#. \
+**AJP Cell Physiol**, 2026;331(2):C293-C300. DOI: 10.1152/ajpcell.00256.2026 ([PDF](https://drive.google.com/file/d/1bV-HhL6HNf1nzXg-hUEkXsOxqSOEBLjX/view?usp=sharing))
 
 - [Direct androgen receptor control of sexually dimorphic gene expression in the mammalian kidney](https://doi.org/10.1016/j.devcel.2023.08.010) \
 **Lingyun Xiong**§, Jing Liu§, Sueng Yub Han, Kari Koppitch, Jin-Jin Guo, Megan Rommelfanger, Zhen Miao, Fan Gao, Ingileif Hallgrimsdottir, Lior Pachter, Junhyong Kim, Adam L. MacLean, Andrew P. McMahon\#.\
