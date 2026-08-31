@@ -5,16 +5,17 @@
 layout: home
 ---
 
-| ![profile](/images/Portrait_Xiong_272x272.png) | **Lingyun (Ivy) Xiong, D.Phil.** <br /><br /> Postdoctoral Fellow at UCLA <br /> Integrative Biology and Physiology <br /> Quantitative and Computational Biosciences <br /><br /> Research Collaborator at NIH/NCI <br /><br /> Founder and Host of the [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> [CV](https://drive.google.com/file/d/1CK4phoSF7-uk_QvWkt_lEnSnv2y_ir_6/view?usp=sharing) \| [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Bluesky](https://bsky.app/profile/ivyxiong.bsky.social) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [ivyxiong@ucla.edu](mailto:ivyxiong@ucla.edu)|
+| ![profile](/images/Portrait_Xiong_272x272.png) | **Lingyun (Ivy) Xiong, D.Phil.** <br /><br /> Postdoctoral Fellow at UCLA <br /> Integrative Biology and Physiology <br /> Quantitative and Computational Biosciences <br /><br /> Research Collaborator at NIH/NCI <br /> Visiting Scientist at MBIDL <br /><br /> Founder and Host of the [*Dynamics Club*](https://lingyunxiong.github.io/DynamicsClub/) <br /> [CV](https://drive.google.com/file/d/1CK4phoSF7-uk_QvWkt_lEnSnv2y_ir_6/view?usp=sharing) \| [Google Scholar](https://scholar.google.com/citations?user=q0Z3EMMAAAAJ&hl) \| [LinkedIn](https://www.linkedin.com/in/lingyun-xiong/) \| [Bluesky](https://bsky.app/profile/ivyxiong.bsky.social) \| [Twitter](https://twitter.com/ivy_lxiong) <br /> Email: [ivyxiong@ucla.edu](mailto:ivyxiong@ucla.edu)|
 
 ## **Homeodynamics in Health and Disease**
 
-I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My ongoing work addresses this gap by focusing on physiological oscillations in the mammalian kidney. Combining quantitative imaging, timeseries data analysis and mathematical modeling, my research evaluates the mathematical structures underlying the transition from health to disease. 
+I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My ongoing work addresses this gap by focusing on physiological oscillations in the mammalian kidney and cardiovascular system. Combining quantitative in vivo imaging, radiotelemetry, timeseries data analysis and mathematical modeling, my research evaluates the mathematical structures underlying the transition from health to disease. 
 
 ## **Current Research Focus**
-- Multi-scale dynamics via *in vivo* imaging and telemetry
+- Male-female dynamic differences in the aging kidney
+- Multi-organ communication in hypertension and trauma
+- Comparative studies on the auto-regulation of flow
 - Fluid dynamics in development and physiology
-- Comparative studies of organ functions
 
 ## **Qualifications** 
 * D.Phil. in Systems Biology, University of Oxford (2021)
