@@ -28,13 +28,13 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
-- Perifusate metabolomics interrogates nutrient exposure and oxidative stress response in kidney tubules \
-Vera C. Wulfmeyer, Marlon Gernemann, Xavier de la Rosa, Anders M. Kristensen, Peder Berg, **Lingyun Xiong**, Oliver Kretz, Imke A. K. Fiedler, Johannes Jaegers, Anja M. Billing, Nikolaj Bøgh, Johanna Hoyer-Allo, Franziska Grundmann, Volker Burst, Christoffer Laustsen, Ina M. Schiessl, Roman-Ulrich Müller, Fatih Demir, Markus M. Rinschen\#. \
-**Cell Reports**, 2026 (*Accepted*).
-
 - Pregnancy damps thermoregulatory rhythms across diurnal and ultradian timescales through neural estrogen signaling in mice \
 Laura R. Cortes, **Lingyun Xiong**, Adriana R. Vree, Fernando M.C.V. Reis, Natalie Kim, Bing Feng, Mia R. Hansen, Sakina Rashid, Julissa Lopez, Norma P. Sandoval, Eric Deeds, Alan Garfinkel, Yanlin He, Avishek Adhikari, J. Edward van Veen, Christopher S. Colwell, and Stephanie M. Correa\#. \
 **Proc Natl Acad Sci U S A**, 2026 (*In Press*).
+
+- Perifusate metabolomics interrogates nutrient exposure and oxidative stress response in kidney tubules \
+Vera C. Wulfmeyer, Marlon Gernemann, Xavier de la Rosa, Anders M. Kristensen, Peder Berg, **Lingyun Xiong**, Oliver Kretz, Imke A. K. Fiedler, Johannes Jaegers, Anja M. Billing, Nikolaj Bøgh, Johanna Hoyer-Allo, Franziska Grundmann, Volker Burst, Christoffer Laustsen, Ina M. Schiessl, Roman-Ulrich Müller, Fatih Demir, Markus M. Rinschen\#. \
+**Cell Reports**, 2026 (*In Press*).
 
 - [Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.126.27712) \
 Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. \
