@@ -4,16 +4,11 @@ title: News
 permalink: /News/
 ---
 
-# UCLA Boyer/Parvin Postdoctoral Award
-Post date: May 28, 2025
+# NIH-NIA K99/R00 Pathway to Independence Award
+Post date: September 7, 2026
 
-![Boyer_Award](/images/UCLA_Boyer_Award.png)
+![K99_Award](/images/K99_Awarded_Commons.png)
 
-I'm delighted to announce that I have been selected for the [**Boyer/Parvin Postdoctoral Award**](https://www.mbi.ucla.edu/awards/postdoctoral-history)! 
+I'm delighted to announce that I have been funded by NIH/NIA for the **K99/R00 Pathway to Independence Award**! 
 
-Given out by the UCLA Molecular Biology Institute ([MBI](https://www.mbi.ucla.edu)) annually, this award recognizes outstanding postdoctoral researchers and celebrates the legacy of Paul Boyer, known for his work on ATP synthase ([Nobel Prize, 1997](https://www.nobelprize.org/prizes/chemistry/1997/summary/); with John Walker and Jens Skou).
-
-The award ceremony was held on <ins>Wednesday, May 28 at 10am</ins> in Boyer Hall 159, during which I gave a short talk about my ongoing research on *male-female dynamic differences in the kidney*.
-
-Below is a snapshot during the award ceremony:
-![Boyer_Fellow](/images/2025_Boyer-Parvin_Awardees.jpg)
+This award will sponsor my research on "male-female dynamic differences in the aging kidney" for the next five years. Hereby, I thank the entire advisory committee at UCLA and beyond for making it possible: Alan Garfinkel, Eric Deeds, Natalie Porat-Shliom (NIH/NCI), Alicia McDonough (USC), Miguel Aon (NIH/NIA), Sonia Cortassa (NIH/NIA), Aurelie Edwards (Boston University), Aaron Polichnowski (East Tennessee State University), and Kevin Bennett (Washington University). 
