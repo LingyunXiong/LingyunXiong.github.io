@@ -14,7 +14,8 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
-- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Microscopy](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
+- A postdoctoral position is available with [**Dr. Sahib Khalsa**](https://www.linkedin.com/in/sahib-khalsa-22969a191/) at UCLA ([Details](https://www.linkedin.com/posts/sahib-khalsa-22969a191_interoception-activity-7503218946402115584-nunb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSUJekB4Mr_trW7y_cKbvT5HulJJ4hxIos))
+- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Details](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 
 &nbsp;
@@ -27,20 +28,20 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in September: 
+# Dynamics Club in September (Con'd): 
 
-### [**Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature**](https://pubmed.ncbi.nlm.nih.gov/42335226/)
+### [**Pericyte K<sub>ATP</sub> channel hyperactivity redistributes cortical blood flow**](https://pubmed.ncbi.nlm.nih.gov/42547848/)
 
-Speaker: [**Anush Swaminathan**](https://medicine.yale.edu/profile/anush-swaminathan/) (MD-PhD Candidate; Yale University)
+Speaker: [**Dr. Danielle A. Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (Postdoctoral Fellow, CU Anschutz)
 
-Date and Time: **September 9 (Wednesday)** at <ins>1pm Pacific Time / 4pm Eastern Time</ins>
+Date and Time: **September 24 (Thursday)** at <ins>9am Pacific Time / 10am Mountain Time / 12pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 932 4198 3467; Passcode: 290991) 
+Virtual Event on **Zoom** (Meeting ID: 994 5303 0616; Passcode: 302570) 
 
 Abstract:\
-Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell (EC) function and signaling. Yet, the spatiotemporal organization of Ca<sup>2+</sup> activity and its regulation across a vascular plexus is poorly understood in an in vivo mammalian context. To overcome this gap in knowledge, we developed an intravital imaging approach to resolve Ca<sup>2+</sup> activity with single-cell resolution in skin vasculature of adult mice via multiphoton microscopy. Here, we tracked thousands of Ca<sup>2+</sup> events in the skin capillary plexus during homeostasis and observed signaling heterogeneity between ECs, with just over half displaying Ca<sup>2+</sup> activity at any given time. Longitudinal tracking of the same mice revealed that the same capillary ECs maintain Ca<sup>2+</sup> activity over days to weeks. Interestingly, activity dynamics, such as frequency and event duration, are not conserved at a single-cell level but are maintained at an EC population level. Molecularly, conditional deletion of the gap junction protein Connexin 43 (Cx43cKO) in ECs leads to a subset of ECs displaying sustained Ca<sup>2+</sup> activity, biasing signaling dynamics of the whole network toward chronically persistent activity over time. Sustained capillary Ca<sup>2+</sup> activity results in vascular permeability and flow dysregulation. Last, through pharmacological targeting of known agonists/antagonists, we showed that inhibition of L-type Voltage Gated Ca<sup>2+</sup> channels non-cell-autonomously restores Ca<sup>2+</sup> activity, blood flow, and barrier function in Cx43cKO mice. Collectively, our work provides insight into the spatial and temporal characteristics, extent, and regulation of Ca<sup>2+</sup> activity in skin capillaries of live mice.
+Cerebral hemodynamic dysfunction is a key driver of unhealthy brain aging. Impaired microcirculatory reactivity leads to uneven perfusion, rendering deeper brain regions more vulnerable and thereby contributing to cognitive decline. Yet how capillaries contribute to these deficits remains poorly defined. Here we combined spatial transcriptomics with in vivo two-photon and three-photon imaging to measure layer-specific cerebral blood flow in control and small vessel disease model mice (CADASIL TgNotch3R169C). We found downregulation of ATP-synthesizing genes, indicating microvascular metabolic impairment that paralleled impaired pericyte bioenergetics. This energy deficit coincided with diminished tone in the arteriole-capillary transitional zone and reduced deep-layer perfusion. Complementary electrophysiology, ex vivo and in silico approaches, revealed that hyperactive K<sub>ATP</sub> channels in pericytes drive a redistribution of cerebral blood flow toward superficial cortical layers. This loss of spatial perfusion equalization, despite preserved global flow, contributed to deep-layer hypoperfusion, establishing a previously underrecognized but tractable vascular function disrupted in aging pathology.
 
-![DynamicsClub](/images/DynamicsClub_Sep2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Sep2026_2.pdf)
 
 &nbsp;
 &nbsp;
@@ -48,7 +49,6 @@ Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell 
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Sep 24 | Pericyte KATP channel hyperactivity redistributes cortical blood flow | [**Dr. Danielle A. Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) |
 | Oct 15 | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | Nov 4 | Meal timing entrains circadian rhythms in the dorsal vagal complex | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
@@ -63,6 +63,7 @@ Ca<sup>2+</sup> signaling and its regulation are important for endothelial cell 
 | Apr 10 | LNE Seminar: Leveraging small but persistent differences for detection in human health | [**Benjamin Smarr, PhD**](https://smarr.ucsd.edu) (UCSD) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39134787/) |
 | Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Mark Greenwood, PhD**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
 | Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Drew Adler, PhD**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
+| Sep 9 | Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature | [**Anush Swaminathan, PhD**](https://medicine.yale.edu/profile/anush-swaminathan/) (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42335226/) |
 
 &nbsp;
 &nbsp; 
