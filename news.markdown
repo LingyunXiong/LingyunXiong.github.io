@@ -11,4 +11,4 @@ Post date: September 7, 2026
 
 I'm delighted to announce that I have been funded by NIH/NIA for the **K99/R00 Pathway to Independence Award**! 
 
-This award will sponsor my research on "male-female dynamic differences in the aging kidney" for the next five years. Hereby, I thank the entire advisory committee at UCLA and beyond for making it possible: Alan Garfinkel, Eric Deeds, Natalie Porat-Shliom (NIH/NCI), Alicia McDonough (USC), Miguel Aon (NIH/NIA), Sonia Cortassa (NIH/NIA), Aurelie Edwards (Boston University), Aaron Polichnowski (East Tennessee State University), and Kevin Bennett (Washington University). 
+This award will sponsor my research on "[male-female dynamic differences in the aging kidney](https://reporter.nih.gov/search/qffN-c5B3k-Y8gbmXSWBAA/project-details/11301717)" for the next five years. Hereby, I thank the entire advisory committee at UCLA and beyond for making it possible: Alan Garfinkel, Eric Deeds, Natalie Porat-Shliom (NIH/NCI), Alicia McDonough (USC), Miguel Aon (NIH/NIA), Sonia Cortassa (NIH/NIA), Aurelie Edwards (Boston University), Aaron Polichnowski (East Tennessee State University), and Kevin Bennett (Washington University). 
