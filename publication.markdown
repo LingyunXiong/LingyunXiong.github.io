@@ -29,7 +29,7 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 
 ### Additional Publications ###
 - Pregnancy damps thermoregulatory rhythms across diurnal and ultradian timescales through neural estrogen signaling in mice \
-Laura R. Cortes, **Lingyun Xiong**, Adriana R. Vree, Fernando M.C.V. Reis, Natalie Kim, Bing Feng, Mia R. Hansen, Sakina Rashid, Julissa Lopez, Norma P. Sandoval, Eric Deeds, Alan Garfinkel, Yanlin He, Avishek Adhikari, J. Edward van Veen, Christopher S. Colwell, and Stephanie M. Correa\#. \
+Laura R. Cortes, **Lingyun Xiong**, Adriana R. Vree, Fernando M.C.V. Reis, Natalie Kim, Bing Feng, Mia R. Hansen, Sakina Rashid, Julissa Lopez, Norma P. Sandoval, Yanlin He, Avishek Adhikari, J. Edward van Veen, Eric Deeds, Alan Garfinkel, Christopher S. Colwell, and Stephanie M. Correa\#. \
 **Proc Natl Acad Sci U S A**, 2026 (*In Press*).
 
 - Perifusate metabolomics interrogates nutrient exposure and oxidative stress response in kidney tubules \
