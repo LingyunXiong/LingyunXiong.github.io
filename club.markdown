@@ -15,7 +15,7 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 
 # Job opportunities:
 - A postdoctoral position is available with [**Dr. Sahib Khalsa**](https://www.linkedin.com/in/sahib-khalsa-22969a191/) at UCLA ([Details](https://www.linkedin.com/posts/sahib-khalsa-22969a191_interoception-activity-7503218946402115584-nunb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSUJekB4Mr_trW7y_cKbvT5HulJJ4hxIos))
-- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Details](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#gallery))
+- A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Details](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#job-vacancies))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 
 &nbsp;
