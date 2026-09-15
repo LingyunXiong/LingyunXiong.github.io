@@ -4,11 +4,11 @@ title: Dynamics Club
 permalink: /DynamicsClub/
 ---
 
-Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from 2024, this is also the home for the [Interoception Dynamics](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
+Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from 2024, this is also the home for the UCLA-BRI [Interoception Dynamics](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
 
-Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)) and Brain Research Institute ([BRI](https://bri.ucla.edu)).
+Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Brain Research Institute ([BRI](https://bri.ucla.edu)), Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), and Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)).
 
-Currently, we have **345** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **340** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -24,6 +24,7 @@ Currently, we have **345** members. If you're new, sign up [**here**](http://eep
 # Key References (PDFs are available online): 
 
 [**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([Teaching Materials](https://modelinginbiology.github.io))
+[**Understanding Data**](https://link.springer.com/book/10.1007/978-3-032-18600-3) by Alan Garfinkel and Yina Guo
 
 &nbsp;
 &nbsp;
