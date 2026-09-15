@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Dynamics Club
+title: Initiative
 permalink: /DynamicsClub/
 ---
+
+![Logo](/images/DynamicsClub_Logo.jpeg)
 
 Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to discuss nonlinear dynamics in biology and physiology. Starting from 2024, this is also the home for the UCLA-BRI [Interoception Dynamics](https://bri.ucla.edu/affinity-groups/#1725383881651-5acf33f9-a12c) Affinity Group. 
 
