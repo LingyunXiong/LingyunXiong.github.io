@@ -24,6 +24,7 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 # Key References (PDFs are available online): 
 
 [**Modeling Life**](https://link.springer.com/book/10.1007/978-3-319-59731-7) by Alan Garfinkel, Jane Shetsov and Yina Guo ([Teaching Materials](https://modelinginbiology.github.io))
+
 [**Understanding Data**](https://link.springer.com/book/10.1007/978-3-032-18600-3) by Alan Garfinkel and Yina Guo
 
 &nbsp;
