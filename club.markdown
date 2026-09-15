@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Initiative
+title: 
 permalink: /DynamicsClub/
 ---
 
