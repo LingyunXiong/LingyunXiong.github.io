@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics Club
+title: <span style="color:white">Dynamics Club</span>
 permalink: /DynamicsClub/
 ---
 
