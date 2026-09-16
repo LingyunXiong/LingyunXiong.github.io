@@ -54,7 +54,7 @@ Cerebral hemodynamic dysfunction is a key driver of unhealthy brain aging. Impai
 
 | **Date** | **Topic** | **Speaker(s)** |
 | Oct 15 | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
-| Nov 4 | Meal timing entrains circadian rhythms in the dorsal vagal complex | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
+| Nov 4 | Deciphering circadian timekeeping in the brainstem satiety centre | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
 
