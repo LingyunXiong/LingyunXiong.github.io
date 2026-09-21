@@ -4,6 +4,8 @@ title: "Dynamics Club in 2025"
 date:   2025-12-30 
 ---
 
+![DynamicsClub](/images/DynamicsClub_2025Summary.png)
+
 | **Date** | **Topic** | **Speaker(s)** | **Materials** |
 | Jan 22 | Imaging cAMP Signaling Dynamics in the Heart: Exploring Sympathetic Responses in Real Time | [**Jessica Caldwell, PhD**](https://health.ucdavis.edu/pharmacology/postdoctoral_scholars.html) (UC Davis) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36662864/) |
 | Feb 7 | State-Dependent Taste Modulation: Mechanisms of Sodium Appetite and Tolerance | [**Yameng Zhang**](https://okalab.caltech.edu/lab-members) (Oka Lab; Caltech) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37989313/) |
