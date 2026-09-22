@@ -37,8 +37,7 @@ Vera C. Wulfmeyer, Marlon Gernemann, Xavier de la Rosa, Anders M. Kristensen, Pe
 **Cell Reports**, 2026;45(9):117963. DOI: 10.1016/j.celrep.2026.117963 ([PDF](https://drive.google.com/file/d/1pxROHkx3cZXK2NbpQYWmktytOThOGZ8S/view?usp=sharing))
 
 - [Intrarenal Determinants of GFR Decline During Loop Diuretic Therapy](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.126.27712) \
-Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. \
-**Hypertension**, 2026;83:e27712. DOI: 10.1161/HYPERTENSIONAHA.126.27712 ([PDF](https://drive.google.com/file/d/1KSO5HLm4dmHbcPCEnm3vJWmxJ9ah0eOr/view?usp=sharing))
+Negiin Pourafshar, Chanwoo Nam, Siddharth S. Madapoosi, Michael J. Choi, Salim Shah, Bertram Pitt, **Lingyun (Ivy) Xiong**, Patrick Rossignol, Robert Unwin, Jeffrey Testani, Christopher S. Wilcox\#. **Hypertension**, 2026;83:e27712. DOI: 10.1161/HYPERTENSIONAHA.126.27712 ([PDF](https://drive.google.com/file/d/1KSO5HLm4dmHbcPCEnm3vJWmxJ9ah0eOr/view?usp=sharing))
 
 - [Measuring nephron number in the healthy and diabetic rat kidney in vivo using MRI without contrast agents](https://journals.physiology.org/doi/abs/10.1152/ajprenal.00088.2026) \
 Edwin J. Baldelomar, Jennifer R. Charlton, Shella Keilhoz, Benjamin Kohn, Leslie D. Wilson, **Lingyun (Ivy) Xiong**, Alan Garfinkel, and Kevin M. Bennett\#. \
@@ -62,8 +61,7 @@ Alicia A. McDonough\#, Autumn N. Harris, **Lingyun (Ivy) Xiong**, Anita T. Layto
   
 - [Studying the effects of oral contraceptives on coagulation using a mathematical model](https://link.springer.com/chapter/10.1007/978-3-031-58516-6_4) \
 Amy Kent, Karin Leiderman\#, Anna C. Nelson, Suzanne Sindi, Melissa M. Stadt, \
-**Lingyun Xiong**, Ying Zhang. \
-**Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
+**Lingyun Xiong**, Ying Zhang. **Mathematical Modeling for Women’s Health** (Springer Nature Switzerland), 2024;166:83–132. DOI: 10.1007/978-3-031-58516-6_4 ([PDF](https://drive.google.com/file/d/1l73A7rOD3kf-9E6o995R5sq48CWKa2Uq/view?usp=sharing))
 
 - Abstract: [Sexual dimorphism in renal metabolism, hemodynamics and diseases](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.1234) \
 **Lingyun Xiong**\#, Alan Garfinkel, Eric J. Deeds. \
