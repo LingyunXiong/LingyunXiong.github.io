@@ -28,7 +28,7 @@ Haikuo Li, Benjamin D. Humphreys. **Kidney Int**, 2024;105(4), 653–655.
 **Prog Biophys Mol Biol**, 2022;174:28-40. DOI: 10.1016/j.pbiomolbio.2022.06.002 ([PDF](https://drive.google.com/file/d/1nt8dU6IR-mTJVTkbQiaOrUuSl387PNPf/view?usp=sharing))  
 
 ### Additional Publications ###
-- [Pregnancy damps thermoregulatory rhythms across diurnal and ultradian timescales through neural estrogen signaling in mice](https://www.pnas.org/doi/10.1073/pnas.2611415123) \
+- [Pregnancy damps thermoregulatory rhythms across timescales through neural estrogen signaling in mice](https://www.pnas.org/doi/10.1073/pnas.2611415123) \
 Laura R. Cortes, **Lingyun Xiong**, Adriana R. Vree, Fernando M.C.V. Reis, Natalie Kim, Bing Feng, Mia R. Hansen, Sakina Rashid, Julissa Lopez, Norma P. Sandoval, Yanlin He, Avishek Adhikari, J. Edward van Veen, Alan Garfinkel, Eric Deeds, Christopher S. Colwell, and Stephanie M. Correa\#. \
 **Proc Natl Acad Sci U S A**, 2026;123(39):e2611415123. DOI: 10.1073/pnas.2611415123 ([PDF](https://drive.google.com/file/d/1Gm3tG6I-mD61lyU0StUIsIig64ec2DoB/view?usp=sharing))
 
