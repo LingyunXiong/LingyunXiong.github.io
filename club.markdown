@@ -10,7 +10,7 @@ Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to d
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Brain Research Institute ([BRI](https://bri.ucla.edu)), Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), and Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)).
 
-Currently, we have **340** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **338** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -33,20 +33,20 @@ Currently, we have **340** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in September (Con'd): 
+# Dynamics Club in October: 
 
-### [**Pericyte K<sub>ATP</sub> channel hyperactivity redistributes cortical blood flow**](https://pubmed.ncbi.nlm.nih.gov/42547848/)
+### [**Sleep deprivation on cerebral vasomotion and brain pulsations**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
 
-Speaker: [**Dr. Danielle A. Jeffrey**](https://dabertrandlab.org/team/bio-jeffrey/) (Postdoctoral Fellow, CU Anschutz)
+Speaker: [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (Postdoctoral Fellow, University of Copenhagen)
 
-Date and Time: **September 24 (Thursday)** at <ins>9am Pacific Time / 10am Mountain Time / 12pm Eastern Time</ins>
+Date and Time: **October 15 (Thursday)** at <ins>12pm Pacific Time / 3pm Eastern Time / 9pm Central European Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 994 5303 0616; Passcode: 302570) 
+Virtual Event on **Zoom** (Meeting ID: 998 3722 9722; Passcode: 248222) 
 
 Abstract:\
-Cerebral hemodynamic dysfunction is a key driver of unhealthy brain aging. Impaired microcirculatory reactivity leads to uneven perfusion, rendering deeper brain regions more vulnerable and thereby contributing to cognitive decline. Yet how capillaries contribute to these deficits remains poorly defined. Here we combined spatial transcriptomics with in vivo two-photon and three-photon imaging to measure layer-specific cerebral blood flow in control and small vessel disease model mice (CADASIL TgNotch3R169C). We found downregulation of ATP-synthesizing genes, indicating microvascular metabolic impairment that paralleled impaired pericyte bioenergetics. This energy deficit coincided with diminished tone in the arteriole-capillary transitional zone and reduced deep-layer perfusion. Complementary electrophysiology, ex vivo and in silico approaches, revealed that hyperactive K<sub>ATP</sub> channels in pericytes drive a redistribution of cerebral blood flow toward superficial cortical layers. This loss of spatial perfusion equalization, despite preserved global flow, contributed to deep-layer hypoperfusion, establishing a previously underrecognized but tractable vascular function disrupted in aging pathology.
+The flow of cerebrospinal fluid (CSF) through the brain is driven by cerebral vasomotion, along with respiratory and cardiac forces. Growing evidence suggests that sleep facilitates this flow, yet the role of homeostatic sleep mechanisms remains largely unknown. In a circadian-controlled sleep and sleep deprivation study in humans, we used accelerated neuroimaging to investigate how sleep pressure and slow-wave-rich sleep affect low-frequency brain pulsations (LFPs; 0.012-0.034 Hz) as well as brain pulsations originating from the respiratory and cardiac cycles. These pulsations cause movement of CSF and brain tissue which may facilitate waste clearance. We also examined the origin of LFPs through pharmacological vasodilation of the cerebral vasculature with the adrenergic antagonist carvedilol in a randomized, cross-over, double-blinded, placebo-controlled design (NCT03576664). We find that sleep deprivation increases LFPs more than nonrapid eye movement (NREM) sleep does, with LFPs during sleep correlating with cognitive measures of sleep pressure. Conversely, NREM sleep (combined stages N2 and N3) enhances brain pulsations driven by the respiration and cardiac cycles, with more pronounced effects in gray and white matter than in the ventricles. The strength of these brain pulsations escalates with sleep depth (N3 > N2) and correlates with EEG delta power, a measure of slow wave activity. Moreover, carvedilol dampens LFPs, supporting that these reflect cerebral vasomotion. In summary, our findings indicate that heightened sleep pressure promotes vasomotion, whereas slow-wave-rich sleep amplifies respiration- and cardiac-driven brain pulsations, possibly indicating increased CSF flow to the brain. Together, this suggests that homeostatic sleep mechanisms are integral to human brain fluid dynamics and potentially also waste clearance.
 
-![DynamicsClub](/images/DynamicsClub_Sep2026_2.pdf)
+![DynamicsClub](/images/DynamicsClub_Oct2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -54,7 +54,6 @@ Cerebral hemodynamic dysfunction is a key driver of unhealthy brain aging. Impai
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Oct 15 | Sleep deprivation on cerebral vasomotion and brain pulsations | [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) |
 | Nov 4 | Deciphering circadian timekeeping in the brainstem satiety centre | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
@@ -69,6 +68,7 @@ Cerebral hemodynamic dysfunction is a key driver of unhealthy brain aging. Impai
 | Jun 25 | Epinephrine oscillation enhances the alertness of target cells to stress | [**Mark Greenwood, PhD**](https://lilab.wi.mit.edu/index.php/people/) (Whitehead Institute) | |
 | Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Drew Adler, PhD**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
 | Sep 9 | Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature | [**Anush Swaminathan, PhD**](https://medicine.yale.edu/profile/anush-swaminathan/) (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42335226/) |
+| Sep 24 | Pericyte K<sub>ATP</sub> channel hyperactivity redistributes cortical blood flow | [**Danielle A. Jeffrey, PhD**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42547848/) |
 
 &nbsp;
 &nbsp; 
