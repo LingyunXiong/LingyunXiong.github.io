@@ -56,7 +56,7 @@ The flow of cerebrospinal fluid (CSF) through the brain is driven by cerebral va
 | **Date** | **Topic** | **Speaker(s)** |
 | Nov 4 | Deciphering circadian timekeeping in the brainstem satiety centre | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
-| 2026 | How Neural Heterogeneity Controls Network Function | [**Dr. Megan Kirchgessner**](https://www.simonsfoundation.org/people/megan-kirchgessner/) (NYU) |
+| 2027 | Cholinergic regulation of osteocyte mechanobiology | [**Dr. Karl J. Lewis**](https://www.kjlewislab.com) (Cornell University) |
 
 # Past Events in 2026:
 
