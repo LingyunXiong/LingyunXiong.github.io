@@ -35,9 +35,9 @@ Currently, we have **338** members. If you're new, sign up [**here**](http://eep
 
 # Dynamics Club in October: 
 
-### [**Sleep deprivation on cerebral vasomotion and brain pulsations**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
+### [**Sleep deprivation and intensity on cerebral vasomotion and cardiorespiratory brain pulsations**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
 
-Speaker: [**Dr. Sara M. U. Larsen**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (Postdoctoral Fellow, University of Copenhagen)
+Speaker: [**Sara M. Ulv Larsen, MD, PhD**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (Postdoctoral Fellow, University of Copenhagen)
 
 Date and Time: **October 15 (Thursday)** at <ins>12pm Pacific Time / 3pm Eastern Time / 9pm Central European Time</ins>
 
