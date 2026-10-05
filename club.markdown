@@ -16,6 +16,7 @@ Currently, we have **338** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 
 # Job opportunities:
+- Two PhD positions are available with [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.iber.html) at ETH (Basel) ([Link1](https://jobs.ethz.ch/job/view/JOPG_ethz_TIiC0vSwRKzG8cjCb4), [Link2](https://jobs.ethz.ch/job/view/JOPG_ethz_eMp6VK8Hmtj3lkloXX))
 - A postdoctoral position is available with [**Dr. Sahib Khalsa**](https://www.linkedin.com/in/sahib-khalsa-22969a191/) at UCLA ([Details](https://www.linkedin.com/posts/sahib-khalsa-22969a191_interoception-activity-7503218946402115584-nunb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSUJekB4Mr_trW7y_cKbvT5HulJJ4hxIos))
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Details](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#job-vacancies))
 - A postdoctoral position is available with [**Dr. Eder Zavala**](https://mbg-lab.org) at the University of Manchester ([Details](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=46012))
