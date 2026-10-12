@@ -11,9 +11,9 @@ layout: home
 
 I aim to understand the <ins>mechanisms and functions</ins> of **oscillatory behaviors in systems physiology**. Oscillatory processes permeate every branch of biology, from circadian rhythms at the molecular level, cell motility at the cellular and tissue level, hormonal regulation across organ systems, to circadian coordination of physical activities at the organismal level. However, how oscillatory signals impact organ functions is poorly understood. My ongoing work addresses this gap by focusing on physiological oscillations in the mammalian kidney and cardiovascular system. Combining quantitative in vivo imaging, radiotelemetry, timeseries data analysis and mathematical modeling, my research evaluates the mathematical structures underlying the transition from health to disease. 
 
-## **Current Research Focus**
+## **Current Research Topics**
 - Male-female dynamic differences in the aging kidney
-- Multi-organ communication in hypertension and trauma
+- Multi-organ hemodynamic crosstalk in hypertension and trauma
 - Comparative studies on the auto-regulation of flow
 - Fluid dynamics in development and physiology
 
