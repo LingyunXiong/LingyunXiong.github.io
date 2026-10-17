@@ -10,7 +10,7 @@ Launched in 2022, Dynamics Club is a UCLA-based forum for junior scientists to d
 
 Our monthly seminars are mostly on Zoom, with hybrid access to in-person events. Campus visits are made possible by the Brain Research Institute ([BRI](https://bri.ucla.edu)), Department of Integrative Biology and Physiology ([IBP](https://www.ibp.ucla.edu)), and Institute for Quantitative and Computational Biosciences ([QCBio](https://qcb.ucla.edu)).
 
-Currently, we have **338** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
+Currently, we have **335** members. If you're new, sign up [**here**](http://eepurl.com/hSqQLD)! 
 
 &nbsp;
 &nbsp;
@@ -34,20 +34,19 @@ Currently, we have **338** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in October: 
+# Dynamics Club in November: 
 
-### [**Sleep deprivation and intensity on cerebral vasomotion and cardiorespiratory brain pulsations**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
+### [**Deciphering circadian timekeeping in the brainstem satiety centre**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
 
-Speaker: [**Sara M. Ulv Larsen, MD, PhD**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (Postdoctoral Fellow, University of Copenhagen)
+Speaker: [**Lukasz Chrobok, PhD**](https://chrobok-lab.owlstown.net) (Senior Lecturer; University of Bristol)
+Date and Time: **November 4 (Wednesday)** at <ins>9am Pacific Time / 12pm Eastern Time / 5pm Greenwich Mean Time</ins>
 
-Date and Time: **October 15 (Thursday)** at <ins>12pm Pacific Time / 3pm Eastern Time / 9pm Central European Time</ins>
-
-Virtual Event on **Zoom** (Meeting ID: 998 3722 9722; Passcode: 248222) 
+Virtual Event on **Zoom** (Meeting ID: 947 0224 4105; Passcode: 786550) 
 
 Abstract:\
-The flow of cerebrospinal fluid (CSF) through the brain is driven by cerebral vasomotion, along with respiratory and cardiac forces. Growing evidence suggests that sleep facilitates this flow, yet the role of homeostatic sleep mechanisms remains largely unknown. In a circadian-controlled sleep and sleep deprivation study in humans, we used accelerated neuroimaging to investigate how sleep pressure and slow-wave-rich sleep affect low-frequency brain pulsations (LFPs; 0.012-0.034 Hz) as well as brain pulsations originating from the respiratory and cardiac cycles. These pulsations cause movement of CSF and brain tissue which may facilitate waste clearance. We also examined the origin of LFPs through pharmacological vasodilation of the cerebral vasculature with the adrenergic antagonist carvedilol in a randomized, cross-over, double-blinded, placebo-controlled design (NCT03576664). We find that sleep deprivation increases LFPs more than nonrapid eye movement (NREM) sleep does, with LFPs during sleep correlating with cognitive measures of sleep pressure. Conversely, NREM sleep (combined stages N2 and N3) enhances brain pulsations driven by the respiration and cardiac cycles, with more pronounced effects in gray and white matter than in the ventricles. The strength of these brain pulsations escalates with sleep depth (N3 > N2) and correlates with EEG delta power, a measure of slow wave activity. Moreover, carvedilol dampens LFPs, supporting that these reflect cerebral vasomotion. In summary, our findings indicate that heightened sleep pressure promotes vasomotion, whereas slow-wave-rich sleep amplifies respiration- and cardiac-driven brain pulsations, possibly indicating increased CSF flow to the brain. Together, this suggests that homeostatic sleep mechanisms are integral to human brain fluid dynamics and potentially also waste clearance.
+The dorsal vagal complex (DVC) includes a multi-component brainstem satiety centre which has gained attention as a key target of anti-obesity pharmacotherapies. Our recent studies revealed its circadian timekeeping properties, with molecular and electrophysiological 24 h rhythms persisting independently of the primary hypothalamic clock. However, the factors entraining these brainstem oscillators and the downstream transcriptional targets of the DVC molecular clock remain unclear. Here, using PERIOD2::LUCIFERASE reporter mice and fluorescent in situ hybridisation, we quantitatively demonstrate rhythms in core clock gene expression in the caudal DVC ex vivo and in vivo. We show that the molecular clock is associated with rhythmic expression of numerous neurotransmitter receptor genes in the DVC in vivo, with the phase of both clock and clock-controlled gene expression tightly regulated by meal timing. These findings uncover food-entrained circadian rhythms in the DVC and have important implications for clinical studies targeting brainstem satiety mechanisms.
 
-![DynamicsClub](/images/DynamicsClub_Oct2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Nov2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -55,7 +54,6 @@ The flow of cerebrospinal fluid (CSF) through the brain is driven by cerebral va
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| Nov 4 | Deciphering circadian timekeeping in the brainstem satiety centre | [**Dr. Lukasz Chrobok**](https://chrobok-lab.owlstown.net) (University of Bristol) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2027 | Cholinergic regulation of osteocyte mechanobiology | [**Dr. Karl J. Lewis**](https://www.kjlewislab.com) (Cornell University) |
 
@@ -70,6 +68,7 @@ The flow of cerebrospinal fluid (CSF) through the brain is driven by cerebral va
 | Aug 26 | Immunometabolism in the brain: How brain-resident macrophages regulate tissue homeostasis | [**Drew Adler, PhD**](https://www.linkedin.com/in/drew-adler-4a1764142/) (NYU) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42242219/) |
 | Sep 9 | Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature | [**Anush Swaminathan, PhD**](https://medicine.yale.edu/profile/anush-swaminathan/) (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42335226/) |
 | Sep 24 | Pericyte K<sub>ATP</sub> channel hyperactivity redistributes cortical blood flow | [**Danielle A. Jeffrey, PhD**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42547848/) |
+| Oct 15 | Sleep deprivation and intensity on cerebral vasomotion and cardiorespiratory brain pulsations | [**Sara M. Ulv Larsen, MD, PhD**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41264592/) |
 
 &nbsp;
 &nbsp; 
