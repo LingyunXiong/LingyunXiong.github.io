@@ -36,9 +36,10 @@ Currently, we have **335** members. If you're new, sign up [**here**](http://eep
 
 # Dynamics Club in November: 
 
-### [**Deciphering circadian timekeeping in the brainstem satiety centre**](https://pubmed.ncbi.nlm.nih.gov/41264592/)
+### [**Deciphering circadian timekeeping in the brainstem satiety centre**](https://pubmed.ncbi.nlm.nih.gov/42550878/)
 
 Speaker: [**Lukasz Chrobok, PhD**](https://chrobok-lab.owlstown.net) (Senior Lecturer; University of Bristol)
+
 Date and Time: **November 4 (Wednesday)** at <ins>9am Pacific Time / 12pm Eastern Time / 5pm Greenwich Mean Time</ins>
 
 Virtual Event on **Zoom** (Meeting ID: 947 0224 4105; Passcode: 786550) 
