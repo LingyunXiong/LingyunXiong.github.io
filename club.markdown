@@ -17,9 +17,9 @@ Currently, we have **335** members. If you're new, sign up [**here**](http://eep
 
 # Job opportunities:
 - Two PhD positions are available with [**Dr. Dagmar Iber**](https://bsse.ethz.ch/cobi/group/people/person-detail.iber.html) at ETH (Basel) ([Link1](https://jobs.ethz.ch/job/view/JOPG_ethz_TIiC0vSwRKzG8cjCb4), [Link2](https://jobs.ethz.ch/job/view/JOPG_ethz_eMp6VK8Hmtj3lkloXX))
+- A postdoctoral position is available with [**Dr. Tianchi Xin**](https://www.xinlab.org) at Georgia Cancer Center ([Details](https://t.co/dvbpDw8KzY))
 - A postdoctoral position is available with [**Dr. Sahib Khalsa**](https://www.linkedin.com/in/sahib-khalsa-22969a191/) at UCLA ([Details](https://www.linkedin.com/posts/sahib-khalsa-22969a191_interoception-activity-7503218946402115584-nunb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSUJekB4Mr_trW7y_cKbvT5HulJJ4hxIos))
 - A postdoctoral position is available with [**Dr. Natalie Porat-Shliom**](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom) at NIH/NCI ([Details](https://ccr.cancer.gov/staff-directory/natalie-porat-shliom#job-vacancies))
-- A postdoctoral position is available with [**Dr. Eder Zavala**](https://mbg-lab.org) at the University of Manchester ([Details](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=46012))
 - A postdoctoral position is available with [**Dr. Paul François**](https://www.francoisresearch.org) at Université de Montréal ([Details](https://www.francoisresearch.org/positions))
 
 &nbsp;
@@ -55,8 +55,8 @@ The dorsal vagal complex (DVC) includes a multi-component brainstem satiety cent
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
+| 2026 | Electrical synapses mediate visual orientation behavior | [**Dr. Giovanni Frighetto**](https://sites.lifesci.ucla.edu/ibp-frye/people/) (UCLA) |
 | 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
-| 2027 | Electrical synapses mediate visual orientation behavior | [**Dr. Giovanni Frighetto**](https://sites.lifesci.ucla.edu/ibp-frye/people/) (UCLA) |
 | 2027 | Cholinergic regulation of osteocyte mechanobiology | [**Dr. Karl J. Lewis**](https://www.kjlewislab.com) (Cornell University) |
 
 # Past Events in 2026:
