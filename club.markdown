@@ -56,7 +56,9 @@ The dorsal vagal complex (DVC) includes a multi-component brainstem satiety cent
 
 | **Date** | **Topic** | **Speaker(s)** |
 | 2026 | Electrical synapses mediate visual orientation behavior | [**Dr. Giovanni Frighetto**](https://sites.lifesci.ucla.edu/ibp-frye/people/) (UCLA) |
-| 2026 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
+| 2027 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
+| 2027 | Mammalian circadian rhythms and metabolism  | [**Dr. Julie Pendergast**](https://www.as.uky.edu/users/jpe277) (University of Kentucky) |
+| 2027 | Cross-sectional and longitudinal microbiome studies | [**Dr. Maggie Stanislawski**](https://som.cuanschutz.edu/Profiles/Faculty/Profile/29700) (CU Anschutz) |
 | 2027 | Cholinergic regulation of osteocyte mechanobiology | [**Dr. Karl J. Lewis**](https://www.kjlewislab.com) (Cornell University) |
 
 # Past Events in 2026:
