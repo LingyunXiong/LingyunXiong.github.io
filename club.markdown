@@ -34,20 +34,20 @@ Currently, we have **335** members. If you're new, sign up [**here**](http://eep
 &nbsp;
 &nbsp;
 
-# Dynamics Club in November: 
+# Dynamics Club in December: 
 
-### [**Deciphering circadian timekeeping in the brainstem satiety centre**](https://pubmed.ncbi.nlm.nih.gov/42550878/)
+### [**Electrical synapses mediate visual orientation behavior**](https://pubmed.ncbi.nlm.nih.gov/42896548/)
 
-Speaker: [**Lukasz Chrobok, PhD**](https://chrobok-lab.owlstown.net) (Senior Lecturer; University of Bristol)
+Speaker: [**Giovanni Frighetto, PhD**](https://sites.lifesci.ucla.edu/ibp-frye/people/) (Postdoctoral Fellow; UCLA)
 
-Date and Time: **November 4 (Wednesday)** at <ins>9am Pacific Time / 12pm Eastern Time / 5pm Greenwich Mean Time</ins>
+Date and Time: **December 18 (Friday)** at <ins>12pm Pacific Time / 3pm Eastern Time</ins>
 
-Virtual Event on **Zoom** (Meeting ID: 947 0224 4105; Passcode: 786550) 
+Hybrid Event: **TSLB 1100** and on **Zoom** (Meeting ID: 998 9338 6618; Passcode: 849638) 
 
 Abstract:\
-The dorsal vagal complex (DVC) includes a multi-component brainstem satiety centre which has gained attention as a key target of anti-obesity pharmacotherapies. Our recent studies revealed its circadian timekeeping properties, with molecular and electrophysiological 24 h rhythms persisting independently of the primary hypothalamic clock. However, the factors entraining these brainstem oscillators and the downstream transcriptional targets of the DVC molecular clock remain unclear. Here, using PERIOD2::LUCIFERASE reporter mice and fluorescent in situ hybridisation, we quantitatively demonstrate rhythms in core clock gene expression in the caudal DVC ex vivo and in vivo. We show that the molecular clock is associated with rhythmic expression of numerous neurotransmitter receptor genes in the DVC in vivo, with the phase of both clock and clock-controlled gene expression tightly regulated by meal timing. These findings uncover food-entrained circadian rhythms in the DVC and have important implications for clinical studies targeting brainstem satiety mechanisms.
+Animals constantly detect and orient toward salient visual objects, but the neural circuits underlying this process remain poorly understood. We previously showed that T3 neurons, a visual columnar cell type in Drosophila melanogaster, drive saccadic orientation toward visual landmarks during flight. Here, we identify LC17 neurons, a visual projection cell type, as T3 downstream partners for saccadic visual orientation. Using in vivo optical physiology and virtual reality behavior, we demonstrate that LC17 neurons are broadly tuned to visual objects and necessary for object tracking during flight. Notably, this tracking behavior depends on electrical synapses. We show that the innexin Shaking B (ShakB), which forms gap junctions in the fly brain, is highly expressed in LC17 dendrites. Additionally, LC17-specific knockdown of shakB perturbs the cell physiological visual response and impairs the behavioral readout of object motion vision for saccadic orientation. Our findings reveal the mechanisms underlying visual orientation and highlight the interplay between electrical and chemical neurotransmission for object detection and rapid action selection.
 
-![DynamicsClub](/images/DynamicsClub_Nov2026.pdf)
+![DynamicsClub](/images/DynamicsClub_Dec2026.pdf)
 
 &nbsp;
 &nbsp;
@@ -55,7 +55,6 @@ The dorsal vagal complex (DVC) includes a multi-component brainstem satiety cent
 # Scheduled Sessions:
 
 | **Date** | **Topic** | **Speaker(s)** |
-| 2026 | Electrical synapses mediate visual orientation behavior | [**Dr. Giovanni Frighetto**](https://sites.lifesci.ucla.edu/ibp-frye/people/) (UCLA) |
 | 2027 | Neurophysiological principles of reward | [**Dr. Annie Park**](https://www.dpag.ox.ac.uk/team/annie-park) <br /> (Oxford University) |
 | 2027 | Mammalian circadian rhythms and metabolism  | [**Dr. Julie Pendergast**](https://www.as.uky.edu/users/jpe277) (University of Kentucky) |
 | 2027 | Cross-sectional and longitudinal microbiome studies | [**Dr. Maggie Stanislawski**](https://som.cuanschutz.edu/Profiles/Faculty/Profile/29700) (CU Anschutz) |
@@ -73,6 +72,7 @@ The dorsal vagal complex (DVC) includes a multi-component brainstem satiety cent
 | Sep 9 | Capturing spatiotemporal organization of tissue-wide Ca2+ activity in skin vasculature | [**Anush Swaminathan, PhD**](https://medicine.yale.edu/profile/anush-swaminathan/) (Yale University) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42335226/) |
 | Sep 24 | Pericyte K<sub>ATP</sub> channel hyperactivity redistributes cortical blood flow | [**Danielle A. Jeffrey, PhD**](https://dabertrandlab.org/team/bio-jeffrey/) (CU Anschutz) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42547848/) |
 | Oct 15 | Sleep deprivation and intensity on cerebral vasomotion and cardiorespiratory brain pulsations | [**Sara M. Ulv Larsen, MD, PhD**](https://nru.dk/index.php/about-us/staff-list/99-associatedresearchers/286-sara-marie-larsen) (University of Copenhagen) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41264592/) |
+| Nov 4 | Deciphering circadian timekeeping in the brainstem satiety centre | [**Lukasz Chrobok, PhD**](https://chrobok-lab.owlstown.net) (University of Bristol) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/42550878/) |
 
 &nbsp;
 &nbsp; 
